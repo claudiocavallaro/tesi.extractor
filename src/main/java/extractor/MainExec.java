@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Main {
+public class MainExec {
 
     private static ArrayList<Preference> lista = new ArrayList<Preference>();
 
@@ -44,9 +44,8 @@ public class Main {
 
     public static String token = "";
 
-
     public static void main(String[] args) {
-        Main main = new Main();
+        MainExec mainExec = new MainExec();
 
         String fileInput = "/phone.json";
 
@@ -63,16 +62,17 @@ public class Main {
 
 
         if (contatore != 0) {
-            main.leggiJSON(fileInput);
-            main.exportData();
-            main.createJSONDB();
+            mainExec.leggiJSON(fileInput);
+            mainExec.exportData("single");
+            mainExec.exportData("duplication");
+            mainExec.createJSONDB();
         } else {
-            main.readJSONDB();
+            mainExec.readJSONDB();
         }
 
         for (int i = 0 ; i < properties.length; i++){
             String prop = properties[i];
-            main.ml(prop);
+            mainExec.ml(prop);
         }
     }
 
@@ -107,7 +107,7 @@ public class Main {
 
     public MLObject findNear(String car, float predicted){
         MLObject ml = new MLObject();
-        ml.setCar(car);
+        ml.setPredictedCar(car);
         try{
             int zero = 0;
             float predictedABS = Math.abs(predicted);
@@ -141,10 +141,9 @@ public class Main {
                     maxDistance = distance;
                     ml.setPreference(pref);
                     ml.getPreference().setTraccia(pref.getTraccia());
-                    ml.setDistance(maxDistance);
+                    ml.setDistancePredictedOriginal(maxDistance);
                 }
             }
-
 
             //System.out.println("MIN DISTANCE " + ml.getDistance());
             //System.out.println("PREFERENCE " + ml.getPreference().getPreference());
@@ -186,7 +185,7 @@ public class Main {
         ArrayList<MLObject> listMLObj = new ArrayList<>();
 
         try {
-            ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/duplication/"+ car +".arff");
+            ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/single/"+ car +".arff");
 
             Instances dataset = source.getDataSet();
 
@@ -216,7 +215,7 @@ public class Main {
             System.out.print("the expression for the input data as per alogorithm is ");
             System.out.println(rf);
 
-            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/duplication/" + car + ".json"));
+            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/single/" + car + ".json"));
 
             for (Prediction p : eval.predictions()) {
                 System.out.println(p.actual() + " " + p.predicted());
@@ -224,7 +223,6 @@ public class Main {
                 MLObject ml = findNear(car, (float) p.predicted());
                 listMLObj.add(ml);
             }
-
 
 
             String json = gson.toJson(listMLObj);
@@ -347,17 +345,17 @@ public class Main {
     //------------------------------------------------------------------
     //------------- CREATE ARFF ----------------------------------------
 
-    public void exportData() {
+    public void exportData(String quantity) {
         try {
 
             ArffObject obj = new ArffObject();
 
-            BufferedWriter writerLoud = new BufferedWriter(new FileWriter("outMod/duplication/loudness.arff"));
-            BufferedWriter writerDanc = new BufferedWriter(new FileWriter("outMod/duplication/danceability.arff"));
-            BufferedWriter writerEne = new BufferedWriter(new FileWriter("outMod/duplication/energy.arff"));
-            BufferedWriter writerSpec = new BufferedWriter(new FileWriter("outMod/duplication/speechiness.arff"));
-            BufferedWriter writerVal = new BufferedWriter(new FileWriter("outMod/duplication/valence.arff"));
-            BufferedWriter writerTempo = new BufferedWriter(new FileWriter("outMod/duplication/tempo.arff"));
+            BufferedWriter writerLoud = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/loudness.arff"));
+            BufferedWriter writerDanc = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/danceability.arff"));
+            BufferedWriter writerEne = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/energy.arff"));
+            BufferedWriter writerSpec = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/speechiness.arff"));
+            BufferedWriter writerVal = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/valence.arff"));
+            BufferedWriter writerTempo = new BufferedWriter(new FileWriter("outMod/"+ quantity +"/tempo.arff"));
 
             writerDanc.write("@relation danceability\n@attribute POWER numeric\n@attribute CAR numeric\n\n@data\n");
             writerEne.write("@relation energy\n@attribute POWER numeric\n@attribute CAR numeric\n\n@data\n");
@@ -369,11 +367,13 @@ public class Main {
             ArrayList<Preference> listaP = new ArrayList<Preference>();
             listaP.addAll(lista);
 
-            listaP.addAll(lista);
+            if (quantity.equals("duplication")){
+                listaP.addAll(lista);
 
-            listaP.addAll(lista);
+                listaP.addAll(lista);
 
-            listaP.addAll(lista);
+                listaP.addAll(lista);
+            }
 
             Collections.shuffle(listaP);
 

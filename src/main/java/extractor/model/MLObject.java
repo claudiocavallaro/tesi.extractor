@@ -8,16 +8,16 @@ public class MLObject {
 
     private Preference preference;
 
-    private String car;
-    private float distance;
+    private String predictedCar;
+    private float distancePredictedOriginal;
 
     @JsonCreator
     public MLObject(){}
 
-    public MLObject(Preference preference, String car, float distance) {
+    public MLObject(Preference preference, String predictedCar, float distancePredictedOriginal) {
         this.preference = preference;
-        this.car = car;
-        this.distance = distance;
+        this.predictedCar = predictedCar;
+        this.distancePredictedOriginal = distancePredictedOriginal;
     }
 
     public Preference getPreference() {
@@ -28,19 +28,19 @@ public class MLObject {
         this.preference = preference;
     }
 
-    public String getCar() {
-        return car;
+    public String getPredictedCar() {
+        return predictedCar;
     }
 
-    public void setCar(String car) {
-        this.car = car;
+    public void setPredictedCar(String predictedCar) {
+        this.predictedCar = predictedCar;
     }
 
-    public float getDistance() {
-        return distance;
+    public float getDistancePredictedOriginal() {
+        return distancePredictedOriginal;
     }
 
-    public void setDistance(float distance) {
-        this.distance = distance;
+    public void setDistancePredictedOriginal(float distancePredictedOriginal) {
+        this.distancePredictedOriginal = distancePredictedOriginal;
     }
 }
