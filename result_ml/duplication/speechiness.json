@@ -1,0 +1,1619 @@
+[
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.008059993
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 2.805777E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.008002952
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0034890696
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.5320256E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.5320256E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0065159947
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.012109995
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.5320256E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0017779991
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.007202506
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0022020005
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 446,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7HqzNuSl19gvm87vhlN8ME",
+        "name": "Waiting For Love",
+        "artist": "Avicii ",
+        "duration": 229760,
+        "loudness": -4.339,
+        "speechiness": 0.0481,
+        "danceability": 0.579,
+        "energy": 0.737,
+        "valence": 0.594,
+        "tempo": 128.062
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 4.542768E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 5.699992E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 9.266883E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0040806383
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 456,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0016423874
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0012444444
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0064644963
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 456,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0022943504
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 8.188151E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 971,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.003557764
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 2.805777E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.5320256E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0034890696
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 446,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7HqzNuSl19gvm87vhlN8ME",
+        "name": "Waiting For Love",
+        "artist": "Avicii ",
+        "duration": 229760,
+        "loudness": -4.339,
+        "speechiness": 0.0481,
+        "danceability": 0.579,
+        "energy": 0.737,
+        "valence": 0.594,
+        "tempo": 128.062
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 4.542768E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 494,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
+        "energy": 0.853,
+        "valence": 0.692,
+        "tempo": 119.939
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.019697994
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 971,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.013774425
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 8.188151E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 971,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0058680996
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 8.188151E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.012109995
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.007202506
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.007799998
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0116164535
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 971,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.013774425
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0010410585
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 446,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7HqzNuSl19gvm87vhlN8ME",
+        "name": "Waiting For Love",
+        "artist": "Avicii ",
+        "duration": 229760,
+        "loudness": -4.339,
+        "speechiness": 0.0481,
+        "danceability": 0.579,
+        "energy": 0.737,
+        "valence": 0.594,
+        "tempo": 128.062
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 2.0574778E-5
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0013570003
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 8.188151E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 8.5223466E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.010449991
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.004542902
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.5320256E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.010449991
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0024152473
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 37,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 1.0930002E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0026368797
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 456,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0016423874
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 3.799945E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0020799935
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0080412775
+  }
+]

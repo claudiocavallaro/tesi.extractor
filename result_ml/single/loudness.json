@@ -1,0 +1,422 @@
+[
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.057079792
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.028309822
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 37,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.23220444
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.028309822
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.04794264
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.20101976
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.04794264
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.13450003
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 390,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.05305481
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 494,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
+        "energy": 0.853,
+        "valence": 0.692,
+        "tempo": 119.939
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.053629875
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.19981337
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.04333973
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 953,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.015095711
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 37,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.23220444
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.03584957
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.04794264
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 443,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1C7XvLv4Boxi8bNleQRirt",
+        "name": "Jackie Chan",
+        "artist": "Tiësto Dzeko Preme Post Malone ",
+        "duration": 215760,
+        "loudness": -2.881,
+        "speechiness": 0.046,
+        "danceability": 0.745,
+        "energy": 0.838,
+        "valence": 0.714,
+        "tempo": 127.998
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.0029549599
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.08997822
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 494,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
+        "energy": 0.853,
+        "valence": 0.692,
+        "tempo": 119.939
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.00894022
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.0167799
+  }
+]
