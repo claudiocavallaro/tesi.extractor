@@ -1,0 +1,422 @@
+[
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
+      }
+    },
+    "car": "valence",
+    "distance": 0.007070005
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "car": "valence",
+    "distance": 0.002760008
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "valence",
+    "distance": 0.005196929
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "car": "valence",
+    "distance": 0.002760008
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "valence",
+    "distance": 0.0040393174
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "car": "valence",
+    "distance": 0.0041700006
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "valence",
+    "distance": 0.0040393174
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 341,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
+      }
+    },
+    "car": "valence",
+    "distance": 0.01782
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "car": "valence",
+    "distance": 0.008409977
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 341,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
+      }
+    },
+    "car": "valence",
+    "distance": 0.012780011
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
+      }
+    },
+    "car": "valence",
+    "distance": 0.013029993
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "car": "valence",
+    "distance": 0.04613
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "car": "valence",
+    "distance": 0.0032539666
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "valence",
+    "distance": 0.005196929
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 384,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1xEOoCGmv8rotFDo7n8GAg",
+        "name": "Power",
+        "artist": "Hardwell KSHMR ",
+        "duration": 148837,
+        "loudness": -4.063,
+        "speechiness": 0.108,
+        "danceability": 0.49,
+        "energy": 0.907,
+        "valence": 0.21,
+        "tempo": 132.057
+      }
+    },
+    "car": "valence",
+    "distance": 0.01884
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "valence",
+    "distance": 0.0040393174
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "car": "valence",
+    "distance": 0.0070302486
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 831,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
+      }
+    },
+    "car": "valence",
+    "distance": 0.035272032
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 341,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
+      }
+    },
+    "car": "valence",
+    "distance": 0.014880002
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
+      }
+    },
+    "car": "valence",
+    "distance": 0.0017900467
+  }
+]

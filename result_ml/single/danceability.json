@@ -1,0 +1,422 @@
+[
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0038466454
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008390009
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0014375448
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008390009
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0015574694
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "car": "danceability",
+    "distance": 0.009016693
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0015574694
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 390,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0011399984
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "car": "danceability",
+    "distance": 2.4300814E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 390,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
+      }
+    },
+    "car": "danceability",
+    "distance": 0.00472337
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 443,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "1C7XvLv4Boxi8bNleQRirt",
+        "name": "Jackie Chan",
+        "artist": "Tiësto Dzeko Preme Post Malone ",
+        "duration": 215760,
+        "loudness": -2.881,
+        "speechiness": 0.046,
+        "danceability": 0.745,
+        "energy": 0.838,
+        "valence": 0.714,
+        "tempo": 127.998
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0058933496
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 390,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
+      }
+    },
+    "car": "danceability",
+    "distance": 0.005240023
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "danceability",
+    "distance": 3.7038326E-4
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 367,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0014375448
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008590043
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "danceability",
+    "distance": 0.0015574694
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 38,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
+      }
+    },
+    "car": "danceability",
+    "distance": 8.058548E-5
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 1023,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008158028
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 419,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008390009
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 392,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
+      }
+    },
+    "car": "danceability",
+    "distance": 0.008530021
+  }
+]
