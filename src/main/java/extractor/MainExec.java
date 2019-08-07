@@ -28,6 +28,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Random;
 
 public class MainExec {
 
@@ -181,11 +182,11 @@ public class MainExec {
 
     private void ml(String car) {
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        ArrayList<MLObject> listMLObj = new ArrayList<>();
+        //Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        //ArrayList<MLObject> listMLObj = new ArrayList<>();
 
         try {
-            ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/single/"+ car +".arff");
+            ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/duplication/"+ car +".arff");
 
             Instances dataset = source.getDataSet();
 
@@ -198,7 +199,7 @@ public class MainExec {
             trainSet.setClassIndex(trainSet.numAttributes() - 1);
             set.setClassIndex(set.numAttributes() - 1);
 
-            //System.out.println(testSet.numInstances() + " " + trainSet.numInstances() + " " + dataset.numInstances());
+            //System.out.println(set.numInstances() + " " + trainSet.numInstances() + " " + dataset.numInstances());
 
             Instances testSet = prepareSet(set);
             testSet.setClassIndex(testSet.numAttributes() - 1);
@@ -208,26 +209,26 @@ public class MainExec {
             rf.buildClassifier(trainSet);
 
             Evaluation eval = new Evaluation(trainSet);
-            eval.evaluateModel(rf, testSet);
+            eval.evaluateModel(rf, set);
 
             System.out.println(eval.toSummaryString());
 
             System.out.print("the expression for the input data as per alogorithm is ");
             System.out.println(rf);
 
-            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/single/" + car + ".json"));
+            //BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/duplication/" + car + ".json"));
 
             for (Prediction p : eval.predictions()) {
                 System.out.println(p.actual() + " " + p.predicted());
 
-                MLObject ml = findNear(car, (float) p.predicted());
-                listMLObj.add(ml);
+                //MLObject ml = findNear(car, (float) p.predicted());
+                //listMLObj.add(ml);
             }
 
 
-            String json = gson.toJson(listMLObj);
-            bf.write(json);
-            bf.close();
+            //String json = gson.toJson(listMLObj);
+            //bf.write(json);
+            //bf.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
