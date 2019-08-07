@@ -38,6 +38,8 @@ public class MainExec {
     public static final String clientId = "143e6b65125042178bcf14796211d5d2";
     public static final String clientSecret = "c39a44105867434396c5dbecbce77a8e";
 
+    private File file = new File("result_ml/single/summary.txt");
+    private FileWriter fr = null;
 
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
     private static String[] output = {"danceability.arff", "energy.arff", "loudness.arff", "speechiness.arff", "valence.arff", "tempo.arff"};
@@ -182,8 +184,8 @@ public class MainExec {
 
     private void ml(String car) {
 
-        //Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        //ArrayList<MLObject> listMLObj = new ArrayList<>();
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        ArrayList<MLObject> listMLObj = new ArrayList<>();
 
         try {
             ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/duplication/"+ car +".arff");
@@ -209,7 +211,13 @@ public class MainExec {
             rf.buildClassifier(trainSet);
 
             Evaluation eval = new Evaluation(trainSet);
-            eval.evaluateModel(rf, set);
+            eval.evaluateModel(rf, testSet);
+
+            /*fr = new FileWriter(file, true);
+
+            fr.write("------ SUMMARY " + car + " SINGLE " + " ----- \n");
+            fr.write(eval.toSummaryString() + "\n");
+            fr.close();*/
 
             System.out.println(eval.toSummaryString());
 
@@ -221,12 +229,12 @@ public class MainExec {
             for (Prediction p : eval.predictions()) {
                 System.out.println(p.actual() + " " + p.predicted());
 
-                //MLObject ml = findNear(car, (float) p.predicted());
-                //listMLObj.add(ml);
+                MLObject ml = findNear(car, (float) p.predicted());
+                listMLObj.add(ml);
             }
 
 
-            //String json = gson.toJson(listMLObj);
+            String json = gson.toJson(listMLObj);
             //bf.write(json);
             //bf.close();
         } catch (Exception e) {
