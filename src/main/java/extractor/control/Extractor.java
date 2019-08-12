@@ -1,4 +1,4 @@
-package extractor;
+package extractor.control;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -15,13 +15,10 @@ public class Extractor {
     private static ArrayList<MLObject> mlObjectArrayList = new ArrayList<>();
 
     private static String[] output = {"danceability.json", "energy.json", "loudness.json", "speechiness.json", "valence.json", "tempo.json"};
-    private static String[] path = {"result_ml/single/", "result_ml/duplication/"};
+    private static String[] path = {"result_ml/single/", "result_ml/duplication/", "result_ml_cv/single/", "result_ml_cv/duplication/"};
 
-
-    public static void main(String[] args) {
-        Extractor extractor = new Extractor();
-
-        extractor.readJSON();
+    public Extractor(){
+        readJSON();
     }
 
     private void readJSON() {

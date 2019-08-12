@@ -11,16 +11,23 @@ import com.wrapper.spotify.model_objects.specification.Track;
 import com.wrapper.spotify.requests.authorization.client_credentials.ClientCredentialsRequest;
 import com.wrapper.spotify.requests.data.tracks.GetAudioFeaturesForTrackRequest;
 import com.wrapper.spotify.requests.data.tracks.GetTrackRequest;
+import extractor.control.Extractor;
+import extractor.control.MachineLearning;
+import extractor.control.MachineLearningCV;
 import extractor.model.MLObject;
 import extractor.model.ArffObject;
 import extractor.model.Preference;
 import extractor.model.Traccia;
+import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.RandomForest;
+import weka.classifiers.trees.RandomTree;
 import weka.core.Instances;
+import weka.core.Utils;
 import weka.core.converters.ConverterUtils;
 import weka.filters.Filter;
+import weka.filters.supervised.attribute.AddClassification;
 import weka.filters.unsupervised.attribute.Add;
 import weka.filters.unsupervised.attribute.Remove;
 
@@ -38,14 +45,19 @@ public class MainExec {
     public static final String clientId = "143e6b65125042178bcf14796211d5d2";
     public static final String clientSecret = "c39a44105867434396c5dbecbce77a8e";
 
-    private File file = new File("result_ml/single/summary.txt");
-    private FileWriter fr = null;
 
-    private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
     private static String[] output = {"danceability.arff", "energy.arff", "loudness.arff", "speechiness.arff", "valence.arff", "tempo.arff"};
     private static String[] path = {"outMod/single/", "outMod/duplication/"};
 
     public static String token = "";
+
+    public static ArrayList<Preference> getLista() {
+        return lista;
+    }
+
+    public static void setLista(ArrayList<Preference> lista) {
+        MainExec.lista = lista;
+    }
 
     public static void main(String[] args) {
         MainExec mainExec = new MainExec();
@@ -73,13 +85,14 @@ public class MainExec {
             mainExec.readJSONDB();
         }
 
-        for (int i = 0 ; i < properties.length; i++){
-            String prop = properties[i];
-            mainExec.ml(prop);
-        }
+
+        //MachineLearningCV ml = new MachineLearningCV();
+
+        Extractor e = new Extractor();
+
     }
 
-    //----------------------------------------------------------------
+    //---------------------------------------------------------------------------
     private void readJSONDB() {
         Gson gson = new Gson();
         try {
@@ -103,146 +116,7 @@ public class MainExec {
         }
 
     }
-
-    //----------------------------------------------------------------
-
-    //-------------------- ML ----------------------------------------
-
-    public MLObject findNear(String car, float predicted){
-        MLObject ml = new MLObject();
-        ml.setPredictedCar(car);
-        try{
-            int zero = 0;
-            float predictedABS = Math.abs(predicted);
-            float maxDistance = predictedABS - zero;
-            for (Preference pref : lista){
-                float myNumber = 0;
-                float prefNum = new Float(pref.getPreference());
-                switch (car){
-                    case "danceability":
-                        myNumber = pref.getTraccia().getDanceability();
-                        break;
-                    case "energy":
-                        myNumber = pref.getTraccia().getEnergy();
-                        break;
-                    case "loudness":
-                        myNumber = Math.abs(pref.getTraccia().getLoudness());
-                        break;
-                    case "speechiness":
-                        myNumber = pref.getTraccia().getSpeechiness();
-                        break;
-                    case "valence":
-                        myNumber = pref.getTraccia().getValence();
-                        break;
-                    case "tempo":
-                        myNumber = pref.getTraccia().getTempo();
-                        break;
-                }
-
-                float distance = Math.abs(myNumber - predictedABS);
-                if ((distance < maxDistance) && (prefNum > 3)){
-                    maxDistance = distance;
-                    ml.setPreference(pref);
-                    ml.getPreference().setTraccia(pref.getTraccia());
-                    ml.setDistancePredictedOriginal(maxDistance);
-                }
-            }
-
-            //System.out.println("MIN DISTANCE " + ml.getDistance());
-            //System.out.println("PREFERENCE " + ml.getPreference().getPreference());
-            //System.out.println(ml.getPreference().getTraccia().toString());
-
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-
-        return ml;
-    }
-
-    public Instances prepareSet(Instances testSet) {
-        Instances neww = null;
-        try {
-            int[] att = {0};
-            Remove removeFilter = new Remove();
-            removeFilter.setAttributeIndicesArray(att);
-            removeFilter.setInvertSelection(true);
-            removeFilter.setInputFormat(testSet);
-            Instances newData = Filter.useFilter(testSet, removeFilter);
-
-            Add add = new Add();
-            add.setAttributeName("CAR");
-            add.setInputFormat(newData);
-
-            neww = Filter.useFilter(newData, add);
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-        return neww;
-    }
-
-    private void ml(String car) {
-
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        ArrayList<MLObject> listMLObj = new ArrayList<>();
-
-        try {
-            ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/duplication/"+ car +".arff");
-
-            Instances dataset = source.getDataSet();
-
-            int trainSize = (int) Math.round(dataset.numInstances() * 80 / 100);
-            int testSize = dataset.numInstances() - trainSize;
-
-            Instances trainSet = new Instances(dataset, 0, trainSize);
-            Instances set = new Instances(dataset, trainSize, testSize);
-
-            trainSet.setClassIndex(trainSet.numAttributes() - 1);
-            set.setClassIndex(set.numAttributes() - 1);
-
-            //System.out.println(set.numInstances() + " " + trainSet.numInstances() + " " + dataset.numInstances());
-
-            Instances testSet = prepareSet(set);
-            testSet.setClassIndex(testSet.numAttributes() - 1);
-
-            RandomForest rf = new RandomForest();
-            rf.setNumIterations(100);
-            rf.buildClassifier(trainSet);
-
-            Evaluation eval = new Evaluation(trainSet);
-            eval.evaluateModel(rf, testSet);
-
-            /*fr = new FileWriter(file, true);
-
-            fr.write("------ SUMMARY " + car + " SINGLE " + " ----- \n");
-            fr.write(eval.toSummaryString() + "\n");
-            fr.close();*/
-
-            System.out.println(eval.toSummaryString());
-
-            System.out.print("the expression for the input data as per alogorithm is ");
-            System.out.println(rf);
-
-            //BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/duplication/" + car + ".json"));
-
-            for (Prediction p : eval.predictions()) {
-                System.out.println(p.actual() + " " + p.predicted());
-
-                MLObject ml = findNear(car, (float) p.predicted());
-                listMLObj.add(ml);
-            }
-
-
-            String json = gson.toJson(listMLObj);
-            //bf.write(json);
-            //bf.close();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-
-    }
-
+    //-------------------------------------------------------------------------
     //--------------- CREATE LIST AND EXPORT DATA -----------------------------
 
     private void leggiJSON(String s) {

@@ -1,4 +1,4 @@
------- SUMMARY danceability SINGLE  ----- 
+------ SUMMARY danceabilitysingle ----- 
 
 Correlation coefficient                 -0.1865
 Mean absolute error                      0.1175
@@ -7,7 +7,7 @@ Relative absolute error                110.9509 %
 Root relative squared error            119.9813 %
 Total Number of Instances               20     
 
------- SUMMARY speechiness SINGLE  ----- 
+------ SUMMARY speechinesssingle ----- 
 
 Correlation coefficient                  0.3107
 Mean absolute error                      0.0805
@@ -16,7 +16,7 @@ Relative absolute error                101.1624 %
 Root relative squared error            100.2105 %
 Total Number of Instances               20     
 
------- SUMMARY energy SINGLE  ----- 
+------ SUMMARY energysingle ----- 
 
 Correlation coefficient                 -0.2336
 Mean absolute error                      0.1176
@@ -25,7 +25,7 @@ Relative absolute error                122.7283 %
 Root relative squared error            123.153  %
 Total Number of Instances               20     
 
------- SUMMARY loudness SINGLE  ----- 
+------ SUMMARY loudnesssingle ----- 
 
 Correlation coefficient                 -0.0204
 Mean absolute error                      1.368 
@@ -34,7 +34,7 @@ Relative absolute error                121.5925 %
 Root relative squared error            115.6466 %
 Total Number of Instances               20     
 
------- SUMMARY valence SINGLE  ----- 
+------ SUMMARY valencesingle ----- 
 
 Correlation coefficient                  0.0722
 Mean absolute error                      0.2647
@@ -43,7 +43,7 @@ Relative absolute error                104.2092 %
 Root relative squared error            115.2371 %
 Total Number of Instances               20     
 
------- SUMMARY tempo SINGLE  ----- 
+------ SUMMARY temposingle ----- 
 
 Correlation coefficient                  0.0622
 Mean absolute error                     25.8377
