@@ -91,6 +91,31 @@ public class Traccia {
     @JsonCreator
     public Traccia(){}
 
+    public float getNumber(String car){
+        float myNumber = 0;
+        switch (car){
+            case "danceability":
+                myNumber = danceability;
+                break;
+            case "energy":
+                myNumber = energy;
+                break;
+            case "loudness":
+                myNumber = loudness;
+                break;
+            case "speechiness":
+                myNumber =speechiness;
+                break;
+            case "valence":
+                myNumber = valence;
+                break;
+            case "tempo":
+                myNumber = tempo;
+                break;
+        }
+        return myNumber;
+    }
+
 
     public String toString(){
         return "NAME : " + name + "\nARTIST : " + artist + "\n";

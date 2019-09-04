@@ -90,9 +90,9 @@ public class MachineLearning {
                 }
             }
 
-            //System.out.println("MIN DISTANCE " + ml.getDistance());
-            //System.out.println("PREFERENCE " + ml.getPreference().getPreference());
-            //System.out.println(ml.getPreference().getTraccia().toString());
+            System.out.println("MIN " + car + " FROM PREDICTED " + ml.getPreference().getTraccia().getNumber(car));
+            System.out.println("MIN DISTANCE " + ml.getDistancePredictedOriginal());
+            System.out.println("PREFERENCE \n" + ml.getPreference().getTraccia() + "VOTE " + ml.getPreference().getPreference() + "\n");
 
         }catch (Exception e){
             e.printStackTrace();
@@ -169,7 +169,7 @@ public class MachineLearning {
             BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/" + mode + "/" + car + ".json"));
 
             for (Prediction p : eval.predictions()) {
-                System.out.println(p.actual() + " " + p.predicted());
+                System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
 
                 MLObject ml = findNear(car, (float) p.predicted());
                 listMLObj.add(ml);
