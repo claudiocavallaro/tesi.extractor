@@ -1,54 +1,54 @@
 ------ SUMMARY danceabilityduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.8768
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.8779
 Mean absolute error                      0.0266
-Root mean squared error                  0.0556
-Relative absolute error                 27.7711 %
-Root relative squared error             48.0874 %
+Root mean squared error                  0.0553
+Relative absolute error                 27.7224 %
+Root relative squared error             47.8954 %
 Total Number of Instances              384     
 
 ------ SUMMARY speechinessduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.8079
-Mean absolute error                      0.029 
-Root mean squared error                  0.0579
-Relative absolute error                 32.9958 %
-Root relative squared error             58.9416 %
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.8055
+Mean absolute error                      0.0293
+Root mean squared error                  0.0583
+Relative absolute error                 33.2781 %
+Root relative squared error             59.2706 %
 Total Number of Instances              384     
 
 ------ SUMMARY energyduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.8446
-Mean absolute error                      0.0281
-Root mean squared error                  0.0574
-Relative absolute error                 34.8274 %
-Root relative squared error             53.6139 %
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.8507
+Mean absolute error                      0.0279
+Root mean squared error                  0.0563
+Relative absolute error                 34.6117 %
+Root relative squared error             52.5895 %
 Total Number of Instances              384     
 
 ------ SUMMARY loudnessduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.7725
-Mean absolute error                      0.514 
-Root mean squared error                  1.0706
-Relative absolute error                 41.5871 %
-Root relative squared error             63.6902 %
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.785 
+Mean absolute error                      0.5109
+Root mean squared error                  1.0428
+Relative absolute error                 41.3399 %
+Root relative squared error             62.0363 %
 Total Number of Instances              384     
 
 ------ SUMMARY valenceduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.8786
-Mean absolute error                      0.0583
-Root mean squared error                  0.1119
-Relative absolute error                 28.2412 %
-Root relative squared error             47.7623 %
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.8774
+Mean absolute error                      0.0587
+Root mean squared error                  0.1124
+Relative absolute error                 28.4233 %
+Root relative squared error             47.983  %
 Total Number of Instances              384     
 
 ------ SUMMARY tempoduplication ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.8194
-Mean absolute error                      7.2506
-Root mean squared error                 15.9822
-Relative absolute error                 33.718  %
-Root relative squared error             57.3456 %
+=== 384-fold Cross-validation ===
+Correlation coefficient                  0.8191
+Mean absolute error                      7.2484
+Root mean squared error                 15.992 
+Relative absolute error                 33.7076 %
+Root relative squared error             57.3806 %
 Total Number of Instances              384     
 

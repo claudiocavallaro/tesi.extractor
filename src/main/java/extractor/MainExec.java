@@ -11,31 +11,15 @@ import com.wrapper.spotify.model_objects.specification.Track;
 import com.wrapper.spotify.requests.authorization.client_credentials.ClientCredentialsRequest;
 import com.wrapper.spotify.requests.data.tracks.GetAudioFeaturesForTrackRequest;
 import com.wrapper.spotify.requests.data.tracks.GetTrackRequest;
-import extractor.control.Extractor;
-import extractor.control.MachineLearning;
 import extractor.control.MachineLearningCV;
-import extractor.model.MLObject;
 import extractor.model.ArffObject;
 import extractor.model.Preference;
 import extractor.model.Traccia;
-import weka.classifiers.Classifier;
-import weka.classifiers.Evaluation;
-import weka.classifiers.evaluation.Prediction;
-import weka.classifiers.trees.RandomForest;
-import weka.classifiers.trees.RandomTree;
-import weka.core.Instances;
-import weka.core.Utils;
-import weka.core.converters.ConverterUtils;
-import weka.filters.Filter;
-import weka.filters.supervised.attribute.AddClassification;
-import weka.filters.unsupervised.attribute.Add;
-import weka.filters.unsupervised.attribute.Remove;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Random;
 
 public class MainExec {
 
@@ -86,9 +70,9 @@ public class MainExec {
         }
 
 
-        //MachineLearning ml = new MachineLearning();
+        MachineLearningCV ml = new MachineLearningCV();
 
-        Extractor e = new Extractor();
+        //Extractor e = new Extractor();
 
     }
 

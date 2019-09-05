@@ -1,54 +1,54 @@
 ------ SUMMARY danceabilitysingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                  0.0174
-Mean absolute error                      0.1171
-Root mean squared error                  0.1555
-Relative absolute error                122.2433 %
-Root relative squared error            134.6304 %
+=== 96-fold Cross-validation ===
+Correlation coefficient                 -0.0205
+Mean absolute error                      0.1185
+Root mean squared error                  0.1589
+Relative absolute error                123.7586 %
+Root relative squared error            137.549  %
 Total Number of Instances               96     
 
 ------ SUMMARY speechinesssingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                 -0.0007
-Mean absolute error                      0.0999
-Root mean squared error                  0.127 
-Relative absolute error                113.6524 %
-Root relative squared error            129.173  %
+=== 96-fold Cross-validation ===
+Correlation coefficient                  0.0914
+Mean absolute error                      0.0944
+Root mean squared error                  0.1212
+Relative absolute error                107.3734 %
+Root relative squared error            123.2807 %
 Total Number of Instances               96     
 
 ------ SUMMARY energysingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                 -0.0174
-Mean absolute error                      0.1008
-Root mean squared error                  0.1403
-Relative absolute error                124.979  %
-Root relative squared error            130.9273 %
+=== 96-fold Cross-validation ===
+Correlation coefficient                 -0.023 
+Mean absolute error                      0.102 
+Root mean squared error                  0.1394
+Relative absolute error                126.463  %
+Root relative squared error            130.0789 %
 Total Number of Instances               96     
 
 ------ SUMMARY loudnesssingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                 -0.1253
-Mean absolute error                      1.6001
-Root mean squared error                  2.2574
-Relative absolute error                129.476  %
-Root relative squared error            134.2862 %
+=== 96-fold Cross-validation ===
+Correlation coefficient                 -0.1473
+Mean absolute error                      1.6319
+Root mean squared error                  2.2714
+Relative absolute error                132.0481 %
+Root relative squared error            135.1215 %
 Total Number of Instances               96     
 
 ------ SUMMARY valencesingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                 -0.1278
-Mean absolute error                      0.2662
-Root mean squared error                  0.3269
-Relative absolute error                128.8777 %
-Root relative squared error            139.5505 %
+=== 96-fold Cross-validation ===
+Correlation coefficient                 -0.1282
+Mean absolute error                      0.269 
+Root mean squared error                  0.33  
+Relative absolute error                130.2475 %
+Root relative squared error            140.8444 %
 Total Number of Instances               96     
 
 ------ SUMMARY temposingle ----- 
-=== 10-fold Cross-validation ===
-Correlation coefficient                 -0.0724
-Mean absolute error                     27.5177
-Root mean squared error                 36.5982
-Relative absolute error                127.967  %
-Root relative squared error            131.3172 %
+=== 96-fold Cross-validation ===
+Correlation coefficient                 -0.1089
+Mean absolute error                     28.4774
+Root mean squared error                 37.7821
+Relative absolute error                132.4299 %
+Root relative squared error            135.5652 %
 Total Number of Instances               96     
 

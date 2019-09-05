@@ -60,7 +60,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -81,7 +81,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0012558103
+    "distancePredictedOriginal": 0.003723383
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "danceability",
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -102,28 +123,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006944418
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 392,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
-      }
-    },
-    "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 8.4745884E-4
   },
   {
     "preference": {
@@ -228,7 +228,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 8.983016E-4
   },
   {
     "preference": {
@@ -291,7 +291,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 0.0034745336
   },
   {
     "preference": {
@@ -375,7 +375,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 0.0039491653
   },
   {
     "preference": {
@@ -396,7 +396,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00850004
+    "distancePredictedOriginal": 0.0051428676
   },
   {
     "preference": {
@@ -438,7 +438,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0012558103
+    "distancePredictedOriginal": 4.2551756E-4
   },
   {
     "preference": {
@@ -459,7 +459,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0012558103
+    "distancePredictedOriginal": 4.2551756E-4
   },
   {
     "preference": {
@@ -543,7 +543,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0012558103
+    "distancePredictedOriginal": 0.0042127967
   },
   {
     "preference": {
@@ -585,7 +585,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0012558103
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -648,28 +648,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.8519163E-4
+    "distancePredictedOriginal": 0.0035592914
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 419,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
-        "name": "Burn Out (feat. Dewain Whitmore)",
-        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
-        "duration": 200322,
-        "loudness": -5.751,
-        "speechiness": 0.0398,
-        "danceability": 0.594,
-        "energy": 0.722,
-        "valence": 0.407,
-        "tempo": 127.877
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00850004
+    "distancePredictedOriginal": 0.010142863
   },
   {
     "preference": {
@@ -774,7 +774,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006944418
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -879,7 +879,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -900,28 +900,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00879997
+    "distancePredictedOriginal": 0.010142863
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00879997
+    "distancePredictedOriginal": 0.0051428676
   },
   {
     "preference": {
@@ -942,7 +942,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -1047,7 +1047,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -1110,7 +1110,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0028799772
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -1173,7 +1173,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -1362,7 +1362,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.0024468303
   },
   {
     "preference": {
@@ -1467,7 +1467,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00879997
+    "distancePredictedOriginal": 0.010142863
   },
   {
     "preference": {
@@ -1488,7 +1488,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0028799772
+    "distancePredictedOriginal": 8.4745884E-4
   },
   {
     "preference": {
@@ -1509,7 +1509,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0028799772
+    "distancePredictedOriginal": 0.0019999743
   },
   {
     "preference": {
@@ -1551,7 +1551,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013571382
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -1593,7 +1593,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0028799772
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -1635,7 +1635,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0028799772
+    "distancePredictedOriginal": 0.005610168
   },
   {
     "preference": {
@@ -1677,7 +1677,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -1740,7 +1740,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.001847446
   },
   {
     "preference": {
@@ -1782,7 +1782,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0014374852
+    "distancePredictedOriginal": 0.0053684115
   },
   {
     "preference": {
@@ -1824,7 +1824,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0014374852
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -1866,7 +1866,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 8.983016E-4
   },
   {
     "preference": {
@@ -1887,7 +1887,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0014374852
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -1955,23 +1955,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0014374852
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -1992,7 +1992,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.001847446
   },
   {
     "preference": {
@@ -2039,23 +2039,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 443,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1C7XvLv4Boxi8bNleQRirt",
-        "name": "Jackie Chan",
-        "artist": "Tiësto Dzeko Preme Post Malone ",
-        "duration": 215760,
-        "loudness": -2.881,
-        "speechiness": 0.046,
-        "danceability": 0.745,
-        "energy": 0.838,
-        "valence": 0.714,
-        "tempo": 127.998
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0045000315
+    "distancePredictedOriginal": 0.004857123
   },
   {
     "preference": {
@@ -2097,7 +2097,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -2123,23 +2123,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 38,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2dpaYNEQHiRxtZbfNsse99",
-        "name": "Happier",
-        "artist": "Marshmello Bastille ",
-        "duration": 214289,
-        "loudness": -2.749,
-        "speechiness": 0.0452,
-        "danceability": 0.687,
-        "energy": 0.792,
-        "valence": 0.671,
-        "tempo": 100.015
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.3631582E-4
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -2181,7 +2181,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0045000315
+    "distancePredictedOriginal": 0.0038571358
   },
   {
     "preference": {
@@ -2207,23 +2207,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 38,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2dpaYNEQHiRxtZbfNsse99",
-        "name": "Happier",
-        "artist": "Marshmello Bastille ",
-        "duration": 214289,
-        "loudness": -2.749,
-        "speechiness": 0.0452,
-        "danceability": 0.687,
-        "energy": 0.792,
-        "valence": 0.671,
-        "tempo": 100.015
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.3631582E-4
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -2244,7 +2244,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -2333,23 +2333,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 38,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2dpaYNEQHiRxtZbfNsse99",
-        "name": "Happier",
-        "artist": "Marshmello Bastille ",
-        "duration": 214289,
-        "loudness": -2.749,
-        "speechiness": 0.0452,
-        "danceability": 0.687,
-        "energy": 0.792,
-        "valence": 0.671,
-        "tempo": 100.015
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.3631582E-4
+    "distancePredictedOriginal": 4.2551756E-4
   },
   {
     "preference": {
@@ -2370,28 +2370,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004509449
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 38,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2dpaYNEQHiRxtZbfNsse99",
-        "name": "Happier",
-        "artist": "Marshmello Bastille ",
-        "duration": 214289,
-        "loudness": -2.749,
-        "speechiness": 0.0452,
-        "danceability": 0.687,
-        "energy": 0.792,
-        "valence": 0.671,
-        "tempo": 100.015
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 1.3631582E-4
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -2459,44 +2459,44 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.005610168
   },
   {
     "preference": {
@@ -2601,7 +2601,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006021738
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -2648,44 +2648,44 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.005610168
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -2732,23 +2732,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -2979,49 +2979,49 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0065000057
+    "distancePredictedOriginal": 0.0018571615
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.005610168
   },
   {
     "preference": {
@@ -3105,7 +3105,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006021738
+    "distancePredictedOriginal": 0.0042127967
   },
   {
     "preference": {
@@ -3126,7 +3126,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003000021
+    "distancePredictedOriginal": 0.0038571358
   },
   {
     "preference": {
@@ -3152,23 +3152,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 390,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0065000057
+    "distancePredictedOriginal": 0.004142821
   },
   {
     "preference": {
@@ -3231,7 +3231,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003000021
+    "distancePredictedOriginal": 0.0038571358
   },
   {
     "preference": {
@@ -3257,23 +3257,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010576844
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -3336,7 +3336,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.005277753
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -3357,7 +3357,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013333559
+    "distancePredictedOriginal": 0.0017142892
   },
   {
     "preference": {
@@ -3378,7 +3378,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.222393E-4
+    "distancePredictedOriginal": 0.0024468303
   },
   {
     "preference": {
@@ -3488,23 +3488,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -3525,7 +3525,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0013333559
+    "distancePredictedOriginal": 0.0017142892
   },
   {
     "preference": {
@@ -3551,23 +3551,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0039491653
   },
   {
     "preference": {
@@ -3593,23 +3593,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0039491653
   },
   {
     "preference": {
@@ -3651,7 +3651,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.222393E-4
+    "distancePredictedOriginal": 4.2551756E-4
   },
   {
     "preference": {
@@ -3719,23 +3719,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0034745336
   },
   {
     "preference": {
@@ -3761,23 +3761,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.005277753
+    "distancePredictedOriginal": 0.0053684115
   },
   {
     "preference": {
@@ -3824,86 +3824,86 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0034745336
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0035592914
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
-        "name": "In My Mind",
-        "artist": "Dynoro ",
-        "duration": 179124,
-        "loudness": -6.683,
-        "speechiness": 0.249,
-        "danceability": 0.676,
-        "energy": 0.692,
-        "valence": 0.111,
-        "tempo": 125.966
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0059230924
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -4008,7 +4008,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.222393E-4
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -4176,7 +4176,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -4218,7 +4218,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -4260,7 +4260,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 8.4745884E-4
   },
   {
     "preference": {
@@ -4302,7 +4302,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -4323,7 +4323,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0035592914
   },
   {
     "preference": {
@@ -4365,7 +4365,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -4386,7 +4386,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -4470,7 +4470,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -4491,7 +4491,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.0024468303
   },
   {
     "preference": {
@@ -4512,7 +4512,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -4617,7 +4617,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 8.983016E-4
   },
   {
     "preference": {
@@ -4764,7 +4764,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0015577078
+    "distancePredictedOriginal": 0.0034745336
   },
   {
     "preference": {
@@ -4785,7 +4785,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 2.2220612E-4
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -4827,7 +4827,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.0064042807
   },
   {
     "preference": {
@@ -4848,7 +4848,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008142889
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -4869,7 +4869,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 2.2220612E-4
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -5100,7 +5100,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004000008
+    "distancePredictedOriginal": 0.004857123
   },
   {
     "preference": {
@@ -5142,7 +5142,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003186047
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -5184,7 +5184,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.0000677E-4
+    "distancePredictedOriginal": 2.8568506E-4
   },
   {
     "preference": {
@@ -5205,7 +5205,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003186047
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -5226,7 +5226,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0035592914
   },
   {
     "preference": {
@@ -5247,7 +5247,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -5289,7 +5289,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0019999743
   },
   {
     "preference": {
@@ -5310,7 +5310,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0019999743
   },
   {
     "preference": {
@@ -5352,7 +5352,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -5394,7 +5394,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.0000677E-4
+    "distancePredictedOriginal": 2.8574467E-4
   },
   {
     "preference": {
@@ -5436,7 +5436,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003186047
+    "distancePredictedOriginal": 0.0024468303
   },
   {
     "preference": {
@@ -5478,7 +5478,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 8.4745884E-4
   },
   {
     "preference": {
@@ -5499,7 +5499,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0025848746
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -5520,7 +5520,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 4.0000677E-4
+    "distancePredictedOriginal": 2.8574467E-4
   },
   {
     "preference": {
@@ -5562,7 +5562,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003186047
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -5583,7 +5583,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.004000008
+    "distancePredictedOriginal": 0.004857123
   },
   {
     "preference": {
@@ -5625,7 +5625,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.003186047
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -5772,7 +5772,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -5940,7 +5940,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -6024,7 +6024,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -6066,7 +6066,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0027142763
+    "distancePredictedOriginal": 0.0039491653
   },
   {
     "preference": {
@@ -6150,7 +6150,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -6192,7 +6192,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.0042127967
   },
   {
     "preference": {
@@ -6213,7 +6213,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0027142763
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -6318,7 +6318,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0027142763
+    "distancePredictedOriginal": 0.001847446
   },
   {
     "preference": {
@@ -6339,7 +6339,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0027142763
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -6360,7 +6360,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.0064042807
   },
   {
     "preference": {
@@ -6465,7 +6465,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0021951199
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -6570,7 +6570,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -6717,7 +6717,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017758608
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -6759,7 +6759,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.0042127967
   },
   {
     "preference": {
@@ -6822,7 +6822,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017758608
+    "distancePredictedOriginal": 0.0019999743
   },
   {
     "preference": {
@@ -6906,7 +6906,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -6927,7 +6927,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.003723383
   },
   {
     "preference": {
@@ -6969,7 +6969,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.0016170144
   },
   {
     "preference": {
@@ -7016,23 +7016,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006944418
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -7179,7 +7179,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0010476112
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -7242,7 +7242,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.006944418
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -7284,7 +7284,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007045448
+    "distancePredictedOriginal": 0.0017659664
   },
   {
     "preference": {
@@ -7305,7 +7305,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0035333633
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -7326,7 +7326,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -7410,7 +7410,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0035333633
+    "distancePredictedOriginal": 0.0053684115
   },
   {
     "preference": {
@@ -7494,7 +7494,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0065000057
+    "distancePredictedOriginal": 0.0018571615
   },
   {
     "preference": {
@@ -7536,7 +7536,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007045448
+    "distancePredictedOriginal": 0.001680851
   },
   {
     "preference": {
@@ -7599,7 +7599,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007045448
+    "distancePredictedOriginal": 0.0064042807
   },
   {
     "preference": {
@@ -7620,7 +7620,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 0.0022542477
   },
   {
     "preference": {
@@ -7662,7 +7662,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 0.0038644075
   },
   {
     "preference": {
@@ -7725,7 +7725,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007045448
+    "distancePredictedOriginal": 0.0064042807
   },
   {
     "preference": {
@@ -7746,7 +7746,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0035333633
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -7872,7 +7872,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0035333633
+    "distancePredictedOriginal": 0.0026835203
   },
   {
     "preference": {
@@ -7914,28 +7914,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 8.983016E-4
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 390,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
+        "name": "Like I Do",
+        "artist": "David Guetta Martin Garrix Brooks ",
+        "duration": 202500,
+        "loudness": -3.719,
+        "speechiness": 0.0377,
+        "danceability": 0.635,
+        "energy": 0.9,
+        "valence": 0.15,
+        "tempo": 127.978
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0065000057
+    "distancePredictedOriginal": 0.004142821
   },
   {
     "preference": {
@@ -7961,23 +7961,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0035333633
+    "distancePredictedOriginal": 0.0044210553
   },
   {
     "preference": {
@@ -7998,7 +7998,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 0.0024576187
   },
   {
     "preference": {
@@ -8019,7 +8019,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0017222166
+    "distancePredictedOriginal": 0.001847446
   },
   {
     "preference": {

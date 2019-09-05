@@ -107,23 +107,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 953,
-      "preference": "5.0",
+      "power": 37,
+      "preference": "4.0",
       "traccia": {
-        "idSong": "0Zky844NuMwLNJoCRJUTa2",
-        "name": "\u0027Till I Collapse",
-        "artist": "Eminem Nate Dogg ",
-        "duration": 299880,
-        "loudness": -5.247,
-        "speechiness": 0.251,
-        "danceability": 0.564,
-        "energy": 0.773,
-        "valence": 0.113,
-        "tempo": 171.529
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.008099973
+    "distancePredictedOriginal": 0.013727307
   },
   {
     "preference": {
@@ -207,7 +207,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.008099973
+    "distancePredictedOriginal": 0.003454566
   },
   {
     "preference": {
@@ -275,23 +275,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 443,
+      "power": 38,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1C7XvLv4Boxi8bNleQRirt",
-        "name": "Jackie Chan",
-        "artist": "Tiësto Dzeko Preme Post Malone ",
-        "duration": 215760,
-        "loudness": -2.881,
-        "speechiness": 0.046,
-        "danceability": 0.745,
-        "energy": 0.838,
-        "valence": 0.714,
-        "tempo": 127.998
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.0020000339
   },
   {
     "preference": {
@@ -401,23 +401,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.055999994
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
@@ -438,7 +438,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 5.555749E-4
+    "distancePredictedOriginal": 0.006636381
   },
   {
     "preference": {
@@ -459,7 +459,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 5.555749E-4
+    "distancePredictedOriginal": 0.006636381
   },
   {
     "preference": {
@@ -564,7 +564,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 5.555749E-4
+    "distancePredictedOriginal": 0.0019090772
   },
   {
     "preference": {
@@ -842,23 +842,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
-        "name": "Ostia lido",
-        "artist": "J-AX ",
-        "duration": 172945,
-        "loudness": -5.723,
-        "speechiness": 0.186,
-        "danceability": 0.874,
-        "energy": 0.786,
-        "valence": 0.688,
-        "tempo": 108.944
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 2.0003319E-4
+    "distancePredictedOriginal": 0.0132856965
   },
   {
     "preference": {
@@ -908,20 +908,20 @@
       "power": 37,
       "preference": "4.0",
       "traccia": {
-        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
-        "name": "Ostia lido",
-        "artist": "J-AX ",
-        "duration": 172945,
-        "loudness": -5.723,
-        "speechiness": 0.186,
-        "danceability": 0.874,
-        "energy": 0.786,
-        "valence": 0.688,
-        "tempo": 108.944
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 2.0003319E-4
+    "distancePredictedOriginal": 0.012785733
   },
   {
     "preference": {
@@ -947,23 +947,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
-        "name": "Ostia lido",
-        "artist": "J-AX ",
-        "duration": 172945,
-        "loudness": -5.723,
-        "speechiness": 0.186,
-        "danceability": 0.874,
-        "energy": 0.786,
-        "valence": 0.688,
-        "tempo": 108.944
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 2.0003319E-4
+    "distancePredictedOriginal": 0.014500022
   },
   {
     "preference": {
@@ -1010,44 +1010,44 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
-        "name": "Ostia lido",
-        "artist": "J-AX ",
-        "duration": 172945,
-        "loudness": -5.723,
-        "speechiness": 0.186,
-        "danceability": 0.874,
-        "energy": 0.786,
-        "valence": 0.688,
-        "tempo": 108.944
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 2.0003319E-4
+    "distancePredictedOriginal": 0.009714305
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
-        "name": "Ostia lido",
-        "artist": "J-AX ",
-        "duration": 172945,
-        "loudness": -5.723,
-        "speechiness": 0.186,
-        "danceability": 0.874,
-        "energy": 0.786,
-        "valence": 0.688,
-        "tempo": 108.944
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 2.0003319E-4
+    "distancePredictedOriginal": 0.013571441
   },
   {
     "preference": {
@@ -1068,7 +1068,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.011916697
+    "distancePredictedOriginal": 0.009642899
   },
   {
     "preference": {
@@ -1094,23 +1094,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
-        "name": "Pure Grinding",
-        "artist": "Avicii ",
-        "duration": 171960,
-        "loudness": -3.462,
-        "speechiness": 0.0627,
-        "danceability": 0.712,
-        "energy": 0.743,
-        "valence": 0.361,
-        "tempo": 104.008
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.011916697
+    "distancePredictedOriginal": 0.013571441
   },
   {
     "preference": {
@@ -1152,7 +1152,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.011916697
+    "distancePredictedOriginal": 0.009714305
   },
   {
     "preference": {
@@ -1262,23 +1262,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 367,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.0029999614
   },
   {
     "preference": {
@@ -1304,23 +1304,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 367,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
+        "name": "Numb / Encore",
+        "artist": "JAY Z Linkin Park ",
+        "duration": 205280,
+        "loudness": -4.251,
+        "speechiness": 0.156,
+        "danceability": 0.685,
+        "energy": 0.803,
+        "valence": 0.799,
+        "tempo": 107.005
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.0029999614
   },
   {
     "preference": {
@@ -1346,19 +1346,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
+      "power": 971,
       "preference": "4.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
       }
     },
     "predictedCar": "energy",
@@ -1367,19 +1367,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "energy",
@@ -1409,19 +1409,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 831,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
       }
     },
     "predictedCar": "energy",
@@ -1451,23 +1451,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.012000024
+    "distancePredictedOriginal": 0.0034999847
   },
   {
     "preference": {
@@ -1845,7 +1845,7 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.014900029
+    "distancePredictedOriginal": 0.0027272701
   },
   {
     "preference": {
@@ -1913,48 +1913,6 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
-        "name": "Pure Grinding",
-        "artist": "Avicii ",
-        "duration": 171960,
-        "loudness": -3.462,
-        "speechiness": 0.0627,
-        "danceability": 0.712,
-        "energy": 0.743,
-        "valence": 0.361,
-        "tempo": 104.008
-      }
-    },
-    "predictedCar": "energy",
-    "distancePredictedOriginal": 0.014307737
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
-      }
-    },
-    "predictedCar": "energy",
-    "distancePredictedOriginal": 0.0
-  },
-  {
-    "preference": {
-      "timestamp": 0,
       "power": 953,
       "preference": "5.0",
       "traccia": {
@@ -1971,7 +1929,28 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.014900029
+    "distancePredictedOriginal": 0.013571441
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 706,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
+      }
+    },
+    "predictedCar": "energy",
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
@@ -1992,7 +1971,28 @@
       }
     },
     "predictedCar": "energy",
-    "distancePredictedOriginal": 0.014307737
+    "distancePredictedOriginal": 0.013727307
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 37,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
+      }
+    },
+    "predictedCar": "energy",
+    "distancePredictedOriginal": 0.009642899
   },
   {
     "preference": {

@@ -107,23 +107,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 367,
-      "preference": "5.0",
+      "power": 37,
+      "preference": "4.0",
       "traccia": {
-        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
-        "name": "Numb / Encore",
-        "artist": "JAY Z Linkin Park ",
-        "duration": 205280,
-        "loudness": -4.251,
-        "speechiness": 0.156,
-        "danceability": 0.685,
-        "energy": 0.803,
-        "valence": 0.799,
-        "tempo": 107.005
+        "idSong": "2J9TGb5CRT4omfAgnKmXn5",
+        "name": "Ostia lido",
+        "artist": "J-AX ",
+        "duration": 172945,
+        "loudness": -5.723,
+        "speechiness": 0.186,
+        "danceability": 0.874,
+        "energy": 0.786,
+        "valence": 0.688,
+        "tempo": 108.944
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0043800026
+    "distancePredictedOriginal": 0.012836367
   },
   {
     "preference": {
@@ -207,7 +207,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0043800026
+    "distancePredictedOriginal": 0.0059999973
   },
   {
     "preference": {
@@ -275,23 +275,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 446,
+      "power": 971,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7HqzNuSl19gvm87vhlN8ME",
-        "name": "Waiting For Love",
-        "artist": "Avicii ",
-        "duration": 229760,
-        "loudness": -4.339,
-        "speechiness": 0.0481,
-        "danceability": 0.579,
-        "energy": 0.737,
-        "valence": 0.594,
-        "tempo": 128.062
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 1.6666949E-4
+    "distancePredictedOriginal": 1.0000169E-4
   },
   {
     "preference": {
@@ -317,23 +317,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 446,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7HqzNuSl19gvm87vhlN8ME",
-        "name": "Waiting For Love",
-        "artist": "Avicii ",
-        "duration": 229760,
-        "loudness": -4.339,
-        "speechiness": 0.0481,
-        "danceability": 0.579,
-        "energy": 0.737,
-        "valence": 0.594,
-        "tempo": 128.062
+        "idSong": "1geovaCdfs5fSa4NNgFPVe",
+        "name": "Bella Ciao",
+        "artist": "Hardwell Maddix ",
+        "duration": 203769,
+        "loudness": -4.688,
+        "speechiness": 0.0462,
+        "danceability": 0.616,
+        "energy": 0.892,
+        "valence": 0.235,
+        "tempo": 129.991
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 1.6666949E-4
+    "distancePredictedOriginal": 8.499995E-4
   },
   {
     "preference": {
@@ -401,23 +401,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 367,
+      "power": 953,
       "preference": "5.0",
       "traccia": {
-        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
-        "name": "Numb / Encore",
-        "artist": "JAY Z Linkin Park ",
-        "duration": 205280,
-        "loudness": -4.251,
-        "speechiness": 0.156,
-        "danceability": 0.685,
-        "energy": 0.803,
-        "valence": 0.799,
-        "tempo": 107.005
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0119999945
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
@@ -438,7 +438,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.008222222
+    "distancePredictedOriginal": 0.004454538
   },
   {
     "preference": {
@@ -459,7 +459,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.008222222
+    "distancePredictedOriginal": 0.004454538
   },
   {
     "preference": {
@@ -564,7 +564,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.008222222
+    "distancePredictedOriginal": 0.0012727231
   },
   {
     "preference": {
@@ -795,7 +795,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 8.499995E-4
+    "distancePredictedOriginal": 3.6666915E-4
   },
   {
     "preference": {
@@ -858,7 +858,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.014420003
+    "distancePredictedOriginal": 0.0016499907
   },
   {
     "preference": {
@@ -921,7 +921,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.014420003
+    "distancePredictedOriginal": 2.785772E-4
   },
   {
     "preference": {
@@ -963,7 +963,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.014420003
+    "distancePredictedOriginal": 0.0050142854
   },
   {
     "preference": {
@@ -1026,49 +1026,49 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.014420003
+    "distancePredictedOriginal": 2.4285913E-4
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 367,
-      "preference": "5.0",
-      "traccia": {
-        "idSong": "7dyluIqv7QYVTXXZiMWPHW",
-        "name": "Numb / Encore",
-        "artist": "JAY Z Linkin Park ",
-        "duration": 205280,
-        "loudness": -4.251,
-        "speechiness": 0.156,
-        "danceability": 0.685,
-        "energy": 0.803,
-        "valence": 0.799,
-        "tempo": 107.005
-      }
-    },
-    "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.014420003
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 383,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 6.8333745E-4
+    "distancePredictedOriginal": 0.0034142882
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 341,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
+      }
+    },
+    "predictedCar": "speechiness",
+    "distancePredictedOriginal": 0.0030857176
   },
   {
     "preference": {
@@ -1094,23 +1094,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 6.8333745E-4
+    "distancePredictedOriginal": 0.0034142882
   },
   {
     "preference": {
@@ -1136,23 +1136,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 6.8333745E-4
+    "distancePredictedOriginal": 0.00791429
   },
   {
     "preference": {
@@ -1262,23 +1262,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.029
   },
   {
     "preference": {
@@ -1304,23 +1304,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.029
   },
   {
     "preference": {
@@ -1346,19 +1346,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 971,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
       }
     },
     "predictedCar": "speechiness",
@@ -1367,19 +1367,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "speechiness",
@@ -1409,19 +1409,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 831,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
       }
     },
     "predictedCar": "speechiness",
@@ -1467,7 +1467,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 1.9999966E-4
+    "distancePredictedOriginal": 3.6666915E-4
   },
   {
     "preference": {
@@ -1488,7 +1488,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 1.9999966E-4
+    "distancePredictedOriginal": 2.9999763E-4
   },
   {
     "preference": {
@@ -1614,28 +1614,28 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 1.9999966E-4
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 443,
+      "power": 38,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1C7XvLv4Boxi8bNleQRirt",
-        "name": "Jackie Chan",
-        "artist": "Tiësto Dzeko Preme Post Malone ",
-        "duration": 215760,
-        "loudness": -2.881,
-        "speechiness": 0.046,
-        "danceability": 0.745,
-        "energy": 0.838,
-        "valence": 0.714,
-        "tempo": 127.998
+        "idSong": "2dpaYNEQHiRxtZbfNsse99",
+        "name": "Happier",
+        "artist": "Marshmello Bastille ",
+        "duration": 214289,
+        "loudness": -2.749,
+        "speechiness": 0.0452,
+        "danceability": 0.687,
+        "energy": 0.792,
+        "valence": 0.671,
+        "tempo": 100.015
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.0023000017
   },
   {
     "preference": {
@@ -1845,7 +1845,7 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.001790002
+    "distancePredictedOriginal": 0.0143363625
   },
   {
     "preference": {
@@ -1913,44 +1913,44 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.004215382
+    "distancePredictedOriginal": 0.0034142882
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 7.9999864E-4
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
@@ -1971,48 +1971,48 @@
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.001790002
+    "distancePredictedOriginal": 0.012836367
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
+      "power": 341,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0bAkKNCQfWkexHFn7fIKns",
+        "name": "In My Feelings",
+        "artist": "Drake ",
+        "duration": 217933,
+        "loudness": -9.445,
+        "speechiness": 0.139,
+        "danceability": 0.735,
+        "energy": 0.482,
+        "valence": 0.315,
+        "tempo": 181.995
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 0.004215382
+    "distancePredictedOriginal": 0.0030857176
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
+      "power": 494,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1geovaCdfs5fSa4NNgFPVe",
-        "name": "Bella Ciao",
-        "artist": "Hardwell Maddix ",
-        "duration": 203769,
-        "loudness": -4.688,
-        "speechiness": 0.0462,
-        "danceability": 0.616,
-        "energy": 0.892,
-        "valence": 0.235,
-        "tempo": 129.991
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
+        "energy": 0.853,
+        "valence": 0.692,
+        "tempo": 119.939
       }
     },
     "predictedCar": "speechiness",
-    "distancePredictedOriginal": 7.9999864E-4
+    "distancePredictedOriginal": 0.0
   }
 ]

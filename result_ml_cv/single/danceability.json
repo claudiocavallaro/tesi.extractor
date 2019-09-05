@@ -107,23 +107,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 456,
+      "power": 37,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3e3sV65reexWHFHuMlRiAa",
-        "name": "Power - Loris Cimino Remix",
-        "artist": "Hardwell KSHMR Loris Cimino ",
-        "duration": 275101,
-        "loudness": -3.862,
-        "speechiness": 0.0507,
-        "danceability": 0.695,
-        "energy": 0.847,
-        "valence": 0.398,
-        "tempo": 129.899
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008300006
+    "distancePredictedOriginal": 0.0076363683
   },
   {
     "preference": {
@@ -207,7 +207,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008300006
+    "distancePredictedOriginal": 3.6364794E-4
   },
   {
     "preference": {
@@ -291,7 +291,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.0019999743
   },
   {
     "preference": {
@@ -401,65 +401,65 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 9.999871E-4
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 9.999871E-4
+    "distancePredictedOriginal": 9.089708E-5
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 9.999871E-4
+    "distancePredictedOriginal": 9.089708E-5
   },
   {
     "preference": {
@@ -543,28 +543,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0064285398
+    "distancePredictedOriginal": 0.0064210296
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 9.999871E-4
+    "distancePredictedOriginal": 0.003909111
   },
   {
     "preference": {
@@ -842,23 +842,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 390,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0055000186
+    "distancePredictedOriginal": 9.2858076E-4
   },
   {
     "preference": {
@@ -905,23 +905,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 390,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0055000186
+    "distancePredictedOriginal": 7.857084E-4
   },
   {
     "preference": {
@@ -947,23 +947,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 390,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0055000186
+    "distancePredictedOriginal": 1.4287233E-4
   },
   {
     "preference": {
@@ -1010,44 +1010,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 390,
+      "power": 392,
       "preference": "4.0",
       "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
+        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
+        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
+        "artist": "Martin Garrix Macklemore Fall Out Boy ",
+        "duration": 163804,
+        "loudness": -6.976,
+        "speechiness": 0.0566,
+        "danceability": 0.661,
+        "energy": 0.723,
+        "valence": 0.316,
+        "tempo": 113.778
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0055000186
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 390,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
-      }
-    },
-    "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0055000186
+    "distancePredictedOriginal": 0.004999995
   },
   {
     "preference": {
@@ -1068,7 +1047,28 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00999999
+    "distancePredictedOriginal": 0.0017856956
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 36,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
+      }
+    },
+    "predictedCar": "danceability",
+    "distancePredictedOriginal": 0.007285714
   },
   {
     "preference": {
@@ -1110,7 +1110,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00999999
+    "distancePredictedOriginal": 0.0017856956
   },
   {
     "preference": {
@@ -1152,7 +1152,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.00999999
+    "distancePredictedOriginal": 0.012357175
   },
   {
     "preference": {
@@ -1262,23 +1262,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 443,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "1C7XvLv4Boxi8bNleQRirt",
+        "name": "Jackie Chan",
+        "artist": "Tiësto Dzeko Preme Post Malone ",
+        "duration": 215760,
+        "loudness": -2.881,
+        "speechiness": 0.046,
+        "danceability": 0.745,
+        "energy": 0.838,
+        "valence": 0.714,
+        "tempo": 127.998
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.012000024
   },
   {
     "preference": {
@@ -1304,23 +1304,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 443,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "1C7XvLv4Boxi8bNleQRirt",
+        "name": "Jackie Chan",
+        "artist": "Tiësto Dzeko Preme Post Malone ",
+        "duration": 215760,
+        "loudness": -2.881,
+        "speechiness": 0.046,
+        "danceability": 0.745,
+        "energy": 0.838,
+        "valence": 0.714,
+        "tempo": 127.998
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.012000024
   },
   {
     "preference": {
@@ -1346,19 +1346,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 971,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
       }
     },
     "predictedCar": "danceability",
@@ -1367,19 +1367,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "danceability",
@@ -1409,19 +1409,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 831,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
       }
     },
     "predictedCar": "danceability",
@@ -1451,23 +1451,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 390,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
-        "name": "Like I Do",
-        "artist": "David Guetta Martin Garrix Brooks ",
-        "duration": 202500,
-        "loudness": -3.719,
-        "speechiness": 0.0377,
-        "danceability": 0.635,
-        "energy": 0.9,
-        "valence": 0.15,
-        "tempo": 127.978
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.009000003
+    "distancePredictedOriginal": 0.00850004
   },
   {
     "preference": {
@@ -1593,7 +1593,7 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.0060713887
+    "distancePredictedOriginal": 0.006157875
   },
   {
     "preference": {
@@ -1829,23 +1829,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
+      "power": 456,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
-        "name": "Pure Grinding",
-        "artist": "Avicii ",
-        "duration": 171960,
-        "loudness": -3.462,
-        "speechiness": 0.0627,
-        "danceability": 0.712,
-        "energy": 0.743,
-        "valence": 0.361,
-        "tempo": 104.008
+        "idSong": "3e3sV65reexWHFHuMlRiAa",
+        "name": "Power - Loris Cimino Remix",
+        "artist": "Hardwell KSHMR Loris Cimino ",
+        "duration": 275101,
+        "loudness": -3.862,
+        "speechiness": 0.0507,
+        "danceability": 0.695,
+        "energy": 0.847,
+        "valence": 0.398,
+        "tempo": 129.899
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008400023
+    "distancePredictedOriginal": 6.363988E-4
   },
   {
     "preference": {
@@ -1929,24 +1929,24 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007153809
+    "distancePredictedOriginal": 0.0017856956
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "danceability",
@@ -1971,45 +1971,45 @@
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.008400023
+    "distancePredictedOriginal": 0.0076363683
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 392,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "7Feaw9WAEREY0DUOSXJLOM",
-        "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
-        "artist": "Martin Garrix Macklemore Fall Out Boy ",
-        "duration": 163804,
-        "loudness": -6.976,
-        "speechiness": 0.0566,
-        "danceability": 0.661,
-        "energy": 0.723,
-        "valence": 0.316,
-        "tempo": 113.778
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "danceability",
-    "distancePredictedOriginal": 0.007153809
+    "distancePredictedOriginal": 0.007285714
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 494,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
         "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "valence": 0.692,
+        "tempo": 119.939
       }
     },
     "predictedCar": "danceability",

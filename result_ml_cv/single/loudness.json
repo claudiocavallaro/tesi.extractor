@@ -107,23 +107,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0467
+    "distancePredictedOriginal": 0.037545204
   },
   {
     "preference": {
@@ -207,7 +207,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0467
+    "distancePredictedOriginal": 0.079363346
   },
   {
     "preference": {
@@ -275,23 +275,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 443,
+      "power": 383,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1C7XvLv4Boxi8bNleQRirt",
-        "name": "Jackie Chan",
-        "artist": "Tiësto Dzeko Preme Post Malone ",
-        "duration": 215760,
-        "loudness": -2.881,
-        "speechiness": 0.046,
-        "danceability": 0.745,
-        "energy": 0.838,
-        "valence": 0.714,
-        "tempo": 127.998
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.03099966
   },
   {
     "preference": {
@@ -401,65 +401,65 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 706,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
-        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
-        "artist": "Clementino Fabri Fibra ",
-        "duration": 166120,
-        "loudness": -5.874,
-        "speechiness": 0.257,
-        "danceability": 0.681,
-        "energy": 0.805,
-        "valence": 0.514,
-        "tempo": 119.81
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.01999998
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.1285553
+    "distancePredictedOriginal": 0.056545734
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 383,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.1285553
+    "distancePredictedOriginal": 0.056545734
   },
   {
     "preference": {
@@ -543,7 +543,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.01185751
+    "distancePredictedOriginal": 0.012000084
   },
   {
     "preference": {
@@ -564,7 +564,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.1285553
+    "distancePredictedOriginal": 0.009181976
   },
   {
     "preference": {
@@ -842,23 +842,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 953,
-      "preference": "5.0",
+      "power": 36,
+      "preference": "4.0",
       "traccia": {
-        "idSong": "0Zky844NuMwLNJoCRJUTa2",
-        "name": "\u0027Till I Collapse",
-        "artist": "Eminem Nate Dogg ",
-        "duration": 299880,
-        "loudness": -5.247,
-        "speechiness": 0.251,
-        "danceability": 0.564,
-        "energy": 0.773,
-        "valence": 0.113,
-        "tempo": 171.529
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0057997704
+    "distancePredictedOriginal": 0.010643005
   },
   {
     "preference": {
@@ -905,23 +905,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 953,
-      "preference": "5.0",
+      "power": 36,
+      "preference": "4.0",
       "traccia": {
-        "idSong": "0Zky844NuMwLNJoCRJUTa2",
-        "name": "\u0027Till I Collapse",
-        "artist": "Eminem Nate Dogg ",
-        "duration": 299880,
-        "loudness": -5.247,
-        "speechiness": 0.251,
-        "danceability": 0.564,
-        "energy": 0.773,
-        "valence": 0.113,
-        "tempo": 171.529
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0057997704
+    "distancePredictedOriginal": 0.18050003
   },
   {
     "preference": {
@@ -963,7 +963,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0057997704
+    "distancePredictedOriginal": 0.028357029
   },
   {
     "preference": {
@@ -1010,23 +1010,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 953,
-      "preference": "5.0",
+      "power": 36,
+      "preference": "4.0",
       "traccia": {
-        "idSong": "0Zky844NuMwLNJoCRJUTa2",
-        "name": "\u0027Till I Collapse",
-        "artist": "Eminem Nate Dogg ",
-        "duration": 299880,
-        "loudness": -5.247,
-        "speechiness": 0.251,
-        "danceability": 0.564,
-        "energy": 0.773,
-        "valence": 0.113,
-        "tempo": 171.529
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0057997704
+    "distancePredictedOriginal": 0.046214104
   },
   {
     "preference": {
@@ -1047,7 +1047,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0057997704
+    "distancePredictedOriginal": 0.045428276
   },
   {
     "preference": {
@@ -1068,7 +1068,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.04974985
+    "distancePredictedOriginal": 0.16564274
   },
   {
     "preference": {
@@ -1094,23 +1094,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
-        "name": "Una volta ancora (feat. Ana Mena)",
-        "artist": "Fred De Palma Ana Mena ",
-        "duration": 174291,
-        "loudness": -5.342,
-        "speechiness": 0.0622,
-        "danceability": 0.771,
-        "energy": 0.638,
-        "valence": 0.591,
-        "tempo": 124.039
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.04974985
+    "distancePredictedOriginal": 0.045428276
   },
   {
     "preference": {
@@ -1152,7 +1152,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.04974985
+    "distancePredictedOriginal": 0.019000053
   },
   {
     "preference": {
@@ -1262,23 +1262,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.022000313
   },
   {
     "preference": {
@@ -1304,128 +1304,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
+        "name": "In My Mind",
+        "artist": "Dynoro ",
+        "duration": 179124,
+        "loudness": -6.683,
+        "speechiness": 0.249,
+        "danceability": 0.676,
+        "energy": 0.692,
+        "valence": 0.111,
+        "tempo": 125.966
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 953,
-      "preference": "5.0",
-      "traccia": {
-        "idSong": "0Zky844NuMwLNJoCRJUTa2",
-        "name": "\u0027Till I Collapse",
-        "artist": "Eminem Nate Dogg ",
-        "duration": 299880,
-        "loudness": -5.247,
-        "speechiness": 0.251,
-        "danceability": 0.564,
-        "energy": 0.773,
-        "valence": 0.113,
-        "tempo": 171.529
-      }
-    },
-    "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 1023,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
-      }
-    },
-    "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
-      }
-    },
-    "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 383,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "7iTTQvztpfrDneVSX9IGBD",
-        "name": "Stamm Fort (feat. Sfera Ebbasta)",
-        "artist": "Luche Sfera Ebbasta ",
-        "duration": 171375,
-        "loudness": -5.094,
-        "speechiness": 0.123,
-        "danceability": 0.78,
-        "energy": 0.521,
-        "valence": 0.643,
-        "tempo": 160.087
-      }
-    },
-    "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.079363346
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
-      }
-    },
-    "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.022000313
   },
   {
     "preference": {
@@ -1467,7 +1362,112 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.342
+    "distancePredictedOriginal": 0.0
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 953,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.0
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 383,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "7iTTQvztpfrDneVSX9IGBD",
+        "name": "Stamm Fort (feat. Sfera Ebbasta)",
+        "artist": "Luche Sfera Ebbasta ",
+        "duration": 171375,
+        "loudness": -5.094,
+        "speechiness": 0.123,
+        "danceability": 0.78,
+        "energy": 0.521,
+        "valence": 0.643,
+        "tempo": 160.087
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.079363346
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 831,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.0
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 953,
+      "preference": "5.0",
+      "traccia": {
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.0
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 37,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "3uEu7hcvgrSOrgnMxzqugh",
+        "name": "Pure Grinding",
+        "artist": "Avicii ",
+        "duration": 171960,
+        "loudness": -3.462,
+        "speechiness": 0.0627,
+        "danceability": 0.712,
+        "energy": 0.743,
+        "valence": 0.361,
+        "tempo": 104.008
+      }
+    },
+    "predictedCar": "loudness",
+    "distancePredictedOriginal": 0.10049987
   },
   {
     "preference": {
@@ -1845,7 +1845,7 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.124800205
+    "distancePredictedOriginal": 0.0539999
   },
   {
     "preference": {
@@ -1913,40 +1913,40 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
-        "name": "Una volta ancora (feat. Ana Mena)",
-        "artist": "Fred De Palma Ana Mena ",
-        "duration": 174291,
-        "loudness": -5.342,
-        "speechiness": 0.0622,
-        "danceability": 0.771,
-        "energy": 0.638,
-        "valence": 0.591,
-        "tempo": 124.039
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0752306
+    "distancePredictedOriginal": 0.045428276
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "loudness",
@@ -1955,23 +1955,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 36,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
-        "name": "Una volta ancora (feat. Ana Mena)",
-        "artist": "Fred De Palma Ana Mena ",
-        "duration": 174291,
-        "loudness": -5.342,
-        "speechiness": 0.0622,
-        "danceability": 0.771,
-        "energy": 0.638,
-        "valence": 0.591,
-        "tempo": 124.039
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.124800205
+    "distancePredictedOriginal": 0.037545204
   },
   {
     "preference": {
@@ -1992,24 +1992,24 @@
       }
     },
     "predictedCar": "loudness",
-    "distancePredictedOriginal": 0.0752306
+    "distancePredictedOriginal": 0.16564274
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 494,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
         "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "valence": 0.692,
+        "tempo": 119.939
       }
     },
     "predictedCar": "loudness",

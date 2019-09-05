@@ -29,14 +29,15 @@ public class MachineLearningCV {
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
 
     public MachineLearningCV(){
-        String mode = "single";
+        /*String mode = "single";
         file = new File("result_ml_cv/single/summary.txt");
 
         for (int i = 0 ; i < properties.length; i++){
             String prop = properties[i];
             mlCV(prop, mode, file);
-        }
+        }*/
 
+        String mode = "";
         mode = "duplication";
         file = new File("result_ml_cv/duplication/summary.txt");
         for (int i = 0 ; i < properties.length; i++){
@@ -58,7 +59,14 @@ public class MachineLearningCV {
             dataset.setClassIndex(dataset.numAttributes() - 1);
 
             int seed = 1;
-            int fold = 10;
+            int fold = 0;
+            if (mode.equals("single")){
+                //istance number 96
+                fold = 96;
+            } else if (mode.equals("duplication")){
+                //istance number 384
+                fold = 384;
+            }
 
             Random random = new Random(seed);
             Instances randData = new Instances(dataset);

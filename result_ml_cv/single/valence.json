@@ -123,7 +123,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.020500004
+    "distancePredictedOriginal": 0.030272722
   },
   {
     "preference": {
@@ -207,7 +207,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.020500004
+    "distancePredictedOriginal": 0.0029999912
   },
   {
     "preference": {
@@ -275,23 +275,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 443,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "1C7XvLv4Boxi8bNleQRirt",
-        "name": "Jackie Chan",
-        "artist": "Tiësto Dzeko Preme Post Malone ",
-        "duration": 215760,
-        "loudness": -2.881,
-        "speechiness": 0.046,
-        "danceability": 0.745,
-        "energy": 0.838,
-        "valence": 0.714,
-        "tempo": 127.998
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.053000003
   },
   {
     "preference": {
@@ -401,23 +401,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 37,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "50FnceJh9eEUwqRihDMUiX",
-        "name": "Summer",
-        "artist": "Calvin Harris ",
-        "duration": 215626,
-        "loudness": -4.023,
-        "speechiness": 0.0323,
-        "danceability": 0.588,
-        "energy": 0.856,
-        "valence": 0.715,
-        "tempo": 127.963
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.015000045
+    "distancePredictedOriginal": 0.0
   },
   {
     "preference": {
@@ -438,7 +438,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.002666682
+    "distancePredictedOriginal": 0.001909107
   },
   {
     "preference": {
@@ -459,7 +459,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.002666682
+    "distancePredictedOriginal": 0.001909107
   },
   {
     "preference": {
@@ -548,23 +548,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 456,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3e3sV65reexWHFHuMlRiAa",
-        "name": "Power - Loris Cimino Remix",
-        "artist": "Hardwell KSHMR Loris Cimino ",
-        "duration": 275101,
-        "loudness": -3.862,
-        "speechiness": 0.0507,
-        "danceability": 0.695,
-        "energy": 0.847,
-        "valence": 0.398,
-        "tempo": 129.899
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.002666682
+    "distancePredictedOriginal": 0.04154545
   },
   {
     "preference": {
@@ -858,7 +858,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01030001
+    "distancePredictedOriginal": 0.01114285
   },
   {
     "preference": {
@@ -921,7 +921,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01030001
+    "distancePredictedOriginal": 0.0047142804
   },
   {
     "preference": {
@@ -963,7 +963,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01030001
+    "distancePredictedOriginal": 0.012928575
   },
   {
     "preference": {
@@ -1010,44 +1010,44 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 456,
+      "power": 1023,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3e3sV65reexWHFHuMlRiAa",
-        "name": "Power - Loris Cimino Remix",
-        "artist": "Hardwell KSHMR Loris Cimino ",
-        "duration": 275101,
-        "loudness": -3.862,
-        "speechiness": 0.0507,
-        "danceability": 0.695,
-        "energy": 0.847,
-        "valence": 0.398,
-        "tempo": 129.899
+        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
+        "name": "In the End",
+        "artist": "Linkin Park ",
+        "duration": 216880,
+        "loudness": -6.407,
+        "speechiness": 0.0498,
+        "danceability": 0.542,
+        "energy": 0.853,
+        "valence": 0.37,
+        "tempo": 105.256
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01030001
+    "distancePredictedOriginal": 0.006857127
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 456,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3e3sV65reexWHFHuMlRiAa",
-        "name": "Power - Loris Cimino Remix",
-        "artist": "Hardwell KSHMR Loris Cimino ",
-        "duration": 275101,
-        "loudness": -3.862,
-        "speechiness": 0.0507,
-        "danceability": 0.695,
-        "energy": 0.847,
-        "valence": 0.398,
-        "tempo": 129.899
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01030001
+    "distancePredictedOriginal": 0.0041428506
   },
   {
     "preference": {
@@ -1068,7 +1068,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.011083335
+    "distancePredictedOriginal": 0.013714284
   },
   {
     "preference": {
@@ -1094,23 +1094,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 419,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
+        "name": "Burn Out (feat. Dewain Whitmore)",
+        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+        "duration": 200322,
+        "loudness": -5.751,
+        "speechiness": 0.0398,
+        "danceability": 0.594,
+        "energy": 0.722,
+        "valence": 0.407,
+        "tempo": 127.877
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.011083335
+    "distancePredictedOriginal": 0.0041428506
   },
   {
     "preference": {
@@ -1152,7 +1152,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.011083335
+    "distancePredictedOriginal": 7.143617E-5
   },
   {
     "preference": {
@@ -1262,23 +1262,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.012000024
   },
   {
     "preference": {
@@ -1304,23 +1304,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0
+    "distancePredictedOriginal": 0.012000024
   },
   {
     "preference": {
@@ -1346,19 +1346,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 971,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
+        "name": "American Idiot",
+        "artist": "Green Day ",
+        "duration": 176346,
+        "loudness": -2.042,
+        "speechiness": 0.0639,
+        "danceability": 0.38,
+        "energy": 0.988,
+        "valence": 0.769,
+        "tempo": 186.113
       }
     },
     "predictedCar": "valence",
@@ -1367,19 +1367,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 953,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "0Zky844NuMwLNJoCRJUTa2",
+        "name": "\u0027Till I Collapse",
+        "artist": "Eminem Nate Dogg ",
+        "duration": 299880,
+        "loudness": -5.247,
+        "speechiness": 0.251,
+        "danceability": 0.564,
+        "energy": 0.773,
+        "valence": 0.113,
+        "tempo": 171.529
       }
     },
     "predictedCar": "valence",
@@ -1409,19 +1409,19 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 494,
-      "preference": "4.0",
+      "power": 831,
+      "preference": "5.0",
       "traccia": {
-        "idSong": "0nFCpnM7nistUWXRZpzOWM",
-        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-        "artist": "MACHETE Salmo Lazza ",
-        "duration": 177036,
-        "loudness": -5.126,
-        "speechiness": 0.283,
-        "danceability": 0.838,
-        "energy": 0.853,
-        "valence": 0.692,
-        "tempo": 119.939
+        "idSong": "2nLtzopw4rPReszdYBJU6h",
+        "name": "Numb",
+        "artist": "Linkin Park ",
+        "duration": 185586,
+        "loudness": -4.153,
+        "speechiness": 0.0381,
+        "danceability": 0.496,
+        "energy": 0.863,
+        "valence": 0.243,
+        "tempo": 110.018
       }
     },
     "predictedCar": "valence",
@@ -1451,23 +1451,23 @@
   {
     "preference": {
       "timestamp": 0,
-      "power": 706,
+      "power": 36,
       "preference": "4.0",
       "traccia": {
-        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
-        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
-        "artist": "Clementino Fabri Fibra ",
-        "duration": 166120,
-        "loudness": -5.874,
-        "speechiness": 0.257,
-        "danceability": 0.681,
-        "energy": 0.805,
-        "valence": 0.514,
-        "tempo": 119.81
+        "idSong": "6gaeewGjNiQhWOUkWRSLTa",
+        "name": "Una volta ancora (feat. Ana Mena)",
+        "artist": "Fred De Palma Ana Mena ",
+        "duration": 174291,
+        "loudness": -5.342,
+        "speechiness": 0.0622,
+        "danceability": 0.771,
+        "energy": 0.638,
+        "valence": 0.591,
+        "tempo": 124.039
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.01999998
+    "distancePredictedOriginal": 0.02700001
   },
   {
     "preference": {
@@ -1845,7 +1845,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0379
+    "distancePredictedOriginal": 0.01881817
   },
   {
     "preference": {
@@ -1929,24 +1929,24 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0023076832
+    "distancePredictedOriginal": 0.0041428506
   },
   {
     "preference": {
       "timestamp": 0,
-      "power": 1023,
+      "power": 706,
       "preference": "4.0",
       "traccia": {
-        "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
-        "name": "In the End",
-        "artist": "Linkin Park ",
-        "duration": 216880,
-        "loudness": -6.407,
-        "speechiness": 0.0498,
-        "danceability": 0.542,
-        "energy": 0.853,
-        "valence": 0.37,
-        "tempo": 105.256
+        "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
+        "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
+        "artist": "Clementino Fabri Fibra ",
+        "duration": 166120,
+        "loudness": -5.874,
+        "speechiness": 0.257,
+        "danceability": 0.681,
+        "energy": 0.805,
+        "valence": 0.514,
+        "tempo": 119.81
       }
     },
     "predictedCar": "valence",
@@ -1971,28 +1971,7 @@
       }
     },
     "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0379
-  },
-  {
-    "preference": {
-      "timestamp": 0,
-      "power": 419,
-      "preference": "4.0",
-      "traccia": {
-        "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
-        "name": "Burn Out (feat. Dewain Whitmore)",
-        "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
-        "duration": 200322,
-        "loudness": -5.751,
-        "speechiness": 0.0398,
-        "danceability": 0.594,
-        "energy": 0.722,
-        "valence": 0.407,
-        "tempo": 127.877
-      }
-    },
-    "predictedCar": "valence",
-    "distancePredictedOriginal": 0.0023076832
+    "distancePredictedOriginal": 0.030272722
   },
   {
     "preference": {
@@ -2010,6 +1989,27 @@
         "energy": 0.853,
         "valence": 0.37,
         "tempo": 105.256
+      }
+    },
+    "predictedCar": "valence",
+    "distancePredictedOriginal": 0.013714284
+  },
+  {
+    "preference": {
+      "timestamp": 0,
+      "power": 494,
+      "preference": "4.0",
+      "traccia": {
+        "idSong": "0nFCpnM7nistUWXRZpzOWM",
+        "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+        "artist": "MACHETE Salmo Lazza ",
+        "duration": 177036,
+        "loudness": -5.126,
+        "speechiness": 0.283,
+        "danceability": 0.838,
+        "energy": 0.853,
+        "valence": 0.692,
+        "tempo": 119.939
       }
     },
     "predictedCar": "valence",
