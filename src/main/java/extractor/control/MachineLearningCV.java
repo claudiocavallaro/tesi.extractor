@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import extractor.MainExec;
 import extractor.model.MLObject;
+import extractor.model.PredictedValues;
 import extractor.model.Preference;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
@@ -26,6 +27,8 @@ public class MachineLearningCV {
     private File file ;
     private FileWriter fr = null;
 
+    private ArrayList<PredictedValues> values = new ArrayList<>();
+
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
 
     public MachineLearningCV(){
@@ -44,6 +47,11 @@ public class MachineLearningCV {
             String prop = properties[i];
             mlCV(prop, mode, file);
         }
+
+        for (PredictedValues pv : values){
+            System.out.println(pv.toString());
+        }
+
     }
 
     //-------------------- ML WITH CROSS VALIDATION ------------------
@@ -117,11 +125,43 @@ public class MachineLearningCV {
 
             BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml_cv/" + mode + "/" + car + ".json"));
 
-            for (Prediction p : eval.predictions()){
+            for (int i = 0 ; i < eval.predictions().size(); i++){
+                Prediction p = eval.predictions().get(i);
                 System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
 
-                MLObject ml = findNear(car, (float) p.predicted());
-                listMLObj.add(ml);
+                PredictedValues pv = null;
+                if (values.size() < eval.predictions().size()){
+                    pv = new PredictedValues();
+                } else{
+                    pv = values.get(i);
+                }
+
+                pv.setObjectID(i);
+                switch (car){
+                    case "danceability":
+                        pv.setDanceability((float)p.predicted());
+                        break;
+                    case "energy":
+                        pv.setEnergy((float) p.predicted());
+                        break;
+                    case "loudness":
+                        pv.setLoudness((float) p.predicted());
+                        break;
+                    case "speechiness":
+                        pv.setSpeechiness((float)p.predicted());
+                        break;
+                    case "valence":
+                        pv.setValence((float) p.predicted());
+                        break;
+                    case "tempo":
+                        pv.setTempo((float) p.predicted());
+                        break;
+                }
+
+                values.add(pv);
+
+                //MLObject ml = findNear(car, (float) p.predicted());
+                //listMLObj.add(ml);
             }
 
             String json = gson.toJson(listMLObj);
