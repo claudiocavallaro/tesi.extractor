@@ -11,6 +11,7 @@ import com.wrapper.spotify.model_objects.specification.Track;
 import com.wrapper.spotify.requests.authorization.client_credentials.ClientCredentialsRequest;
 import com.wrapper.spotify.requests.data.tracks.GetAudioFeaturesForTrackRequest;
 import com.wrapper.spotify.requests.data.tracks.GetTrackRequest;
+import extractor.control.MachineLearning;
 import extractor.control.MachineLearningCV;
 import extractor.model.ArffObject;
 import extractor.model.Preference;

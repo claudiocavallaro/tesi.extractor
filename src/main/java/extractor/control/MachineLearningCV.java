@@ -3,7 +3,6 @@ package extractor.control;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import extractor.MainExec;
-import extractor.model.MLObject;
 import extractor.model.PredictedValues;
 import extractor.model.Preference;
 import weka.classifiers.Evaluation;
@@ -27,38 +26,59 @@ public class MachineLearningCV {
     private File file ;
     private FileWriter fr = null;
 
-    private ArrayList<PredictedValues> values = new ArrayList<>();
+    private ArrayList<PredictedValues> values;
 
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
 
     public MachineLearningCV(){
-        /*String mode = "single";
+
+        performSingle();
+        performWithDuplication();
+
+
+
+    }
+
+    private void performSingle(){
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
         file = new File("result_ml_cv/single/summary.txt");
-
+        values = new ArrayList<>();
         for (int i = 0 ; i < properties.length; i++){
             String prop = properties[i];
-            mlCV(prop, mode, file);
-        }*/
-
-        String mode = "";
-        mode = "duplication";
-        file = new File("result_ml_cv/duplication/summary.txt");
-        for (int i = 0 ; i < properties.length; i++){
-            String prop = properties[i];
-            mlCV(prop, mode, file);
+            mlCV(prop, "single");
         }
-
-        for (PredictedValues pv : values){
-            System.out.println(pv.toString());
+        try {
+            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml_cv/single/prediction.json"));
+            bf.write(gson.toJson(values));
+            bf.close();
+        }catch (Exception e){
+            e.printStackTrace();
         }
 
     }
 
+    private void performWithDuplication(){
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        values = new ArrayList<>();
+        file = new File("result_ml_cv/duplication/summary.txt");
+        for (int i = 0 ; i < properties.length; i++){
+            String prop = properties[i];
+            mlCV(prop, "duplication");
+        }
+
+        try {
+            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml_cv/duplication/prediction.json"));
+            bf.write(gson.toJson(values));
+            bf.close();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+    }
+
     //-------------------- ML WITH CROSS VALIDATION ------------------
 
-    public void mlCV(String car, String mode, File file){
-        ArrayList<MLObject> listMLObj = new ArrayList<>();
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    public void mlCV(String car, String mode){
+
 
         try {
             ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/" + mode + "/"+ car +".arff");
@@ -123,11 +143,12 @@ public class MachineLearningCV {
             fr.write(summary + "\n");
             fr.close();
 
-            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml_cv/" + mode + "/" + car + ".json"));
 
             for (int i = 0 ; i < eval.predictions().size(); i++){
                 Prediction p = eval.predictions().get(i);
-                System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
+
+                int power = (int) predictedData.get(i).value(0);
+                //System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
 
                 PredictedValues pv = null;
                 if (values.size() < eval.predictions().size()){
@@ -136,7 +157,9 @@ public class MachineLearningCV {
                     pv = values.get(i);
                 }
 
-                pv.setObjectID(i);
+                pv.setId(i);
+                pv.setPower(power);
+
                 switch (car){
                     case "danceability":
                         pv.setDanceability((float)p.predicted());
@@ -158,15 +181,12 @@ public class MachineLearningCV {
                         break;
                 }
 
-                values.add(pv);
+                if (values.size() < eval.predictions().size()){
+                    values.add(pv);
+                }
 
-                //MLObject ml = findNear(car, (float) p.predicted());
-                //listMLObj.add(ml);
             }
 
-            String json = gson.toJson(listMLObj);
-            bf.write(json);
-            bf.close();
 
         } catch (Exception e){
             e.printStackTrace();
@@ -174,55 +194,4 @@ public class MachineLearningCV {
     }
 
 
-
-    public MLObject findNear(String car, float predicted){
-        MLObject ml = new MLObject();
-        ml.setPredictedCar(car);
-        try{
-            int zero = 0;
-            float predictedABS = Math.abs(predicted);
-            float maxDistance = predictedABS - zero;
-            for (Preference pref : lista){
-                float myNumber = 0;
-                float prefNum = new Float(pref.getPreference());
-                switch (car){
-                    case "danceability":
-                        myNumber = pref.getTraccia().getDanceability();
-                        break;
-                    case "energy":
-                        myNumber = pref.getTraccia().getEnergy();
-                        break;
-                    case "loudness":
-                        myNumber = Math.abs(pref.getTraccia().getLoudness());
-                        break;
-                    case "speechiness":
-                        myNumber = pref.getTraccia().getSpeechiness();
-                        break;
-                    case "valence":
-                        myNumber = pref.getTraccia().getValence();
-                        break;
-                    case "tempo":
-                        myNumber = pref.getTraccia().getTempo();
-                        break;
-                }
-
-                float distance = Math.abs(myNumber - predictedABS);
-                if ((distance < maxDistance) && (prefNum > 3)){
-                    maxDistance = distance;
-                    ml.setPreference(pref);
-                    ml.getPreference().setTraccia(pref.getTraccia());
-                    ml.setDistancePredictedOriginal(maxDistance);
-                }
-            }
-
-            System.out.println("MIN " + car + " FROM PREDICTED " + ml.getPreference().getTraccia().getNumber(car));
-            System.out.println("MIN DISTANCE " + ml.getDistancePredictedOriginal());
-            System.out.println("PREFERENCE \n" + ml.getPreference().getTraccia() + "VOTE " + ml.getPreference().getPreference() + "\n");
-
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-
-        return ml;
-    }
 }

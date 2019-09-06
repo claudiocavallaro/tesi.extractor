@@ -3,7 +3,7 @@ package extractor.control;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import extractor.MainExec;
-import extractor.model.MLObject;
+
 import extractor.model.Preference;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
@@ -50,7 +50,7 @@ public class MachineLearning {
 
     //-------------------- ML ----------------------------------------
 
-    public MLObject findNear(String car, float predicted){
+    /*public MLObject findNear(String car, float predicted){
         MLObject ml = new MLObject();
         ml.setPredictedCar(car);
         try{
@@ -99,7 +99,7 @@ public class MachineLearning {
         }
 
         return ml;
-    }
+    }*/
 
     public Instances prepareSet(Instances testSet) {
         Instances neww = null;
@@ -127,7 +127,7 @@ public class MachineLearning {
     private void ml(String car, String mode, File file) {
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        ArrayList<MLObject> listMLObj = new ArrayList<>();
+        //ArrayList<MLObject> listMLObj = new ArrayList<>();
 
         try {
             ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/"+ mode +"/"+ car +".arff");
@@ -166,19 +166,19 @@ public class MachineLearning {
             System.out.print("the expression for the input data as per alogorithm is ");
             System.out.println(rf);
 
-            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/" + mode + "/" + car + ".json"));
+            //BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/" + mode + "/" + car + ".json"));
 
             for (Prediction p : eval.predictions()) {
                 System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
 
-                MLObject ml = findNear(car, (float) p.predicted());
-                listMLObj.add(ml);
+                //MLObject ml = findNear(car, (float) p.predicted());
+                //listMLObj.add(ml);
             }
 
 
-            String json = gson.toJson(listMLObj);
-            bf.write(json);
-            bf.close();
+            //String json = gson.toJson(listMLObj);
+            //bf.write(json);
+            //bf.close();
         } catch (Exception e) {
             e.printStackTrace();
         }

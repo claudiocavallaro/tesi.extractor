@@ -52,3 +52,111 @@ Relative absolute error                101.2167 %
 Root relative squared error            108.5815 %
 Total Number of Instances               20     
 
+------ SUMMARY danceabilitysingle ----- 
+
+Correlation coefficient                 -0.1865
+Mean absolute error                      0.1175
+Root mean squared error                  0.1489
+Relative absolute error                110.9509 %
+Root relative squared error            119.9813 %
+Total Number of Instances               20     
+
+------ SUMMARY speechinesssingle ----- 
+
+Correlation coefficient                  0.3107
+Mean absolute error                      0.0805
+Root mean squared error                  0.0976
+Relative absolute error                101.1624 %
+Root relative squared error            100.2105 %
+Total Number of Instances               20     
+
+------ SUMMARY energysingle ----- 
+
+Correlation coefficient                 -0.2336
+Mean absolute error                      0.1176
+Root mean squared error                  0.1614
+Relative absolute error                122.7283 %
+Root relative squared error            123.153  %
+Total Number of Instances               20     
+
+------ SUMMARY loudnesssingle ----- 
+
+Correlation coefficient                 -0.0204
+Mean absolute error                      1.368 
+Root mean squared error                  1.8173
+Relative absolute error                121.5925 %
+Root relative squared error            115.6466 %
+Total Number of Instances               20     
+
+------ SUMMARY valencesingle ----- 
+
+Correlation coefficient                  0.0722
+Mean absolute error                      0.2647
+Root mean squared error                  0.3185
+Relative absolute error                104.2092 %
+Root relative squared error            115.2371 %
+Total Number of Instances               20     
+
+------ SUMMARY temposingle ----- 
+
+Correlation coefficient                  0.0622
+Mean absolute error                     25.8377
+Root mean squared error                 33.4276
+Relative absolute error                101.2167 %
+Root relative squared error            108.5815 %
+Total Number of Instances               20     
+
+------ SUMMARY danceabilitysingle ----- 
+
+Correlation coefficient                 -0.1865
+Mean absolute error                      0.1175
+Root mean squared error                  0.1489
+Relative absolute error                110.9509 %
+Root relative squared error            119.9813 %
+Total Number of Instances               20     
+
+------ SUMMARY speechinesssingle ----- 
+
+Correlation coefficient                  0.3107
+Mean absolute error                      0.0805
+Root mean squared error                  0.0976
+Relative absolute error                101.1624 %
+Root relative squared error            100.2105 %
+Total Number of Instances               20     
+
+------ SUMMARY energysingle ----- 
+
+Correlation coefficient                 -0.2336
+Mean absolute error                      0.1176
+Root mean squared error                  0.1614
+Relative absolute error                122.7283 %
+Root relative squared error            123.153  %
+Total Number of Instances               20     
+
+------ SUMMARY loudnesssingle ----- 
+
+Correlation coefficient                 -0.0204
+Mean absolute error                      1.368 
+Root mean squared error                  1.8173
+Relative absolute error                121.5925 %
+Root relative squared error            115.6466 %
+Total Number of Instances               20     
+
+------ SUMMARY valencesingle ----- 
+
+Correlation coefficient                  0.0722
+Mean absolute error                      0.2647
+Root mean squared error                  0.3185
+Relative absolute error                104.2092 %
+Root relative squared error            115.2371 %
+Total Number of Instances               20     
+
+------ SUMMARY temposingle ----- 
+
+Correlation coefficient                  0.0622
+Mean absolute error                     25.8377
+Root mean squared error                 33.4276
+Relative absolute error                101.2167 %
+Root relative squared error            108.5815 %
+Total Number of Instances               20     
+

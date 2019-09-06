@@ -52,3 +52,111 @@ Relative absolute error                 45.7042 %
 Root relative squared error             57.4061 %
 Total Number of Instances               77     
 
+------ SUMMARY danceabilityduplication ----- 
+
+Correlation coefficient                  0.8365
+Mean absolute error                      0.0375
+Root mean squared error                  0.0595
+Relative absolute error                 42.0745 %
+Root relative squared error             55.4885 %
+Total Number of Instances               77     
+
+------ SUMMARY speechinessduplication ----- 
+
+Correlation coefficient                  0.7144
+Mean absolute error                      0.0407
+Root mean squared error                  0.063 
+Relative absolute error                 49.7768 %
+Root relative squared error             69.3989 %
+Total Number of Instances               77     
+
+------ SUMMARY energyduplication ----- 
+
+Correlation coefficient                  0.7107
+Mean absolute error                      0.0508
+Root mean squared error                  0.0839
+Relative absolute error                 57.5349 %
+Root relative squared error             70.5138 %
+Total Number of Instances               77     
+
+------ SUMMARY loudnessduplication ----- 
+
+Correlation coefficient                  0.5916
+Mean absolute error                      0.8104
+Root mean squared error                  1.5677
+Relative absolute error                 60.3087 %
+Root relative squared error             81.7918 %
+Total Number of Instances               77     
+
+------ SUMMARY valenceduplication ----- 
+
+Correlation coefficient                  0.8248
+Mean absolute error                      0.0941
+Root mean squared error                  0.1347
+Relative absolute error                 44.2783 %
+Root relative squared error             56.8414 %
+Total Number of Instances               77     
+
+------ SUMMARY tempoduplication ----- 
+
+Correlation coefficient                  0.8268
+Mean absolute error                      9.2125
+Root mean squared error                 15.4935
+Relative absolute error                 45.7042 %
+Root relative squared error             57.4061 %
+Total Number of Instances               77     
+
+------ SUMMARY danceabilityduplication ----- 
+
+Correlation coefficient                  0.8365
+Mean absolute error                      0.0375
+Root mean squared error                  0.0595
+Relative absolute error                 42.0745 %
+Root relative squared error             55.4885 %
+Total Number of Instances               77     
+
+------ SUMMARY speechinessduplication ----- 
+
+Correlation coefficient                  0.7144
+Mean absolute error                      0.0407
+Root mean squared error                  0.063 
+Relative absolute error                 49.7768 %
+Root relative squared error             69.3989 %
+Total Number of Instances               77     
+
+------ SUMMARY energyduplication ----- 
+
+Correlation coefficient                  0.7107
+Mean absolute error                      0.0508
+Root mean squared error                  0.0839
+Relative absolute error                 57.5349 %
+Root relative squared error             70.5138 %
+Total Number of Instances               77     
+
+------ SUMMARY loudnessduplication ----- 
+
+Correlation coefficient                  0.5916
+Mean absolute error                      0.8104
+Root mean squared error                  1.5677
+Relative absolute error                 60.3087 %
+Root relative squared error             81.7918 %
+Total Number of Instances               77     
+
+------ SUMMARY valenceduplication ----- 
+
+Correlation coefficient                  0.8248
+Mean absolute error                      0.0941
+Root mean squared error                  0.1347
+Relative absolute error                 44.2783 %
+Root relative squared error             56.8414 %
+Total Number of Instances               77     
+
+------ SUMMARY tempoduplication ----- 
+
+Correlation coefficient                  0.8268
+Mean absolute error                      9.2125
+Root mean squared error                 15.4935
+Relative absolute error                 45.7042 %
+Root relative squared error             57.4061 %
+Total Number of Instances               77     
+

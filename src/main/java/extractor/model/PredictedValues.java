@@ -2,14 +2,23 @@ package extractor.model;
 
 public class PredictedValues {
 
-    private int objectID;
+    private int power;
+    private int id;
 
-    public int getObjectID() {
-        return objectID;
+    public int getId() {
+        return id;
     }
 
-    public void setObjectID(int objectID) {
-        this.objectID = objectID;
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getPower() {
+        return power;
+    }
+
+    public void setPower(int power) {
+        this.power = power;
     }
 
     //-----------------------------------------
@@ -70,7 +79,7 @@ public class PredictedValues {
     }
 
     public String toString(){
-        return "Predicted " + objectID + "\ndanceability " + danceability + "\nspeechiness " + speechiness
+        return "id " + id  + "\nPredicted on " + power + "W\ndanceability " + danceability + "\nspeechiness " + speechiness
                 + "\nloudness " + loudness + "\nenergy " + energy + "\nvalence " + valence + "\ntempo " + tempo + "\n----------------";
     }
 }
