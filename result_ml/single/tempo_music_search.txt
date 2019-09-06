@@ -1,0 +1,141 @@
+Distance based on tempo
+id 0
+Power 706
+Predicted 139.75787
+Distance 1.8971252
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 1
+Power 385
+Predicted 129.0054
+Distance 0.0043945312
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 2
+Power 38
+Predicted 106.55938
+Distance 0.44561768
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 3
+Power 383
+Predicted 129.0054
+Distance 0.0043945312
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 4
+Power 37
+Predicted 117.850296
+Distance 1.9597015
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 5
+Power 463
+Predicted 152.0827
+Distance 8.004303
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 6
+Power 37
+Predicted 117.850296
+Distance 1.9597015
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 7
+Power 363
+Predicted 130.426
+Distance 0.43499756
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 8
+Power 341
+Predicted 107.20242
+Distance 0.19742584
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 9
+Power 548
+Predicted 139.1307
+Distance 2.524292
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 10
+Power 801
+Predicted 116.940125
+Distance 2.017128
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 11
+Power 494
+Predicted 115.4438
+Distance 0.52080536
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 12
+Power 36
+Predicted 129.6232
+Distance 0.2758026
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 13
+Power 38
+Predicted 106.55938
+Distance 0.44561768
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 14
+Power 387
+Predicted 126.9659
+Distance 0.9111023
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 15
+Power 37
+Predicted 117.850296
+Distance 1.9597015
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 16
+Power 39
+Predicted 102.21885
+Distance 0.2098465
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 17
+Power 407
+Predicted 127.991264
+Distance 0.0067367554
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 18
+Power 364
+Predicted 147.074
+Distance 5.4190063
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 19
+Power 370
+Predicted 114.812
+Distance 0.11100006
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+

@@ -23,9 +23,6 @@ import java.util.ArrayList;
 
 public class MachineLearning {
 
-
-    private ArrayList<Preference> lista = MainExec.getLista();
-
     private File file ;
     private FileWriter fr = null;
 

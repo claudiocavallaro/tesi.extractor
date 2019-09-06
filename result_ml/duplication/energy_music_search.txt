@@ -1,0 +1,540 @@
+Distance based on energy
+id 0
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 1
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 2
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 3
+Power 1154
+Predicted 0.781
+Distance 0.004999995
+TRACK NAME : Ostia lido
+ARTIST : J-AX 
+
+id 4
+Power 354
+Predicted 0.7959875
+Distance 0.0019874573
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 5
+Power 356
+Predicted 0.773
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 6
+Power 341
+Predicted 0.54968333
+Distance 0.02731669
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 7
+Power 38
+Predicted 0.84747916
+Distance 4.7916174E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 8
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 9
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 10
+Power 38
+Predicted 0.84747916
+Distance 4.7916174E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 11
+Power 898
+Predicted 0.782
+Distance 0.004000008
+TRACK NAME : Ostia lido
+ARTIST : J-AX 
+
+id 12
+Power 530
+Predicted 0.7534
+Distance 5.9998035E-4
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 13
+Power 38
+Predicted 0.84747916
+Distance 4.7916174E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 14
+Power 934
+Predicted 0.863
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 15
+Power 408
+Predicted 0.874
+Distance 0.0059999824
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 16
+Power 831
+Predicted 0.86047316
+Distance 4.7314167E-4
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 17
+Power 43
+Predicted 0.8477857
+Distance 7.857084E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 18
+Power 385
+Predicted 0.7864
+Distance 4.0000677E-4
+TRACK NAME : Ostia lido
+ARTIST : J-AX 
+
+id 19
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 20
+Power 363
+Predicted 0.738422
+Distance 0.001421988
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 21
+Power 449
+Predicted 0.773
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 22
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 23
+Power 482
+Predicted 0.7106
+Distance 0.0026000142
+TRACK NAME : Domenica
+ARTIST : Coez 
+
+id 24
+Power 390
+Predicted 0.8823
+Distance 0.002300024
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 25
+Power 435
+Predicted 0.6031
+Distance 0.024100006
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 26
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 27
+Power 393
+Predicted 0.767
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 28
+Power 411
+Predicted 0.77286714
+Distance 1.3285875E-4
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 29
+Power 654
+Predicted 0.988
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 30
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 31
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 32
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 33
+Power 354
+Predicted 0.7959875
+Distance 0.0019874573
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 34
+Power 38
+Predicted 0.84747916
+Distance 4.7916174E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 35
+Power 341
+Predicted 0.54968333
+Distance 0.02731669
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 36
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 37
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 38
+Power 43
+Predicted 0.8477857
+Distance 7.857084E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 39
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 40
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 41
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 42
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 43
+Power 133
+Predicted 0.662
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 44
+Power 446
+Predicted 0.7442
+Distance 0.0012000203
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 45
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 46
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 47
+Power 411
+Predicted 0.77286714
+Distance 1.3285875E-4
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 48
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 49
+Power 585
+Predicted 0.86
+Distance 0.0
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 50
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 51
+Power 411
+Predicted 0.77286714
+Distance 1.3285875E-4
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 52
+Power 530
+Predicted 0.7534
+Distance 5.9998035E-4
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 53
+Power 408
+Predicted 0.874
+Distance 0.0059999824
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 54
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 55
+Power 407
+Predicted 0.643
+Distance 9.999871E-4
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 56
+Power 36
+Predicted 0.7650771
+Distance 0.0019229054
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 57
+Power 446
+Predicted 0.7442
+Distance 0.0012000203
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 58
+Power 392
+Predicted 0.723
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 59
+Power 443
+Predicted 0.838
+Distance 0.0
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 60
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 61
+Power 500
+Predicted 0.863
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 62
+Power 411
+Predicted 0.77286714
+Distance 1.3285875E-4
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 63
+Power 647
+Predicted 0.9151
+Distance 9.0003014E-4
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
+id 64
+Power 367
+Predicted 0.803
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 65
+Power 39
+Predicted 0.7999862
+Distance 1.3828278E-5
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 66
+Power 38
+Predicted 0.84747916
+Distance 4.7916174E-4
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 67
+Power 367
+Predicted 0.803
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 68
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 69
+Power 394
+Predicted 0.787
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 70
+Power 441
+Predicted 0.7984
+Distance 4.0000677E-4
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 71
+Power 706
+Predicted 0.7945251
+Distance 5.250573E-4
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 72
+Power 482
+Predicted 0.7106
+Distance 0.0026000142
+TRACK NAME : Domenica
+ARTIST : Coez 
+
+id 73
+Power 383
+Predicted 0.5596
+Distance 0.017400026
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 74
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 75
+Power 493
+Predicted 0.805
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 76
+Power 37
+Predicted 0.7582859
+Distance 0.004285872
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+

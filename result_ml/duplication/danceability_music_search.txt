@@ -1,0 +1,540 @@
+Distance based on danceability
+id 0
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 1
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 2
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 3
+Power 1154
+Predicted 0.5618
+Distance 0.0022000074
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 4
+Power 354
+Predicted 0.5983875
+Distance 0.004387498
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 5
+Power 356
+Predicted 0.564
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 6
+Power 341
+Predicted 0.70928335
+Distance 0.0027166605
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 7
+Power 38
+Predicted 0.67439187
+Distance 0.0016081333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 8
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 9
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 10
+Power 38
+Predicted 0.67439187
+Distance 0.0016081333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 11
+Power 898
+Predicted 0.5572
+Distance 0.006799996
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 12
+Power 530
+Predicted 0.5913
+Distance 0.0016999841
+TRACK NAME : Mamacita (feat. Farruko)
+ARTIST : Jason Derulo Farruko 
+
+id 13
+Power 38
+Predicted 0.67439187
+Distance 0.0016081333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 14
+Power 934
+Predicted 0.496
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 15
+Power 408
+Predicted 0.5247
+Distance 0.012699962
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 16
+Power 831
+Predicted 0.496
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 17
+Power 43
+Predicted 0.5564714
+Distance 0.007528603
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 18
+Power 385
+Predicted 0.5566
+Distance 0.007400036
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 19
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 20
+Power 363
+Predicted 0.5972
+Distance 0.0031999946
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 21
+Power 449
+Predicted 0.564
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 22
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 23
+Power 482
+Predicted 0.7468
+Distance 0.0018000007
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 24
+Power 390
+Predicted 0.6376
+Distance 0.0026000142
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 25
+Power 435
+Predicted 0.8278
+Distance 0.0092000365
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 26
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 27
+Power 393
+Predicted 0.618
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 28
+Power 411
+Predicted 0.74346143
+Distance 0.0015385747
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 29
+Power 654
+Predicted 0.38
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 30
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 31
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 32
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 33
+Power 354
+Predicted 0.5983875
+Distance 0.004387498
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 34
+Power 38
+Predicted 0.67439187
+Distance 0.0016081333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 35
+Power 341
+Predicted 0.70928335
+Distance 0.0027166605
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 36
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 37
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 38
+Power 43
+Predicted 0.5564714
+Distance 0.007528603
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 39
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 40
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 41
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 42
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 43
+Power 133
+Predicted 0.906
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 44
+Power 446
+Predicted 0.576
+Distance 0.003000021
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 45
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 46
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 47
+Power 411
+Predicted 0.74346143
+Distance 0.0015385747
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 48
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 49
+Power 585
+Predicted 0.737
+Distance 0.0
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 50
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 51
+Power 411
+Predicted 0.74346143
+Distance 0.0015385747
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 52
+Power 530
+Predicted 0.5913
+Distance 0.0016999841
+TRACK NAME : Mamacita (feat. Farruko)
+ARTIST : Jason Derulo Farruko 
+
+id 53
+Power 408
+Predicted 0.5247
+Distance 0.012699962
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 54
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 55
+Power 407
+Predicted 0.7676
+Distance 0.002399981
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 56
+Power 36
+Predicted 0.6986629
+Distance 0.0036628842
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 57
+Power 446
+Predicted 0.576
+Distance 0.003000021
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 58
+Power 392
+Predicted 0.661
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 59
+Power 443
+Predicted 0.7465152
+Distance 0.0015152097
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 60
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 61
+Power 500
+Predicted 0.496
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 62
+Power 411
+Predicted 0.74346143
+Distance 0.0015385747
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 63
+Power 647
+Predicted 0.479
+Distance 0.011000007
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 64
+Power 367
+Predicted 0.685
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 65
+Power 39
+Predicted 0.68741107
+Distance 4.1109324E-4
+TRACK NAME : Happier
+ARTIST : Marshmello Bastille 
+
+id 66
+Power 38
+Predicted 0.67439187
+Distance 0.0016081333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 67
+Power 367
+Predicted 0.685
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 68
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 69
+Power 394
+Predicted 0.77
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 70
+Power 441
+Predicted 0.7465152
+Distance 0.0015152097
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 71
+Power 706
+Predicted 0.6427011
+Distance 0.007701099
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 72
+Power 482
+Predicted 0.7468
+Distance 0.0018000007
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 73
+Power 383
+Predicted 0.751
+Distance 0.0019999743
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 74
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 75
+Power 493
+Predicted 0.681
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 76
+Power 37
+Predicted 0.6476197
+Distance 0.012619734
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+

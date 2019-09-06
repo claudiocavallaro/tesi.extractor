@@ -78,6 +78,31 @@ public class PredictedValues {
         this.tempo = tempo;
     }
 
+    public float getNumber(String car){
+        float myNumber = 0;
+        switch (car){
+            case "danceability":
+                myNumber = danceability;
+                break;
+            case "energy":
+                myNumber = energy;
+                break;
+            case "loudness":
+                myNumber = loudness;
+                break;
+            case "speechiness":
+                myNumber =speechiness;
+                break;
+            case "valence":
+                myNumber = valence;
+                break;
+            case "tempo":
+                myNumber = tempo;
+                break;
+        }
+        return myNumber;
+    }
+
     public String toString(){
         return "id " + id  + "\nPredicted on " + power + "W\ndanceability " + danceability + "\nspeechiness " + speechiness
                 + "\nloudness " + loudness + "\nenergy " + energy + "\nvalence " + valence + "\ntempo " + tempo + "\n----------------";

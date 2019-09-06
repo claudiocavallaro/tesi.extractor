@@ -1,0 +1,673 @@
+Distance based on tempo
+id 0
+Power 355
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 1
+Power 38
+Predicted 110.976
+Distance 0.9580002
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 2
+Power 463
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 3
+Power 411
+Predicted 182.068
+Distance 0.0
+TRACK NAME : Kiki Do You Love Me
+ARTIST : Shrey Singhal 
+
+id 4
+Power 647
+Predicted 186.113
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 5
+Power 36
+Predicted 124.92518
+Distance 0.07282257
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 6
+Power 43
+Predicted 100.032
+Distance 0.002998352
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 7
+Power 398
+Predicted 124.542
+Distance 0.45600128
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 8
+Power 37
+Predicted 127.52993
+Distance 0.3470688
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 9
+Power 36
+Predicted 125.63127
+Distance 0.33473206
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 10
+Power 387
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 11
+Power 407
+Predicted 132.057
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 12
+Power 530
+Predicted 109.904
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 13
+Power 435
+Predicted 135.959
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 14
+Power 449
+Predicted 128.03
+Distance 0.03199768
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 15
+Power 441
+Predicted 128.03
+Distance 0.03199768
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 16
+Power 500
+Predicted 119.8745
+Distance 0.0644989
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 17
+Power 36
+Predicted 127.28727
+Distance 0.5897293
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 18
+Power 460
+Predicted 160.087
+Distance 0.0
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 19
+Power 548
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 20
+Power 36
+Predicted 126.83855
+Distance 0.87254333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 21
+Power 36
+Predicted 126.83855
+Distance 0.87254333
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 22
+Power 370
+Predicted 107.005
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 23
+Power 361
+Predicted 127.877
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 24
+Power 38
+Predicted 103.989
+Distance 0.019004822
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 25
+Power 37
+Predicted 129.03365
+Distance 0.03263855
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 26
+Power 36
+Predicted 125.29109
+Distance 0.27809143
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 27
+Power 383
+Predicted 132.057
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 28
+Power 394
+Predicted 124.071
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 29
+Power 443
+Predicted 135.959
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 30
+Power 585
+Predicted 100.035
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 31
+Power 856
+Predicted 110.018
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 32
+Power 364
+Predicted 127.877
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 33
+Power 354
+Predicted 128.062
+Distance 0.0
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 34
+Power 404
+Predicted 109.904
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 35
+Power 654
+Predicted 132.057
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 36
+Power 524
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 37
+Power 356
+Predicted 105.256
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 38
+Power 37
+Predicted 126.24093
+Distance 0.27492523
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 39
+Power 367
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 40
+Power 37
+Predicted 127.52993
+Distance 0.3470688
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 41
+Power 385
+Predicted 132.057
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 42
+Power 456
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 43
+Power 37
+Predicted 128.24443
+Distance 0.11143494
+TRACK NAME : No Sleep (feat. Bonn)
+ARTIST : Martin Garrix Bonn 
+
+id 44
+Power 363
+Predicted 95.079
+Distance 0.0
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 45
+Power 37
+Predicted 129.24464
+Distance 0.24363708
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 46
+Power 39
+Predicted 100.029
+Distance 0.0
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 47
+Power 523
+Predicted 109.961
+Distance 0.056999207
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 48
+Power 37
+Predicted 126.813644
+Distance 0.847641
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 49
+Power 37
+Predicted 126.676
+Distance 0.7099991
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 50
+Power 37
+Predicted 121.97557
+Distance 0.24842834
+TRACK NAME : 90MIN
+ARTIST : Salmo 
+
+id 51
+Power 38
+Predicted 112.4825
+Distance 1.2955017
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 52
+Power 37
+Predicted 126.676
+Distance 0.7099991
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 53
+Power 390
+Predicted 113.778
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 54
+Power 37
+Predicted 127.89185
+Distance 0.014854431
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 55
+Power 36
+Predicted 125.46627
+Distance 0.45326996
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 56
+Power 393
+Predicted 125.013
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 57
+Power 366
+Predicted 107.005
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 58
+Power 772
+Predicted 119.939
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 59
+Power 492
+Predicted 119.8745
+Distance 0.0644989
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 60
+Power 971
+Predicted 114.923
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 61
+Power 37
+Predicted 126.533356
+Distance 0.5673523
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 62
+Power 953
+Predicted 114.923
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 63
+Power 446
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 64
+Power 962
+Predicted 186.113
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 65
+Power 934
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 66
+Power 36
+Predicted 125.63127
+Distance 0.33473206
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 67
+Power 898
+Predicted 110.018
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 68
+Power 384
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 69
+Power 341
+Predicted 111.5705
+Distance 1.5525055
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 70
+Power 354
+Predicted 95.079
+Distance 0.0
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 71
+Power 408
+Predicted 109.904
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 72
+Power 36
+Predicted 119.30873
+Distance 0.5012665
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 73
+Power 1154
+Predicted 105.256
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 74
+Power 38
+Predicted 103.989
+Distance 0.019004822
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 75
+Power 37
+Predicted 126.3885
+Distance 0.42249298
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 76
+Power 133
+Predicted 105.256
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 77
+Power 411
+Predicted 127.9375
+Distance 0.025497437
+TRACK NAME : Summer
+ARTIST : Calvin Harris 
+
+id 78
+Power 482
+Predicted 105.256
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 79
+Power 1023
+Predicted 186.113
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 80
+Power 763
+Predicted 119.939
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 81
+Power 801
+Predicted 119.939
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 82
+Power 419
+Predicted 155.033
+Distance 5.054001
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 83
+Power 38
+Predicted 112.4825
+Distance 1.2955017
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 84
+Power 392
+Predicted 124.542
+Distance 0.45600128
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 85
+Power 36
+Predicted 124.737366
+Distance 0.26063538
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 86
+Power 706
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 87
+Power 36
+Predicted 127.28727
+Distance 0.5897293
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 88
+Power 40
+Predicted 106.1305
+Distance 0.13349915
+TRACK NAME : Domenica
+ARTIST : Coez 
+
+id 89
+Power 831
+Predicted 119.939
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 90
+Power 706
+Predicted 119.896
+Distance 0.042999268
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 91
+Power 37
+Predicted 126.676
+Distance 0.7099991
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 92
+Power 494
+Predicted 119.81
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 93
+Power 36
+Predicted 124.92518
+Distance 0.07282257
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 94
+Power 37
+Predicted 121.97557
+Distance 0.24842834
+TRACK NAME : 90MIN
+ARTIST : Salmo 
+
+id 95
+Power 493
+Predicted 119.939
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+

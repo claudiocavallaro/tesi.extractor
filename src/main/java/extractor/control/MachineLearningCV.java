@@ -21,8 +21,6 @@ import java.util.Random;
 
 public class MachineLearningCV {
 
-    private ArrayList<Preference> lista = MainExec.getLista();
-
     private File file ;
     private FileWriter fr = null;
 

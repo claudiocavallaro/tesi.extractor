@@ -1,0 +1,141 @@
+Distance based on danceability
+id 0
+Power 706
+Predicted 0.6063667
+Distance 0.0046333075
+TRACK NAME : Linda
+ARTIST : Emis Killa 
+
+id 1
+Power 385
+Predicted 0.5506
+Distance 0.008599997
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 2
+Power 38
+Predicted 0.68187
+Distance 8.699894E-4
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 3
+Power 383
+Predicted 0.5506
+Distance 0.008599997
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 4
+Power 37
+Predicted 0.6914855
+Distance 0.0024855137
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 5
+Power 463
+Predicted 0.6267
+Distance 6.9999695E-4
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 6
+Power 37
+Predicted 0.6914855
+Distance 0.0024855137
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 7
+Power 363
+Predicted 0.6343
+Distance 6.9999695E-4
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 8
+Power 341
+Predicted 0.587875
+Distance 1.2499094E-4
+TRACK NAME : Summer
+ARTIST : Calvin Harris 
+
+id 9
+Power 548
+Predicted 0.69056666
+Distance 0.0015666485
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 10
+Power 801
+Predicted 0.73536664
+Distance 3.6662817E-4
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 11
+Power 494
+Predicted 0.6393
+Distance 0.0042999983
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 12
+Power 36
+Predicted 0.6882295
+Distance 2.2947788E-4
+TRACK NAME : Born To Be Yours
+ARTIST : Kygo Imagine Dragons 
+
+id 13
+Power 38
+Predicted 0.68187
+Distance 8.699894E-4
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 14
+Power 387
+Predicted 0.6231
+Distance 0.0029000044
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 15
+Power 37
+Predicted 0.6914855
+Distance 0.0024855137
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 16
+Power 39
+Predicted 0.6837
+Distance 0.0012999773
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 17
+Power 407
+Predicted 0.5497
+Distance 0.007700026
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 18
+Power 364
+Predicted 0.6076
+Distance 0.0034000278
+TRACK NAME : Linda
+ARTIST : Emis Killa 
+
+id 19
+Power 370
+Predicted 0.6681
+Distance 0.0038999915
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+

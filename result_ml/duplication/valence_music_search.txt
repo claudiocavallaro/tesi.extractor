@@ -1,0 +1,540 @@
+Distance based on valence
+id 0
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 1
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 2
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 3
+Power 1154
+Predicted 0.1387
+Distance 0.0113000125
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 4
+Power 354
+Predicted 0.56925
+Distance 0.021750033
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
+id 5
+Power 356
+Predicted 0.113
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 6
+Power 341
+Predicted 0.3638
+Distance 0.0022000074
+TRACK NAME : Linda
+ARTIST : Emis Killa 
+
+id 7
+Power 38
+Predicted 0.6800108
+Distance 0.006989181
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 8
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 9
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 10
+Power 38
+Predicted 0.6800108
+Distance 0.006989181
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 11
+Power 898
+Predicted 0.126
+Distance 0.013000004
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 12
+Power 530
+Predicted 0.1747
+Distance 0.0247
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 13
+Power 38
+Predicted 0.6800108
+Distance 0.006989181
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 14
+Power 934
+Predicted 0.243
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 15
+Power 408
+Predicted 0.2608
+Distance 0.017800003
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 16
+Power 831
+Predicted 0.243
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 17
+Power 43
+Predicted 0.396
+Distance 0.002000004
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 18
+Power 385
+Predicted 0.1227
+Distance 0.0097
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 19
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 20
+Power 363
+Predicted 0.4197
+Distance 0.012699991
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 21
+Power 449
+Predicted 0.113
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 22
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 23
+Power 482
+Predicted 0.7476
+Distance 0.0146000385
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
+id 24
+Power 390
+Predicted 0.1666
+Distance 0.016599998
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 25
+Power 435
+Predicted 0.7284
+Distance 0.0016000271
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 26
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 27
+Power 393
+Predicted 0.239
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 28
+Power 411
+Predicted 0.6540538
+Distance 0.0019462109
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 29
+Power 654
+Predicted 0.769
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 30
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 31
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 32
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 33
+Power 354
+Predicted 0.56925
+Distance 0.021750033
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
+id 34
+Power 38
+Predicted 0.6800108
+Distance 0.006989181
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 35
+Power 341
+Predicted 0.3638
+Distance 0.0022000074
+TRACK NAME : Linda
+ARTIST : Emis Killa 
+
+id 36
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 37
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 38
+Power 43
+Predicted 0.396
+Distance 0.002000004
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 39
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 40
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 41
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 42
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 43
+Power 133
+Predicted 0.863
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 44
+Power 446
+Predicted 0.4978
+Distance 0.0027999878
+TRACK NAME : Mamacita (feat. Farruko)
+ARTIST : Jason Derulo Farruko 
+
+id 45
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 46
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 47
+Power 411
+Predicted 0.6540538
+Distance 0.0019462109
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 48
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 49
+Power 585
+Predicted 0.656
+Distance 0.0
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 50
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 51
+Power 411
+Predicted 0.6540538
+Distance 0.0019462109
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 52
+Power 530
+Predicted 0.1747
+Distance 0.0247
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 53
+Power 408
+Predicted 0.2608
+Distance 0.017800003
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 54
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 55
+Power 407
+Predicted 0.6248
+Distance 0.005199969
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 56
+Power 36
+Predicted 0.42958716
+Distance 0.009412855
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 57
+Power 446
+Predicted 0.4978
+Distance 0.0027999878
+TRACK NAME : Mamacita (feat. Farruko)
+ARTIST : Jason Derulo Farruko 
+
+id 58
+Power 392
+Predicted 0.316
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 59
+Power 443
+Predicted 0.714
+Distance 0.0
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 60
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 61
+Power 500
+Predicted 0.243
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 62
+Power 411
+Predicted 0.6540538
+Distance 0.0019462109
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 63
+Power 647
+Predicted 0.2659
+Distance 0.022899985
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 64
+Power 367
+Predicted 0.799
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 65
+Power 39
+Predicted 0.799
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 66
+Power 38
+Predicted 0.6800108
+Distance 0.006989181
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 67
+Power 367
+Predicted 0.799
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 68
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 69
+Power 394
+Predicted 0.699
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 70
+Power 441
+Predicted 0.4854
+Distance 0.00939998
+TRACK NAME : Tijuana
+ARTIST : Emis Killa 
+
+id 71
+Power 706
+Predicted 0.38273615
+Distance 0.0057361424
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 72
+Power 482
+Predicted 0.7476
+Distance 0.0146000385
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
+id 73
+Power 383
+Predicted 0.5997
+Distance 6.9999695E-4
+TRACK NAME : Domenica
+ARTIST : Coez 
+
+id 74
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 75
+Power 493
+Predicted 0.514
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 76
+Power 37
+Predicted 0.37787434
+Distance 8.7434053E-4
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+

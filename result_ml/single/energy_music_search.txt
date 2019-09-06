@@ -1,0 +1,141 @@
+Distance based on energy
+id 0
+Power 706
+Predicted 0.8647
+Distance 0.0017000437
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 1
+Power 385
+Predicted 0.88626665
+Distance 0.005733371
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 2
+Power 38
+Predicted 0.85852
+Distance 0.0014800429
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 3
+Power 383
+Predicted 0.88626665
+Distance 0.005733371
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 4
+Power 37
+Predicted 0.72366804
+Distance 6.6804886E-4
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 5
+Power 463
+Predicted 0.7854
+Distance 6.0003996E-4
+TRACK NAME : Ostia lido
+ARTIST : J-AX 
+
+id 6
+Power 37
+Predicted 0.72366804
+Distance 6.6804886E-4
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 7
+Power 363
+Predicted 0.746
+Distance 0.003000021
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 8
+Power 341
+Predicted 0.832575
+Distance 0.0025750399
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
+id 9
+Power 548
+Predicted 0.7035
+Distance 0.0015000105
+TRACK NAME : Tijuana
+ARTIST : Emis Killa 
+
+id 10
+Power 801
+Predicted 0.856
+Distance 0.0
+TRACK NAME : Summer
+ARTIST : Calvin Harris 
+
+id 11
+Power 494
+Predicted 0.8194
+Distance 0.010599971
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
+id 12
+Power 36
+Predicted 0.74494624
+Distance 0.0019462705
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
+id 13
+Power 38
+Predicted 0.85852
+Distance 0.0014800429
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 14
+Power 387
+Predicted 0.88346666
+Distance 0.0034666657
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
+id 15
+Power 37
+Predicted 0.72366804
+Distance 6.6804886E-4
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 16
+Power 39
+Predicted 0.81
+Distance 0.004999995
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 17
+Power 407
+Predicted 0.8633
+Distance 3.0004978E-4
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 18
+Power 364
+Predicted 0.769
+Distance 0.0019999743
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 19
+Power 370
+Predicted 0.784
+Distance 0.0020000339
+TRACK NAME : Ostia lido
+ARTIST : J-AX 
+

@@ -1,0 +1,540 @@
+Distance based on speechiness
+id 0
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 1
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 2
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 3
+Power 1154
+Predicted 0.23088
+Distance 0.010880008
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 4
+Power 354
+Predicted 0.049386434
+Distance 4.1356683E-4
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 5
+Power 356
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 6
+Power 341
+Predicted 0.121113665
+Distance 0.001886338
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 7
+Power 38
+Predicted 0.047135346
+Distance 9.353459E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 8
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 9
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 10
+Power 38
+Predicted 0.047135346
+Distance 9.353459E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 11
+Power 898
+Predicted 0.22971
+Distance 0.009709999
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 12
+Power 530
+Predicted 0.2427
+Distance 0.0063000023
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 13
+Power 38
+Predicted 0.047135346
+Distance 9.353459E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 14
+Power 934
+Predicted 0.0381
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 15
+Power 408
+Predicted 0.114
+Distance 0.001000002
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 16
+Power 831
+Predicted 0.0381
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 17
+Power 43
+Predicted 0.047210418
+Distance 8.895807E-4
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 18
+Power 385
+Predicted 0.2367
+Distance 0.0123
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 19
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 20
+Power 363
+Predicted 0.04117
+Distance 0.0011299998
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 21
+Power 449
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 22
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 23
+Power 482
+Predicted 0.04816
+Distance 6.000325E-5
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 24
+Power 390
+Predicted 0.040524762
+Distance 7.247627E-4
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 25
+Power 435
+Predicted 0.155905
+Distance 9.5009804E-5
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 26
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 27
+Power 393
+Predicted 0.0489
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 28
+Power 411
+Predicted 0.054363415
+Distance 0.002236586
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 29
+Power 654
+Predicted 0.063624
+Distance 2.759993E-4
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 30
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 31
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 32
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 33
+Power 354
+Predicted 0.049386434
+Distance 4.1356683E-4
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 34
+Power 38
+Predicted 0.047135346
+Distance 9.353459E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 35
+Power 341
+Predicted 0.121113665
+Distance 0.001886338
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 36
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 37
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 38
+Power 43
+Predicted 0.047210418
+Distance 8.895807E-4
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 39
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 40
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 41
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 42
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 43
+Power 133
+Predicted 0.319
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 44
+Power 446
+Predicted 0.08766025
+Distance 0.0069397464
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
+id 45
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 46
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 47
+Power 411
+Predicted 0.054363415
+Distance 0.002236586
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 48
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 49
+Power 585
+Predicted 0.059484
+Distance 1.8399954E-4
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 50
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 51
+Power 411
+Predicted 0.054363415
+Distance 0.002236586
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 52
+Power 530
+Predicted 0.2427
+Distance 0.0063000023
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 53
+Power 408
+Predicted 0.114
+Distance 0.001000002
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 54
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 55
+Power 407
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 56
+Power 36
+Predicted 0.16236673
+Distance 0.005633265
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 57
+Power 446
+Predicted 0.08766025
+Distance 0.0069397464
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
+id 58
+Power 392
+Predicted 0.0566
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 59
+Power 443
+Predicted 0.04666025
+Distance 4.6024844E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 60
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 61
+Power 500
+Predicted 0.0381
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 62
+Power 411
+Predicted 0.054363415
+Distance 0.002236586
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 63
+Power 647
+Predicted 0.103314
+Distance 0.0036860034
+TRACK NAME : Kiki Do You Love Me
+ARTIST : Shrey Singhal 
+
+id 64
+Power 367
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 65
+Power 39
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 66
+Power 38
+Predicted 0.047135346
+Distance 9.353459E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 67
+Power 367
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 68
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 69
+Power 394
+Predicted 0.10969857
+Distance 0.0013014302
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 70
+Power 441
+Predicted 0.062305
+Distance 1.0500103E-4
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
+id 71
+Power 706
+Predicted 0.25503597
+Distance 0.0019640326
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 72
+Power 482
+Predicted 0.04816
+Distance 6.000325E-5
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 73
+Power 383
+Predicted 0.1215
+Distance 0.001500003
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 74
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 75
+Power 493
+Predicted 0.257
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 76
+Power 37
+Predicted 0.15946916
+Distance 0.0034691542
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+

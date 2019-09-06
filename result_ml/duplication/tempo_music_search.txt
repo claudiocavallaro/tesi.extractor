@@ -1,0 +1,540 @@
+Distance based on tempo
+id 0
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 1
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 2
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 3
+Power 1154
+Predicted 164.9017
+Distance 4.8146973
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 4
+Power 354
+Predicted 114.45651
+Distance 0.44551086
+TRACK NAME : Born To Be Yours
+ARTIST : Kygo Imagine Dragons 
+
+id 5
+Power 356
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 6
+Power 341
+Predicted 167.36038
+Distance 2.6476135
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 7
+Power 38
+Predicted 107.39046
+Distance 0.3854599
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 8
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 9
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 10
+Power 38
+Predicted 107.39046
+Distance 0.3854599
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 11
+Power 898
+Predicted 165.3779
+Distance 4.6300964
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 12
+Power 530
+Predicted 165.3665
+Distance 4.6414948
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 13
+Power 38
+Predicted 107.39046
+Distance 0.3854599
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 14
+Power 934
+Predicted 110.018
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 15
+Power 408
+Predicted 129.8417
+Distance 0.057296753
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 16
+Power 831
+Predicted 110.018
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 17
+Power 43
+Predicted 104.73364
+Distance 0.32735443
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
+id 18
+Power 385
+Predicted 167.5818
+Distance 2.4261932
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 19
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 20
+Power 363
+Predicted 124.5972
+Distance 0.4008026
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 21
+Power 449
+Predicted 171.529
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 22
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 23
+Power 482
+Predicted 102.616
+Distance 0.6069946
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 24
+Power 390
+Predicted 126.558
+Distance 0.59199524
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 25
+Power 435
+Predicted 111.70996
+Distance 1.6919632
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 26
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 27
+Power 393
+Predicted 124.566635
+Distance 0.43136597
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 28
+Power 411
+Predicted 137.20775
+Distance 1.2487488
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 29
+Power 654
+Predicted 186.113
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 30
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 31
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 32
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 33
+Power 354
+Predicted 114.45651
+Distance 0.44551086
+TRACK NAME : Born To Be Yours
+ARTIST : Kygo Imagine Dragons 
+
+id 34
+Power 38
+Predicted 107.39046
+Distance 0.3854599
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 35
+Power 341
+Predicted 167.36038
+Distance 2.6476135
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 36
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 37
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 38
+Power 43
+Predicted 104.73364
+Distance 0.32735443
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
+id 39
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 40
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 41
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 42
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 43
+Power 133
+Predicted 100.034744
+Distance 2.593994E-4
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 44
+Power 446
+Predicted 136.71768
+Distance 0.75868225
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 45
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 46
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 47
+Power 411
+Predicted 137.20775
+Distance 1.2487488
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 48
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 49
+Power 585
+Predicted 93.989
+Distance 0.0
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
+id 50
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 51
+Power 411
+Predicted 137.20775
+Distance 1.2487488
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 52
+Power 530
+Predicted 165.3665
+Distance 4.6414948
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 53
+Power 408
+Predicted 129.8417
+Distance 0.057296753
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 54
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 55
+Power 407
+Predicted 114.3346
+Distance 0.32360077
+TRACK NAME : Born To Be Yours
+ARTIST : Kygo Imagine Dragons 
+
+id 56
+Power 36
+Predicted 125.938614
+Distance 0.027389526
+TRACK NAME : In My Mind
+ARTIST : Dynoro 
+
+id 57
+Power 446
+Predicted 136.71768
+Distance 0.75868225
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 58
+Power 392
+Predicted 113.778
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 59
+Power 443
+Predicted 128.01147
+Distance 0.013473511
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
+id 60
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 61
+Power 500
+Predicted 110.018
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 62
+Power 411
+Predicted 137.20775
+Distance 1.2487488
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 63
+Power 647
+Predicted 137.4626
+Distance 1.5036011
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 64
+Power 367
+Predicted 107.005
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 65
+Power 39
+Predicted 107.005
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 66
+Power 38
+Predicted 107.39046
+Distance 0.3854599
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 67
+Power 367
+Predicted 107.005
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 68
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 69
+Power 394
+Predicted 124.566635
+Distance 0.43136597
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
+id 70
+Power 441
+Predicted 135.15945
+Distance 0.7995453
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 71
+Power 706
+Predicted 136.75677
+Distance 0.79777527
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 72
+Power 482
+Predicted 102.616
+Distance 0.6069946
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 73
+Power 383
+Predicted 157.284
+Distance 2.803009
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 74
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 75
+Power 493
+Predicted 119.86881
+Distance 0.058815002
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 76
+Power 37
+Predicted 128.04427
+Distance 0.017730713
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+

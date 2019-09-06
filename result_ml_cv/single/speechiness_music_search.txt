@@ -1,0 +1,673 @@
+Distance based on speechiness
+id 0
+Power 355
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 1
+Power 38
+Predicted 0.0458
+Distance 0.0
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
+id 2
+Power 463
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 3
+Power 411
+Predicted 0.1075
+Distance 5.00001E-4
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 4
+Power 647
+Predicted 0.0616
+Distance 5.99999E-4
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
+id 5
+Power 36
+Predicted 0.17316364
+Distance 0.0031636357
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 6
+Power 43
+Predicted 0.0423
+Distance 0.0
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 7
+Power 398
+Predicted 0.113
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
+id 8
+Power 37
+Predicted 0.15765
+Distance 0.0016499907
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 9
+Power 36
+Predicted 0.15
+Distance 0.0059999973
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 10
+Power 387
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 11
+Power 407
+Predicted 0.108
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 12
+Power 530
+Predicted 0.168
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 13
+Power 435
+Predicted 0.064
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 14
+Power 449
+Predicted 0.048266668
+Distance 1.6666949E-4
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
+id 15
+Power 441
+Predicted 0.04705
+Distance 8.499995E-4
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
+id 16
+Power 500
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 17
+Power 36
+Predicted 0.17166364
+Distance 0.0016636401
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 18
+Power 460
+Predicted 0.123
+Distance 0.0
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 19
+Power 548
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 20
+Power 36
+Predicted 0.16045454
+Distance 0.004454538
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 21
+Power 36
+Predicted 0.16045454
+Distance 0.004454538
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 22
+Power 370
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 23
+Power 361
+Predicted 0.0398
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 24
+Power 38
+Predicted 0.049025
+Distance 1.2499839E-4
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 25
+Power 37
+Predicted 0.15177143
+Distance 0.004228577
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 26
+Power 36
+Predicted 0.15472728
+Distance 0.0012727231
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 27
+Power 383
+Predicted 0.108
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 28
+Power 394
+Predicted 0.0489
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 29
+Power 443
+Predicted 0.064
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
+id 30
+Power 585
+Predicted 0.319
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
+id 31
+Power 856
+Predicted 0.0381
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 32
+Power 364
+Predicted 0.0398
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 33
+Power 354
+Predicted 0.04895
+Distance 5.0000846E-5
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 34
+Power 404
+Predicted 0.168
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 35
+Power 654
+Predicted 0.108
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 36
+Power 524
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 37
+Power 356
+Predicted 0.049433332
+Distance 3.6666915E-4
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 38
+Power 37
+Predicted 0.15248571
+Distance 0.0035142899
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 39
+Power 367
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 40
+Power 37
+Predicted 0.15765
+Distance 0.0016499907
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 41
+Power 385
+Predicted 0.108
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 42
+Power 456
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 43
+Power 37
+Predicted 0.15572143
+Distance 2.785772E-4
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 44
+Power 363
+Predicted 0.0535
+Distance 0.002799999
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
+id 45
+Power 37
+Predicted 0.15098572
+Distance 0.0050142854
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 46
+Power 39
+Predicted 0.0423
+Distance 0.0
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 47
+Power 523
+Predicted 0.168
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 48
+Power 37
+Predicted 0.15575714
+Distance 2.4285913E-4
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 49
+Power 37
+Predicted 0.14241429
+Distance 0.0034142882
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 50
+Power 37
+Predicted 0.13591428
+Distance 0.0030857176
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 51
+Power 38
+Predicted 0.042275
+Distance 2.5000423E-5
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 52
+Power 37
+Predicted 0.14241429
+Distance 0.0034142882
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 53
+Power 390
+Predicted 0.0566
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
+id 54
+Power 37
+Predicted 0.14691429
+Distance 0.00791429
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 55
+Power 36
+Predicted 0.17170909
+Distance 0.0017090887
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 56
+Power 393
+Predicted 0.11
+Distance 0.001000002
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
+id 57
+Power 366
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 58
+Power 772
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 59
+Power 492
+Predicted 0.257
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 60
+Power 971
+Predicted 0.22
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 61
+Power 37
+Predicted 0.15789285
+Distance 0.0018928498
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 62
+Power 953
+Predicted 0.22
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
+id 63
+Power 446
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 64
+Power 962
+Predicted 0.0639
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 65
+Power 934
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 66
+Power 36
+Predicted 0.15
+Distance 0.0059999973
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 67
+Power 898
+Predicted 0.0381
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 68
+Power 384
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 69
+Power 341
+Predicted 0.049433332
+Distance 3.6666915E-4
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 70
+Power 354
+Predicted 0.0501
+Distance 1.0000169E-4
+TRACK NAME : Darkside
+ARTIST : Alan Walker Au/Ra Tomine Harket 
+
+id 71
+Power 408
+Predicted 0.168
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 72
+Power 36
+Predicted 0.14645454
+Distance 0.0074545443
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 73
+Power 1154
+Predicted 0.0498
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 74
+Power 38
+Predicted 0.049025
+Distance 1.2499839E-4
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 75
+Power 37
+Predicted 0.1569
+Distance 9.0000033E-4
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 76
+Power 133
+Predicted 0.0498
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 77
+Power 411
+Predicted 0.0429
+Distance 9.999797E-5
+TRACK NAME : Domenica
+ARTIST : Coez 
+
+id 78
+Power 482
+Predicted 0.0498
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
+id 79
+Power 1023
+Predicted 0.0639
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
+id 80
+Power 763
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 81
+Power 801
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 82
+Power 419
+Predicted 0.0765
+Distance 0.0022
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
+id 83
+Power 38
+Predicted 0.042275
+Distance 2.5000423E-5
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
+id 84
+Power 392
+Predicted 0.0489
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
+id 85
+Power 36
+Predicted 0.16754545
+Distance 4.5454502E-4
+TRACK NAME : Playa
+ARTIST : Baby K 
+
+id 86
+Power 706
+Predicted 0.251
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
+id 87
+Power 36
+Predicted 0.17166364
+Distance 0.0016636401
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 88
+Power 40
+Predicted 0.156
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
+id 89
+Power 831
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
+id 90
+Power 706
+Predicted 0.257
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 91
+Power 37
+Predicted 0.14241429
+Distance 0.0034142882
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 92
+Power 494
+Predicted 0.257
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
+id 93
+Power 36
+Predicted 0.17316364
+Distance 0.0031636357
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
+id 94
+Power 37
+Predicted 0.13591428
+Distance 0.0030857176
+TRACK NAME : In My Feelings
+ARTIST : Drake 
+
+id 95
+Power 493
+Predicted 0.283
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+

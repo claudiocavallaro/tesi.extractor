@@ -11,6 +11,7 @@ import com.wrapper.spotify.model_objects.specification.Track;
 import com.wrapper.spotify.requests.authorization.client_credentials.ClientCredentialsRequest;
 import com.wrapper.spotify.requests.data.tracks.GetAudioFeaturesForTrackRequest;
 import com.wrapper.spotify.requests.data.tracks.GetTrackRequest;
+import extractor.control.Extractor;
 import extractor.control.MachineLearning;
 import extractor.control.MachineLearningCV;
 import extractor.model.ArffObject;
@@ -73,9 +74,9 @@ public class MainExec {
 
         //MachineLearningCV ml = new MachineLearningCV();
 
-        MachineLearning ml = new MachineLearning();
+        //MachineLearning ml = new MachineLearning();
 
-        //Extractor e = new Extractor();
+        Extractor ex = new Extractor();
 
     }
 

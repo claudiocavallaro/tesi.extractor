@@ -1,0 +1,141 @@
+Distance based on valence
+id 0
+Power 706
+Predicted 0.6083
+Distance 0.0042999983
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
+id 1
+Power 385
+Predicted 0.2026
+Distance 0.007399991
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 2
+Power 38
+Predicted 0.67783
+Distance 0.006829977
+TRACK NAME : Happier
+ARTIST : Marshmello Bastille 
+
+id 3
+Power 383
+Predicted 0.2026
+Distance 0.007399991
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
+id 4
+Power 37
+Predicted 0.38002175
+Distance 0.0030217469
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 5
+Power 463
+Predicted 0.2714
+Distance 0.028400004
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
+id 6
+Power 37
+Predicted 0.38002175
+Distance 0.0030217469
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 7
+Power 363
+Predicted 0.3034
+Distance 0.011599988
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
+id 8
+Power 341
+Predicted 0.5013
+Distance 0.0062999725
+TRACK NAME : Mamacita (feat. Farruko)
+ARTIST : Jason Derulo Farruko 
+
+id 9
+Power 548
+Predicted 0.4141
+Distance 0.007099986
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
+id 10
+Power 801
+Predicted 0.5573
+Distance 0.022299945
+TRACK NAME : 90MIN
+ARTIST : Salmo 
+
+id 11
+Power 494
+Predicted 0.4708
+Distance 8.0001354E-4
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
+id 12
+Power 36
+Predicted 0.43630373
+Distance 0.0026962757
+TRACK NAME : Rondini Al Guinzaglio
+ARTIST : Ultimo 
+
+id 13
+Power 38
+Predicted 0.67783
+Distance 0.006829977
+TRACK NAME : Happier
+ARTIST : Marshmello Bastille 
+
+id 14
+Power 387
+Predicted 0.1726
+Distance 0.022599995
+TRACK NAME : Like I Do
+ARTIST : David Guetta Martin Garrix Brooks 
+
+id 15
+Power 37
+Predicted 0.38002175
+Distance 0.0030217469
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
+id 16
+Power 39
+Predicted 0.6411
+Distance 0.0019000173
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
+id 17
+Power 407
+Predicted 0.2816
+Distance 0.0334
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
+id 18
+Power 364
+Predicted 0.2908
+Distance 0.024199992
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
+id 19
+Power 370
+Predicted 0.6338
+Distance 0.0038000345
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
