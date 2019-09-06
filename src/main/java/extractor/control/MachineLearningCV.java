@@ -31,12 +31,8 @@ public class MachineLearningCV {
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
 
     public MachineLearningCV(){
-
         performSingle();
         performWithDuplication();
-
-
-
     }
 
     private void performSingle(){

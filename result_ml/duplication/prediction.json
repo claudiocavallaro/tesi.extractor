@@ -1,0 +1,772 @@
+[
+  {
+    "power": 37,
+    "id": 0,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 36,
+    "id": 1,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 37,
+    "id": 2,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 1154,
+    "id": 3,
+    "loudness": -5.363,
+    "speechiness": 0.23088,
+    "danceability": 0.5618,
+    "energy": 0.781,
+    "valence": 0.1387,
+    "tempo": 164.9017
+  },
+  {
+    "power": 354,
+    "id": 4,
+    "loudness": -3.5325625,
+    "speechiness": 0.049386434,
+    "danceability": 0.5983875,
+    "energy": 0.7959875,
+    "valence": 0.56925,
+    "tempo": 114.45651
+  },
+  {
+    "power": 356,
+    "id": 5,
+    "loudness": -5.247,
+    "speechiness": 0.251,
+    "danceability": 0.564,
+    "energy": 0.773,
+    "valence": 0.113,
+    "tempo": 171.529
+  },
+  {
+    "power": 341,
+    "id": 6,
+    "loudness": -8.195717,
+    "speechiness": 0.121113665,
+    "danceability": 0.70928335,
+    "energy": 0.54968333,
+    "valence": 0.3638,
+    "tempo": 167.36038
+  },
+  {
+    "power": 38,
+    "id": 7,
+    "loudness": -3.1690361,
+    "speechiness": 0.047135346,
+    "danceability": 0.67439187,
+    "energy": 0.84747916,
+    "valence": 0.6800108,
+    "tempo": 107.39046
+  },
+  {
+    "power": 37,
+    "id": 8,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 37,
+    "id": 9,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 38,
+    "id": 10,
+    "loudness": -3.1690361,
+    "speechiness": 0.047135346,
+    "danceability": 0.67439187,
+    "energy": 0.84747916,
+    "valence": 0.6800108,
+    "tempo": 107.39046
+  },
+  {
+    "power": 898,
+    "id": 11,
+    "loudness": -5.122475,
+    "speechiness": 0.22971,
+    "danceability": 0.5572,
+    "energy": 0.782,
+    "valence": 0.126,
+    "tempo": 165.3779
+  },
+  {
+    "power": 530,
+    "id": 12,
+    "loudness": -5.3077,
+    "speechiness": 0.2427,
+    "danceability": 0.5913,
+    "energy": 0.7534,
+    "valence": 0.1747,
+    "tempo": 165.3665
+  },
+  {
+    "power": 38,
+    "id": 13,
+    "loudness": -3.1690361,
+    "speechiness": 0.047135346,
+    "danceability": 0.67439187,
+    "energy": 0.84747916,
+    "valence": 0.6800108,
+    "tempo": 107.39046
+  },
+  {
+    "power": 934,
+    "id": 14,
+    "loudness": -4.153,
+    "speechiness": 0.0381,
+    "danceability": 0.496,
+    "energy": 0.863,
+    "valence": 0.243,
+    "tempo": 110.018
+  },
+  {
+    "power": 408,
+    "id": 15,
+    "loudness": -4.2421,
+    "speechiness": 0.114,
+    "danceability": 0.5247,
+    "energy": 0.874,
+    "valence": 0.2608,
+    "tempo": 129.8417
+  },
+  {
+    "power": 831,
+    "id": 16,
+    "loudness": -4.153,
+    "speechiness": 0.0381,
+    "danceability": 0.496,
+    "energy": 0.86047316,
+    "valence": 0.243,
+    "tempo": 110.018
+  },
+  {
+    "power": 43,
+    "id": 17,
+    "loudness": -6.0337,
+    "speechiness": 0.047210418,
+    "danceability": 0.5564714,
+    "energy": 0.8477857,
+    "valence": 0.396,
+    "tempo": 104.73364
+  },
+  {
+    "power": 385,
+    "id": 18,
+    "loudness": -5.1286,
+    "speechiness": 0.2367,
+    "danceability": 0.5566,
+    "energy": 0.7864,
+    "valence": 0.1227,
+    "tempo": 167.5818
+  },
+  {
+    "power": 36,
+    "id": 19,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 363,
+    "id": 20,
+    "loudness": -5.4143,
+    "speechiness": 0.04117,
+    "danceability": 0.5972,
+    "energy": 0.738422,
+    "valence": 0.4197,
+    "tempo": 124.5972
+  },
+  {
+    "power": 449,
+    "id": 21,
+    "loudness": -5.247,
+    "speechiness": 0.251,
+    "danceability": 0.564,
+    "energy": 0.773,
+    "valence": 0.113,
+    "tempo": 171.529
+  },
+  {
+    "power": 36,
+    "id": 22,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 482,
+    "id": 23,
+    "loudness": -5.3421826,
+    "speechiness": 0.04816,
+    "danceability": 0.7468,
+    "energy": 0.7106,
+    "valence": 0.7476,
+    "tempo": 102.616
+  },
+  {
+    "power": 390,
+    "id": 24,
+    "loudness": -4.0447,
+    "speechiness": 0.040524762,
+    "danceability": 0.6376,
+    "energy": 0.8823,
+    "valence": 0.1666,
+    "tempo": 126.558
+  },
+  {
+    "power": 435,
+    "id": 25,
+    "loudness": -5.5050583,
+    "speechiness": 0.155905,
+    "danceability": 0.8278,
+    "energy": 0.6031,
+    "valence": 0.7284,
+    "tempo": 111.70996
+  },
+  {
+    "power": 37,
+    "id": 26,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 393,
+    "id": 27,
+    "loudness": -5.024,
+    "speechiness": 0.0489,
+    "danceability": 0.618,
+    "energy": 0.767,
+    "valence": 0.239,
+    "tempo": 124.566635
+  },
+  {
+    "power": 411,
+    "id": 28,
+    "loudness": -4.319393,
+    "speechiness": 0.054363415,
+    "danceability": 0.74346143,
+    "energy": 0.77286714,
+    "valence": 0.6540538,
+    "tempo": 137.20775
+  },
+  {
+    "power": 654,
+    "id": 29,
+    "loudness": -2.042,
+    "speechiness": 0.063624,
+    "danceability": 0.38,
+    "energy": 0.988,
+    "valence": 0.769,
+    "tempo": 186.113
+  },
+  {
+    "power": 37,
+    "id": 30,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 36,
+    "id": 31,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 37,
+    "id": 32,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 354,
+    "id": 33,
+    "loudness": -3.5325625,
+    "speechiness": 0.049386434,
+    "danceability": 0.5983875,
+    "energy": 0.7959875,
+    "valence": 0.56925,
+    "tempo": 114.45651
+  },
+  {
+    "power": 38,
+    "id": 34,
+    "loudness": -3.1690361,
+    "speechiness": 0.047135346,
+    "danceability": 0.67439187,
+    "energy": 0.84747916,
+    "valence": 0.6800108,
+    "tempo": 107.39046
+  },
+  {
+    "power": 341,
+    "id": 35,
+    "loudness": -8.195717,
+    "speechiness": 0.121113665,
+    "danceability": 0.70928335,
+    "energy": 0.54968333,
+    "valence": 0.3638,
+    "tempo": 167.36038
+  },
+  {
+    "power": 37,
+    "id": 36,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 37,
+    "id": 37,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 43,
+    "id": 38,
+    "loudness": -6.0337,
+    "speechiness": 0.047210418,
+    "danceability": 0.5564714,
+    "energy": 0.8477857,
+    "valence": 0.396,
+    "tempo": 104.73364
+  },
+  {
+    "power": 37,
+    "id": 39,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 37,
+    "id": 40,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 37,
+    "id": 41,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 37,
+    "id": 42,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 133,
+    "id": 43,
+    "loudness": -6.707,
+    "speechiness": 0.319,
+    "danceability": 0.906,
+    "energy": 0.662,
+    "valence": 0.863,
+    "tempo": 100.034744
+  },
+  {
+    "power": 446,
+    "id": 44,
+    "loudness": -4.5206,
+    "speechiness": 0.08766025,
+    "danceability": 0.576,
+    "energy": 0.7442,
+    "valence": 0.4978,
+    "tempo": 136.71768
+  },
+  {
+    "power": 36,
+    "id": 45,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 37,
+    "id": 46,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 411,
+    "id": 47,
+    "loudness": -4.319393,
+    "speechiness": 0.054363415,
+    "danceability": 0.74346143,
+    "energy": 0.77286714,
+    "valence": 0.6540538,
+    "tempo": 137.20775
+  },
+  {
+    "power": 37,
+    "id": 48,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 585,
+    "id": 49,
+    "loudness": -2.652,
+    "speechiness": 0.059484,
+    "danceability": 0.737,
+    "energy": 0.86,
+    "valence": 0.656,
+    "tempo": 93.989
+  },
+  {
+    "power": 36,
+    "id": 50,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 411,
+    "id": 51,
+    "loudness": -4.319393,
+    "speechiness": 0.054363415,
+    "danceability": 0.74346143,
+    "energy": 0.77286714,
+    "valence": 0.6540538,
+    "tempo": 137.20775
+  },
+  {
+    "power": 530,
+    "id": 52,
+    "loudness": -5.3077,
+    "speechiness": 0.2427,
+    "danceability": 0.5913,
+    "energy": 0.7534,
+    "valence": 0.1747,
+    "tempo": 165.3665
+  },
+  {
+    "power": 408,
+    "id": 53,
+    "loudness": -4.2421,
+    "speechiness": 0.114,
+    "danceability": 0.5247,
+    "energy": 0.874,
+    "valence": 0.2608,
+    "tempo": 129.8417
+  },
+  {
+    "power": 37,
+    "id": 54,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 407,
+    "id": 55,
+    "loudness": -5.4958,
+    "speechiness": 0.156,
+    "danceability": 0.7676,
+    "energy": 0.643,
+    "valence": 0.6248,
+    "tempo": 114.3346
+  },
+  {
+    "power": 36,
+    "id": 56,
+    "loudness": -5.049854,
+    "speechiness": 0.16236673,
+    "danceability": 0.6986629,
+    "energy": 0.7650771,
+    "valence": 0.42958716,
+    "tempo": 125.938614
+  },
+  {
+    "power": 446,
+    "id": 57,
+    "loudness": -4.5206,
+    "speechiness": 0.08766025,
+    "danceability": 0.576,
+    "energy": 0.7442,
+    "valence": 0.4978,
+    "tempo": 136.71768
+  },
+  {
+    "power": 392,
+    "id": 58,
+    "loudness": -6.976,
+    "speechiness": 0.0566,
+    "danceability": 0.661,
+    "energy": 0.723,
+    "valence": 0.316,
+    "tempo": 113.778
+  },
+  {
+    "power": 443,
+    "id": 59,
+    "loudness": -2.881,
+    "speechiness": 0.04666025,
+    "danceability": 0.7465152,
+    "energy": 0.838,
+    "valence": 0.714,
+    "tempo": 128.01147
+  },
+  {
+    "power": 37,
+    "id": 60,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 500,
+    "id": 61,
+    "loudness": -4.153,
+    "speechiness": 0.0381,
+    "danceability": 0.496,
+    "energy": 0.863,
+    "valence": 0.243,
+    "tempo": 110.018
+  },
+  {
+    "power": 411,
+    "id": 62,
+    "loudness": -4.319393,
+    "speechiness": 0.054363415,
+    "danceability": 0.74346143,
+    "energy": 0.77286714,
+    "valence": 0.6540538,
+    "tempo": 137.20775
+  },
+  {
+    "power": 647,
+    "id": 63,
+    "loudness": -3.8609,
+    "speechiness": 0.103314,
+    "danceability": 0.479,
+    "energy": 0.9151,
+    "valence": 0.2659,
+    "tempo": 137.4626
+  },
+  {
+    "power": 367,
+    "id": 64,
+    "loudness": -4.251,
+    "speechiness": 0.156,
+    "danceability": 0.685,
+    "energy": 0.803,
+    "valence": 0.799,
+    "tempo": 107.005
+  },
+  {
+    "power": 39,
+    "id": 65,
+    "loudness": -4.251,
+    "speechiness": 0.156,
+    "danceability": 0.68741107,
+    "energy": 0.7999862,
+    "valence": 0.799,
+    "tempo": 107.005
+  },
+  {
+    "power": 38,
+    "id": 66,
+    "loudness": -3.1690361,
+    "speechiness": 0.047135346,
+    "danceability": 0.67439187,
+    "energy": 0.84747916,
+    "valence": 0.6800108,
+    "tempo": 107.39046
+  },
+  {
+    "power": 367,
+    "id": 67,
+    "loudness": -4.251,
+    "speechiness": 0.156,
+    "danceability": 0.685,
+    "energy": 0.803,
+    "valence": 0.799,
+    "tempo": 107.005
+  },
+  {
+    "power": 37,
+    "id": 68,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 394,
+    "id": 69,
+    "loudness": -4.402,
+    "speechiness": 0.10969857,
+    "danceability": 0.77,
+    "energy": 0.787,
+    "valence": 0.699,
+    "tempo": 124.566635
+  },
+  {
+    "power": 441,
+    "id": 70,
+    "loudness": -4.8448,
+    "speechiness": 0.062305,
+    "danceability": 0.7465152,
+    "energy": 0.7984,
+    "valence": 0.4854,
+    "tempo": 135.15945
+  },
+  {
+    "power": 706,
+    "id": 71,
+    "loudness": -5.668757,
+    "speechiness": 0.25503597,
+    "danceability": 0.6427011,
+    "energy": 0.7945251,
+    "valence": 0.38273615,
+    "tempo": 136.75677
+  },
+  {
+    "power": 482,
+    "id": 72,
+    "loudness": -5.3421826,
+    "speechiness": 0.04816,
+    "danceability": 0.7468,
+    "energy": 0.7106,
+    "valence": 0.7476,
+    "tempo": 102.616
+  },
+  {
+    "power": 383,
+    "id": 73,
+    "loudness": -4.9909,
+    "speechiness": 0.1215,
+    "danceability": 0.751,
+    "energy": 0.5596,
+    "valence": 0.5997,
+    "tempo": 157.284
+  },
+  {
+    "power": 37,
+    "id": 74,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  },
+  {
+    "power": 493,
+    "id": 75,
+    "loudness": -5.874,
+    "speechiness": 0.257,
+    "danceability": 0.681,
+    "energy": 0.805,
+    "valence": 0.514,
+    "tempo": 119.86881
+  },
+  {
+    "power": 37,
+    "id": 76,
+    "loudness": -5.3594975,
+    "speechiness": 0.15946916,
+    "danceability": 0.6476197,
+    "energy": 0.7582859,
+    "valence": 0.37787434,
+    "tempo": 128.04427
+  }
+]

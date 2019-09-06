@@ -4,7 +4,9 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import extractor.MainExec;
 
+import extractor.model.PredictedValues;
 import extractor.model.Preference;
+import javafx.animation.ParallelTransition;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.Prediction;
 import weka.classifiers.trees.RandomForest;
@@ -27,79 +29,54 @@ public class MachineLearning {
     private File file ;
     private FileWriter fr = null;
 
+    private ArrayList<PredictedValues> values;
 
     private static String[] properties = {"danceability", "speechiness", "energy", "loudness", "valence", "tempo"};
 
 
     public MachineLearning(){
-        String mode = "single";
-        file = new File("result_ml/single/summary.txt");
+        performSingle();
+        performWithDuplication();
+    }
 
+    private void performSingle(){
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        file = new File("result_ml/single/summary.txt");
+        values = new ArrayList<>();
         for (int i = 0 ; i < properties.length; i++){
             String prop = properties[i];
-            ml(prop, mode, file);
+            ml(prop, "single");
+        }
+        try {
+            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/single/prediction.json"));
+            bf.write(gson.toJson(values));
+            bf.close();
+        }catch (Exception e){
+            e.printStackTrace();
         }
 
-        mode = "duplication";
+    }
+
+    private void performWithDuplication(){
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        values = new ArrayList<>();
         file = new File("result_ml/duplication/summary.txt");
         for (int i = 0 ; i < properties.length; i++){
             String prop = properties[i];
-            ml(prop, mode, file);
+            ml(prop, "duplication");
+        }
+
+        try {
+            BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/duplication/prediction.json"));
+            bf.write(gson.toJson(values));
+            bf.close();
+        }catch (Exception e){
+            e.printStackTrace();
         }
     }
 
     //-------------------- ML ----------------------------------------
 
-    /*public MLObject findNear(String car, float predicted){
-        MLObject ml = new MLObject();
-        ml.setPredictedCar(car);
-        try{
-            int zero = 0;
-            float predictedABS = Math.abs(predicted);
-            float maxDistance = predictedABS - zero;
-            for (Preference pref : lista){
-                float myNumber = 0;
-                float prefNum = new Float(pref.getPreference());
-                switch (car){
-                    case "danceability":
-                        myNumber = pref.getTraccia().getDanceability();
-                        break;
-                    case "energy":
-                        myNumber = pref.getTraccia().getEnergy();
-                        break;
-                    case "loudness":
-                        myNumber = Math.abs(pref.getTraccia().getLoudness());
-                        break;
-                    case "speechiness":
-                        myNumber = pref.getTraccia().getSpeechiness();
-                        break;
-                    case "valence":
-                        myNumber = pref.getTraccia().getValence();
-                        break;
-                    case "tempo":
-                        myNumber = pref.getTraccia().getTempo();
-                        break;
-                }
-
-                float distance = Math.abs(myNumber - predictedABS);
-                if ((distance < maxDistance) && (prefNum > 3)){
-                    maxDistance = distance;
-                    ml.setPreference(pref);
-                    ml.getPreference().setTraccia(pref.getTraccia());
-                    ml.setDistancePredictedOriginal(maxDistance);
-                }
-            }
-
-            System.out.println("MIN " + car + " FROM PREDICTED " + ml.getPreference().getTraccia().getNumber(car));
-            System.out.println("MIN DISTANCE " + ml.getDistancePredictedOriginal());
-            System.out.println("PREFERENCE \n" + ml.getPreference().getTraccia() + "VOTE " + ml.getPreference().getPreference() + "\n");
-
-        }catch (Exception e){
-            e.printStackTrace();
-        }
-
-        return ml;
-    }*/
 
     public Instances prepareSet(Instances testSet) {
         Instances neww = null;
@@ -124,10 +101,8 @@ public class MachineLearning {
         return neww;
     }
 
-    private void ml(String car, String mode, File file) {
+    private void ml(String car, String mode) {
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
-        //ArrayList<MLObject> listMLObj = new ArrayList<>();
 
         try {
             ConverterUtils.DataSource source = new ConverterUtils.DataSource("outMod/"+ mode +"/"+ car +".arff");
@@ -149,7 +124,7 @@ public class MachineLearning {
             testSet.setClassIndex(testSet.numAttributes() - 1);
 
             RandomForest rf = new RandomForest();
-            rf.setNumIterations(100);
+            rf.setNumIterations(10);
             rf.buildClassifier(trainSet);
 
             Evaluation eval = new Evaluation(trainSet);
@@ -157,7 +132,7 @@ public class MachineLearning {
 
             fr = new FileWriter(file, true);
 
-            fr.write("------ SUMMARY " + car + mode + " ----- \n");
+            fr.write("------ SUMMARY " + car + " " +  mode + " ----- \n");
             fr.write(eval.toSummaryString() + "\n");
             fr.close();
 
@@ -166,19 +141,49 @@ public class MachineLearning {
             System.out.print("the expression for the input data as per alogorithm is ");
             System.out.println(rf);
 
-            //BufferedWriter bf = new BufferedWriter(new FileWriter("result_ml/" + mode + "/" + car + ".json"));
+            for (int i = 0 ; i < eval.predictions().size() ; i++) {
+                Prediction p = eval.predictions().get(i);
+                //System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
 
-            for (Prediction p : eval.predictions()) {
-                System.out.println("REAL " + p.actual() + " PREDICTED " + p.predicted());
+                int power = (int) set.get(i).value(0);
 
-                //MLObject ml = findNear(car, (float) p.predicted());
-                //listMLObj.add(ml);
+                PredictedValues pv = null;
+                if (values.size() < eval.predictions().size()){
+                    pv = new PredictedValues();
+                } else{
+                    pv = values.get(i);
+                }
+
+                pv.setId(i);
+                pv.setPower(power);
+
+                switch (car){
+                    case "danceability":
+                        pv.setDanceability((float)p.predicted());
+                        break;
+                    case "energy":
+                        pv.setEnergy((float) p.predicted());
+                        break;
+                    case "loudness":
+                        pv.setLoudness((float) p.predicted());
+                        break;
+                    case "speechiness":
+                        pv.setSpeechiness((float)p.predicted());
+                        break;
+                    case "valence":
+                        pv.setValence((float) p.predicted());
+                        break;
+                    case "tempo":
+                        pv.setTempo((float) p.predicted());
+                        break;
+                }
+
+                if (values.size() < eval.predictions().size()){
+                    values.add(pv);
+                }
+
             }
 
-
-            //String json = gson.toJson(listMLObj);
-            //bf.write(json);
-            //bf.close();
         } catch (Exception e) {
             e.printStackTrace();
         }

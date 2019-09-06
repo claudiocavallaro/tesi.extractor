@@ -1,6 +1,0 @@
-danceability	0.004427484
-energy	0.004783511
-loudness	0.07884462
-speechiness	0.0105054835
-valence	0.010925406
-tempo	1.9048096

@@ -1,162 +1,54 @@
------- SUMMARY danceabilityduplication ----- 
+------ SUMMARY danceability duplication ----- 
 
-Correlation coefficient                  0.8365
-Mean absolute error                      0.0375
-Root mean squared error                  0.0595
-Relative absolute error                 42.0745 %
-Root relative squared error             55.4885 %
+Correlation coefficient                  0.8316
+Mean absolute error                      0.0368
+Root mean squared error                  0.0605
+Relative absolute error                 41.3644 %
+Root relative squared error             56.4291 %
 Total Number of Instances               77     
 
------- SUMMARY speechinessduplication ----- 
+------ SUMMARY speechiness duplication ----- 
 
-Correlation coefficient                  0.7144
-Mean absolute error                      0.0407
-Root mean squared error                  0.063 
-Relative absolute error                 49.7768 %
-Root relative squared error             69.3989 %
+Correlation coefficient                  0.717 
+Mean absolute error                      0.0396
+Root mean squared error                  0.0623
+Relative absolute error                 48.448  %
+Root relative squared error             68.6906 %
 Total Number of Instances               77     
 
------- SUMMARY energyduplication ----- 
+------ SUMMARY energy duplication ----- 
 
-Correlation coefficient                  0.7107
-Mean absolute error                      0.0508
-Root mean squared error                  0.0839
-Relative absolute error                 57.5349 %
-Root relative squared error             70.5138 %
+Correlation coefficient                  0.7007
+Mean absolute error                      0.0521
+Root mean squared error                  0.086 
+Relative absolute error                 59.0662 %
+Root relative squared error             72.2825 %
 Total Number of Instances               77     
 
------- SUMMARY loudnessduplication ----- 
+------ SUMMARY loudness duplication ----- 
 
-Correlation coefficient                  0.5916
-Mean absolute error                      0.8104
-Root mean squared error                  1.5677
-Relative absolute error                 60.3087 %
-Root relative squared error             81.7918 %
+Correlation coefficient                  0.5568
+Mean absolute error                      0.8192
+Root mean squared error                  1.6209
+Relative absolute error                 60.9645 %
+Root relative squared error             84.5707 %
 Total Number of Instances               77     
 
------- SUMMARY valenceduplication ----- 
+------ SUMMARY valence duplication ----- 
 
-Correlation coefficient                  0.8248
-Mean absolute error                      0.0941
-Root mean squared error                  0.1347
-Relative absolute error                 44.2783 %
-Root relative squared error             56.8414 %
+Correlation coefficient                  0.8173
+Mean absolute error                      0.0911
+Root mean squared error                  0.1366
+Relative absolute error                 42.8649 %
+Root relative squared error             57.6304 %
 Total Number of Instances               77     
 
------- SUMMARY tempoduplication ----- 
+------ SUMMARY tempo duplication ----- 
 
-Correlation coefficient                  0.8268
-Mean absolute error                      9.2125
-Root mean squared error                 15.4935
-Relative absolute error                 45.7042 %
-Root relative squared error             57.4061 %
-Total Number of Instances               77     
-
------- SUMMARY danceabilityduplication ----- 
-
-Correlation coefficient                  0.8365
-Mean absolute error                      0.0375
-Root mean squared error                  0.0595
-Relative absolute error                 42.0745 %
-Root relative squared error             55.4885 %
-Total Number of Instances               77     
-
------- SUMMARY speechinessduplication ----- 
-
-Correlation coefficient                  0.7144
-Mean absolute error                      0.0407
-Root mean squared error                  0.063 
-Relative absolute error                 49.7768 %
-Root relative squared error             69.3989 %
-Total Number of Instances               77     
-
------- SUMMARY energyduplication ----- 
-
-Correlation coefficient                  0.7107
-Mean absolute error                      0.0508
-Root mean squared error                  0.0839
-Relative absolute error                 57.5349 %
-Root relative squared error             70.5138 %
-Total Number of Instances               77     
-
------- SUMMARY loudnessduplication ----- 
-
-Correlation coefficient                  0.5916
-Mean absolute error                      0.8104
-Root mean squared error                  1.5677
-Relative absolute error                 60.3087 %
-Root relative squared error             81.7918 %
-Total Number of Instances               77     
-
------- SUMMARY valenceduplication ----- 
-
-Correlation coefficient                  0.8248
-Mean absolute error                      0.0941
-Root mean squared error                  0.1347
-Relative absolute error                 44.2783 %
-Root relative squared error             56.8414 %
-Total Number of Instances               77     
-
------- SUMMARY tempoduplication ----- 
-
-Correlation coefficient                  0.8268
-Mean absolute error                      9.2125
-Root mean squared error                 15.4935
-Relative absolute error                 45.7042 %
-Root relative squared error             57.4061 %
-Total Number of Instances               77     
-
------- SUMMARY danceabilityduplication ----- 
-
-Correlation coefficient                  0.8365
-Mean absolute error                      0.0375
-Root mean squared error                  0.0595
-Relative absolute error                 42.0745 %
-Root relative squared error             55.4885 %
-Total Number of Instances               77     
-
------- SUMMARY speechinessduplication ----- 
-
-Correlation coefficient                  0.7144
-Mean absolute error                      0.0407
-Root mean squared error                  0.063 
-Relative absolute error                 49.7768 %
-Root relative squared error             69.3989 %
-Total Number of Instances               77     
-
------- SUMMARY energyduplication ----- 
-
-Correlation coefficient                  0.7107
-Mean absolute error                      0.0508
-Root mean squared error                  0.0839
-Relative absolute error                 57.5349 %
-Root relative squared error             70.5138 %
-Total Number of Instances               77     
-
------- SUMMARY loudnessduplication ----- 
-
-Correlation coefficient                  0.5916
-Mean absolute error                      0.8104
-Root mean squared error                  1.5677
-Relative absolute error                 60.3087 %
-Root relative squared error             81.7918 %
-Total Number of Instances               77     
-
------- SUMMARY valenceduplication ----- 
-
-Correlation coefficient                  0.8248
-Mean absolute error                      0.0941
-Root mean squared error                  0.1347
-Relative absolute error                 44.2783 %
-Root relative squared error             56.8414 %
-Total Number of Instances               77     
-
------- SUMMARY tempoduplication ----- 
-
-Correlation coefficient                  0.8268
-Mean absolute error                      9.2125
-Root mean squared error                 15.4935
-Relative absolute error                 45.7042 %
-Root relative squared error             57.4061 %
+Correlation coefficient                  0.8214
+Mean absolute error                      8.9615
+Root mean squared error                 15.6537
+Relative absolute error                 44.4589 %
+Root relative squared error             57.9995 %
 Total Number of Instances               77     
 

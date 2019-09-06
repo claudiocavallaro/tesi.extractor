@@ -71,7 +71,9 @@ public class MainExec {
         }
 
 
-        MachineLearningCV ml = new MachineLearningCV();
+        //MachineLearningCV ml = new MachineLearningCV();
+
+        MachineLearning ml = new MachineLearning();
 
         //Extractor e = new Extractor();
 

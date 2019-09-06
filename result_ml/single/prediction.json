@@ -1,0 +1,202 @@
+[
+  {
+    "power": 706,
+    "id": 0,
+    "loudness": -4.6496,
+    "speechiness": 0.201125,
+    "danceability": 0.6063667,
+    "energy": 0.8647,
+    "valence": 0.6083,
+    "tempo": 139.75787
+  },
+  {
+    "power": 385,
+    "id": 1,
+    "loudness": -4.2511,
+    "speechiness": 0.081543334,
+    "danceability": 0.5506,
+    "energy": 0.88626665,
+    "valence": 0.2026,
+    "tempo": 129.0054
+  },
+  {
+    "power": 38,
+    "id": 2,
+    "loudness": -3.161601,
+    "speechiness": 0.04931,
+    "danceability": 0.68187,
+    "energy": 0.85852,
+    "valence": 0.67783,
+    "tempo": 106.55938
+  },
+  {
+    "power": 383,
+    "id": 3,
+    "loudness": -4.2511,
+    "speechiness": 0.081543334,
+    "danceability": 0.5506,
+    "energy": 0.88626665,
+    "valence": 0.2026,
+    "tempo": 129.0054
+  },
+  {
+    "power": 37,
+    "id": 4,
+    "loudness": -5.8730474,
+    "speechiness": 0.13451888,
+    "danceability": 0.6914855,
+    "energy": 0.72366804,
+    "valence": 0.38002175,
+    "tempo": 117.850296
+  },
+  {
+    "power": 463,
+    "id": 5,
+    "loudness": -4.8109,
+    "speechiness": 0.16973715,
+    "danceability": 0.6267,
+    "energy": 0.7854,
+    "valence": 0.2714,
+    "tempo": 152.0827
+  },
+  {
+    "power": 37,
+    "id": 6,
+    "loudness": -5.8730474,
+    "speechiness": 0.13451888,
+    "danceability": 0.6914855,
+    "energy": 0.72366804,
+    "valence": 0.38002175,
+    "tempo": 117.850296
+  },
+  {
+    "power": 363,
+    "id": 7,
+    "loudness": -6.1848,
+    "speechiness": 0.12415333,
+    "danceability": 0.6343,
+    "energy": 0.746,
+    "valence": 0.3034,
+    "tempo": 130.426
+  },
+  {
+    "power": 341,
+    "id": 8,
+    "loudness": -4.128525,
+    "speechiness": 0.050189167,
+    "danceability": 0.587875,
+    "energy": 0.832575,
+    "valence": 0.5013,
+    "tempo": 107.20242
+  },
+  {
+    "power": 548,
+    "id": 9,
+    "loudness": -5.2313,
+    "speechiness": 0.19933,
+    "danceability": 0.69056666,
+    "energy": 0.7035,
+    "valence": 0.4141,
+    "tempo": 139.1307
+  },
+  {
+    "power": 801,
+    "id": 10,
+    "loudness": -4.8341,
+    "speechiness": 0.20953,
+    "danceability": 0.73536664,
+    "energy": 0.856,
+    "valence": 0.5573,
+    "tempo": 116.940125
+  },
+  {
+    "power": 494,
+    "id": 11,
+    "loudness": -6.0329,
+    "speechiness": 0.194025,
+    "danceability": 0.6393,
+    "energy": 0.8194,
+    "valence": 0.4708,
+    "tempo": 115.4438
+  },
+  {
+    "power": 36,
+    "id": 12,
+    "loudness": -5.189814,
+    "speechiness": 0.16889296,
+    "danceability": 0.6882295,
+    "energy": 0.74494624,
+    "valence": 0.43630373,
+    "tempo": 129.6232
+  },
+  {
+    "power": 38,
+    "id": 13,
+    "loudness": -3.161601,
+    "speechiness": 0.04931,
+    "danceability": 0.68187,
+    "energy": 0.85852,
+    "valence": 0.67783,
+    "tempo": 106.55938
+  },
+  {
+    "power": 387,
+    "id": 14,
+    "loudness": -4.0791,
+    "speechiness": 0.046393335,
+    "danceability": 0.6231,
+    "energy": 0.88346666,
+    "valence": 0.1726,
+    "tempo": 126.9659
+  },
+  {
+    "power": 37,
+    "id": 15,
+    "loudness": -5.8730474,
+    "speechiness": 0.13451888,
+    "danceability": 0.6914855,
+    "energy": 0.72366804,
+    "valence": 0.38002175,
+    "tempo": 117.850296
+  },
+  {
+    "power": 39,
+    "id": 16,
+    "loudness": -2.800231,
+    "speechiness": 0.043498,
+    "danceability": 0.6837,
+    "energy": 0.81,
+    "valence": 0.6411,
+    "tempo": 102.21885
+  },
+  {
+    "power": 407,
+    "id": 17,
+    "loudness": -4.5274,
+    "speechiness": 0.09158833,
+    "danceability": 0.5497,
+    "energy": 0.8633,
+    "valence": 0.2816,
+    "tempo": 127.991264
+  },
+  {
+    "power": 364,
+    "id": 18,
+    "loudness": -5.3936,
+    "speechiness": 0.19241333,
+    "danceability": 0.6076,
+    "energy": 0.769,
+    "valence": 0.2908,
+    "tempo": 147.074
+  },
+  {
+    "power": 370,
+    "id": 19,
+    "loudness": -4.8956,
+    "speechiness": 0.14491333,
+    "danceability": 0.6681,
+    "energy": 0.784,
+    "valence": 0.6338,
+    "tempo": 114.812
+  }
+]
