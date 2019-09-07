@@ -2,480 +2,672 @@ Distance based on loudness
 id 0
 Power 355
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 1
 Power 38
 Predicted -3.3375
-Distance -3.3375
-TRACK null
+Distance 0.06349993
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 2
 Power 463
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 3
 Power 411
 Predicted -11.295
-Distance -11.295
-TRACK null
+Distance 0.0
+TRACK NAME : Kiki Do You Love Me
+ARTIST : Shrey Singhal 
+
 id 4
 Power 647
 Predicted -2.042
-Distance -2.042
-TRACK null
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
 id 5
 Power 36
 Predicted -5.2845454
-Distance -5.2845454
-TRACK null
+Distance 0.037545204
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 6
 Power 43
 Predicted -2.674
-Distance -2.674
-TRACK null
+Distance 0.0
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
 id 7
 Power 398
 Predicted -4.402
-Distance -4.402
-TRACK null
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
 id 8
 Power 37
 Predicted -5.352643
-Distance -5.352643
-TRACK null
+Distance 0.010643005
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 9
 Power 36
 Predicted -5.0146365
-Distance -5.0146365
-TRACK null
+Distance 0.009363651
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 10
 Power 387
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 11
 Power 407
 Predicted -4.063
-Distance -4.063
-TRACK null
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 12
 Power 530
 Predicted -5.854
-Distance -5.854
-TRACK null
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
 id 13
 Power 435
 Predicted -5.063
-Distance -5.063
-TRACK null
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
 id 14
 Power 449
 Predicted -4.339
-Distance -4.339
-TRACK null
+Distance 0.0
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 15
 Power 441
 Predicted -2.881
-Distance -2.881
-TRACK null
+Distance 0.0
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
 id 16
 Power 500
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 17
 Power 36
 Predicted -5.396
-Distance -5.396
-TRACK null
+Distance 0.032999992
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 18
 Power 460
 Predicted -5.0675
-Distance -5.0675
-TRACK null
+Distance 0.0044999123
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
 id 19
 Power 548
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 20
 Power 36
 Predicted -5.1904545
-Distance -5.1904545
-TRACK null
+Distance 0.056545734
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 21
 Power 36
 Predicted -5.1904545
-Distance -5.1904545
-TRACK null
+Distance 0.056545734
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 22
 Power 370
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 23
 Power 361
 Predicted -5.751
-Distance -5.751
-TRACK null
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
 id 24
 Power 38
 Predicted -3.019
-Distance -3.019
-TRACK null
+Distance 0.13800001
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
 id 25
 Power 37
 Predicted -5.235
-Distance -5.235
-TRACK null
+Distance 0.012000084
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 26
 Power 36
 Predicted -5.103182
-Distance -5.103182
-TRACK null
+Distance 0.009181976
+TRACK NAME : Stamm Fort (feat. Sfera Ebbasta)
+ARTIST : Luche Sfera Ebbasta 
+
 id 27
 Power 383
 Predicted -4.063
-Distance -4.063
-TRACK null
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 28
 Power 394
 Predicted -5.024
-Distance -5.024
-TRACK null
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 29
 Power 443
 Predicted -5.063
-Distance -5.063
-TRACK null
+Distance 0.0
+TRACK NAME : Venom - Music From The Motion Picture
+ARTIST : Eminem 
+
 id 30
 Power 585
 Predicted -6.707
-Distance -6.707
-TRACK null
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
 id 31
 Power 856
 Predicted -4.153
-Distance -4.153
-TRACK null
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
 id 32
 Power 364
 Predicted -5.751
-Distance -5.751
-TRACK null
+Distance 0.0
+TRACK NAME : Burn Out (feat. Dewain Whitmore)
+ARTIST : Martin Garrix Justin Mylo Dewain Whitmore 
+
 id 33
 Power 354
 Predicted -4.339
-Distance -4.339
-TRACK null
+Distance 0.0
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 34
 Power 404
 Predicted -5.854
-Distance -5.854
-TRACK null
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
 id 35
 Power 654
 Predicted -4.063
-Distance -4.063
-TRACK null
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 36
 Power 524
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 37
 Power 356
 Predicted -6.407
-Distance -6.407
-TRACK null
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
 id 38
 Power 37
 Predicted -5.4795713
-Distance -5.4795713
-TRACK null
+Distance 0.05057144
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 39
 Power 367
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 40
 Power 37
 Predicted -5.352643
-Distance -5.352643
-TRACK null
+Distance 0.010643005
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 41
 Power 385
 Predicted -4.063
-Distance -4.063
-TRACK null
+Distance 0.0
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 42
 Power 456
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 43
 Power 37
 Predicted -5.5225
-Distance -5.5225
-TRACK null
+Distance 0.09350014
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 44
 Power 363
 Predicted -2.384
-Distance -2.384
-TRACK null
+Distance 0.0
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
 id 45
 Power 37
 Predicted -5.2753572
-Distance -5.2753572
-TRACK null
+Distance 0.028357029
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 46
 Power 39
 Predicted -2.674
-Distance -2.674
-TRACK null
+Distance 0.0
+TRACK NAME : Happier (feat. Bastille)
+ARTIST : Marshmello Bastille 
+
 id 47
 Power 523
 Predicted -5.854
-Distance -5.854
-TRACK null
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
 id 48
 Power 37
 Predicted -5.388214
-Distance -5.388214
-TRACK null
+Distance 0.04078579
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 49
 Power 37
 Predicted -5.2924285
-Distance -5.2924285
-TRACK null
+Distance 0.045428276
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 50
 Power 37
 Predicted -5.5076427
-Distance -5.5076427
-TRACK null
+Distance 0.078642845
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 51
 Power 38
 Predicted -3.36175
-Distance -3.36175
-TRACK null
+Distance 0.039250135
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 52
 Power 37
 Predicted -5.2924285
-Distance -5.2924285
-TRACK null
+Distance 0.045428276
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 53
 Power 390
 Predicted -6.976
-Distance -6.976
-TRACK null
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
 id 54
 Power 37
 Predicted -5.361
-Distance -5.361
-TRACK null
+Distance 0.019000053
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 55
 Power 36
 Predicted -5.225091
-Distance -5.225091
-TRACK null
+Distance 0.021909237
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 56
 Power 393
 Predicted -4.402
-Distance -4.402
-TRACK null
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
 id 57
 Power 366
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 58
 Power 772
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 59
 Power 492
 Predicted -5.874
-Distance -5.874
-TRACK null
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 60
 Power 971
 Predicted -6.661
-Distance -6.661
-TRACK null
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
 id 61
 Power 37
 Predicted -5.4824286
-Distance -5.4824286
-TRACK null
+Distance 0.05342865
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 62
 Power 953
 Predicted -6.661
-Distance -6.661
-TRACK null
+Distance 0.0
+TRACK NAME : Benvenuti In Italy
+ARTIST : Rocco Hunt 
+
 id 63
 Power 446
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 64
 Power 962
 Predicted -2.042
-Distance -2.042
-TRACK null
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
 id 65
 Power 934
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 66
 Power 36
 Predicted -5.0146365
-Distance -5.0146365
-TRACK null
+Distance 0.009363651
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 67
 Power 898
 Predicted -4.153
-Distance -4.153
-TRACK null
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
 id 68
 Power 384
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 69
 Power 341
 Predicted -3.3615
-Distance -3.3615
-TRACK null
+Distance 0.039499998
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 70
 Power 354
 Predicted -2.384
-Distance -2.384
-TRACK null
+Distance 0.0
+TRACK NAME : FRIENDS
+ARTIST : Marshmello Anne-Marie 
+
 id 71
 Power 408
 Predicted -5.854
-Distance -5.854
-TRACK null
+Distance 0.0
+TRACK NAME : Playa
+ARTIST : Baby K 
+
 id 72
 Power 36
 Predicted -5.377091
-Distance -5.377091
-TRACK null
+Distance 0.035090923
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 73
 Power 1154
 Predicted -6.407
-Distance -6.407
-TRACK null
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
 id 74
 Power 38
 Predicted -3.019
-Distance -3.019
-TRACK null
+Distance 0.13800001
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
 id 75
 Power 37
 Predicted -5.4349284
-Distance -5.4349284
-TRACK null
+Distance 0.0059285164
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 76
 Power 133
 Predicted -6.407
-Distance -6.407
-TRACK null
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
 id 77
 Power 411
 Predicted -2.881
-Distance -2.881
-TRACK null
+Distance 0.0
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
 id 78
 Power 482
 Predicted -6.407
-Distance -6.407
-TRACK null
+Distance 0.0
+TRACK NAME : In the End
+ARTIST : Linkin Park 
+
 id 79
 Power 1023
 Predicted -2.042
-Distance -2.042
-TRACK null
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
 id 80
 Power 763
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 81
 Power 801
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 82
 Power 419
 Predicted -7.088
-Distance -7.088
-TRACK null
+Distance 0.0050001144
+TRACK NAME : Girls Like You
+ARTIST : Maroon 5 
+
 id 83
 Power 38
 Predicted -3.36175
-Distance -3.36175
-TRACK null
+Distance 0.039250135
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 84
 Power 392
 Predicted -5.024
-Distance -5.024
-TRACK null
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 85
 Power 36
 Predicted -5.3413634
-Distance -5.3413634
-TRACK null
+Distance 6.365776E-4
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 86
 Power 706
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 87
 Power 36
 Predicted -5.396
-Distance -5.396
-TRACK null
+Distance 0.032999992
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 88
 Power 40
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 89
 Power 831
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 90
 Power 706
 Predicted -5.874
-Distance -5.874
-TRACK null
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 91
 Power 37
 Predicted -5.2924285
-Distance -5.2924285
-TRACK null
+Distance 0.045428276
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 92
 Power 494
 Predicted -5.874
-Distance -5.874
-TRACK null
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 93
 Power 36
 Predicted -5.2845454
-Distance -5.2845454
-TRACK null
+Distance 0.037545204
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 94
 Power 37
 Predicted -5.5076427
-Distance -5.5076427
-TRACK null
+Distance 0.078642845
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 95
 Power 493
 Predicted -5.126
-Distance -5.126
-TRACK null
+Distance 0.0
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+

@@ -2,100 +2,140 @@ Distance based on loudness
 id 0
 Power 706
 Predicted -4.6496
-Distance -4.6496
-TRACK null
+Distance 0.038400173
+TRACK NAME : Bella Ciao
+ARTIST : Hardwell Maddix 
+
 id 1
 Power 385
 Predicted -4.2511
-Distance -4.2511
-TRACK null
+Distance 1.001358E-4
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 2
 Power 38
 Predicted -3.161601
-Distance -3.161601
-TRACK null
+Distance 0.23939896
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 3
 Power 383
 Predicted -4.2511
-Distance -4.2511
-TRACK null
+Distance 1.001358E-4
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 4
 Power 37
 Predicted -5.8730474
-Distance -5.8730474
-TRACK null
+Distance 9.5272064E-4
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 5
 Power 463
 Predicted -4.8109
-Distance -4.8109
-TRACK null
+Distance 0.031099796
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
 id 6
 Power 37
 Predicted -5.8730474
-Distance -5.8730474
-TRACK null
+Distance 9.5272064E-4
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 7
 Power 363
 Predicted -6.1848
-Distance -6.1848
-TRACK null
+Distance 0.026800156
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
 id 8
 Power 341
 Predicted -4.128525
-Distance -4.128525
-TRACK null
+Distance 0.006524563
+TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
+ARTIST : Pitbull Ne-Yo Afrojack Nayer 
+
 id 9
 Power 548
 Predicted -5.2313
-Distance -5.2313
-TRACK null
+Distance 0.01570034
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 10
 Power 801
 Predicted -4.8341
-Distance -4.8341
-TRACK null
+Distance 0.007900238
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
 id 11
 Power 494
 Predicted -6.0329
-Distance -6.0329
-TRACK null
+Distance 0.12510014
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
 id 12
 Power 36
 Predicted -5.189814
-Distance -5.189814
-TRACK null
+Distance 0.057186127
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 13
 Power 38
 Predicted -3.161601
-Distance -3.161601
-TRACK null
+Distance 0.23939896
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 14
 Power 387
 Predicted -4.0791
-Distance -4.0791
-TRACK null
+Distance 0.01609993
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 15
 Power 37
 Predicted -5.8730474
-Distance -5.8730474
-TRACK null
+Distance 9.5272064E-4
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 16
 Power 39
 Predicted -2.800231
-Distance -2.800231
-TRACK null
+Distance 0.05023098
+TRACK NAME : Baila Baila Baila
+ARTIST : Ozuna 
+
 id 17
 Power 407
 Predicted -4.5274
-Distance -4.5274
-TRACK null
+Distance 0.053599834
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
 id 18
 Power 364
 Predicted -5.3936
-Distance -5.3936
-TRACK null
+Distance 0.035399914
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 19
 Power 370
 Predicted -4.8956
-Distance -4.8956
-TRACK null
+Distance 0.053599834
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+

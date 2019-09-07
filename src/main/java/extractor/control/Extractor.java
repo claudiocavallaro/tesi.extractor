@@ -35,7 +35,6 @@ public class Extractor {
             minDistance(s);
         }
 
-
     }
 
     private void readPrediction(){
@@ -64,7 +63,7 @@ public class Extractor {
                 for (Preference p : music){
                     float musicValue = p.getTraccia().getNumber(car);
                     float distance = Math.abs(musicValue - value);
-                    if (distance < min){
+                    if (distance < Math.abs(min)){
                         min = distance;
                         result.setDistance(min);
                         result.setTraccia(p.getTraccia());

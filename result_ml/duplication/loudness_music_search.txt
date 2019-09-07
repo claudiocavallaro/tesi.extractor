@@ -2,385 +2,539 @@ Distance based on loudness
 id 0
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 1
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 2
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 3
 Power 1154
 Predicted -5.363
-Distance -5.363
-TRACK null
+Distance 0.020999908
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 4
 Power 354
 Predicted -3.5325625
-Distance -3.5325625
-TRACK null
+Distance 0.0705626
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
 id 5
 Power 356
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 6
 Power 341
 Predicted -8.195717
-Distance -8.195717
-TRACK null
+Distance 0.5387168
+TRACK NAME : 90MIN
+ARTIST : Salmo 
+
 id 7
 Power 38
 Predicted -3.1690361
-Distance -3.1690361
-TRACK null
+Distance 0.23196387
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 8
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 9
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 10
 Power 38
 Predicted -3.1690361
-Distance -3.1690361
-TRACK null
+Distance 0.23196387
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 11
 Power 898
 Predicted -5.122475
-Distance -5.122475
-TRACK null
+Distance 0.0035247803
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 12
 Power 530
 Predicted -5.3077
-Distance -5.3077
-TRACK null
+Distance 0.03429985
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 13
 Power 38
 Predicted -3.1690361
-Distance -3.1690361
-TRACK null
+Distance 0.23196387
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 14
 Power 934
 Predicted -4.153
-Distance -4.153
-TRACK null
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
 id 15
 Power 408
 Predicted -4.2421
-Distance -4.2421
-TRACK null
+Distance 0.008900166
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 16
 Power 831
 Predicted -4.153
-Distance -4.153
-TRACK null
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
 id 17
 Power 43
 Predicted -6.0337
-Distance -6.0337
-TRACK null
+Distance 0.1243
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
 id 18
 Power 385
 Predicted -5.1286
-Distance -5.1286
-TRACK null
+Distance 0.002600193
+TRACK NAME : HO PAURA DI USCIRE 2 - prod. Mace
+ARTIST : MACHETE Salmo Lazza 
+
 id 19
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 20
 Power 363
 Predicted -5.4143
-Distance -5.4143
-TRACK null
+Distance 0.014699936
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 21
 Power 449
 Predicted -5.247
-Distance -5.247
-TRACK null
+Distance 0.0
+TRACK NAME : 'Till I Collapse
+ARTIST : Eminem Nate Dogg 
+
 id 22
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 23
 Power 482
 Predicted -5.3421826
-Distance -5.3421826
-TRACK null
+Distance 1.8262863E-4
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 24
 Power 390
 Predicted -4.0447
-Distance -4.0447
-TRACK null
+Distance 0.018300056
+TRACK NAME : Power
+ARTIST : Hardwell KSHMR 
+
 id 25
 Power 435
 Predicted -5.5050583
-Distance -5.5050583
-TRACK null
+Distance 0.07605839
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 26
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 27
 Power 393
 Predicted -5.024
-Distance -5.024
-TRACK null
+Distance 0.0
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 28
 Power 411
 Predicted -4.319393
-Distance -4.319393
-TRACK null
+Distance 0.019607067
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 29
 Power 654
 Predicted -2.042
-Distance -2.042
-TRACK null
+Distance 0.0
+TRACK NAME : American Idiot
+ARTIST : Green Day 
+
 id 30
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 31
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 32
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 33
 Power 354
 Predicted -3.5325625
-Distance -3.5325625
-TRACK null
+Distance 0.0705626
+TRACK NAME : Pure Grinding
+ARTIST : Avicii 
+
 id 34
 Power 38
 Predicted -3.1690361
-Distance -3.1690361
-TRACK null
+Distance 0.23196387
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 35
 Power 341
 Predicted -8.195717
-Distance -8.195717
-TRACK null
+Distance 0.5387168
+TRACK NAME : 90MIN
+ARTIST : Salmo 
+
 id 36
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 37
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 38
 Power 43
 Predicted -6.0337
-Distance -6.0337
-TRACK null
+Distance 0.1243
+TRACK NAME : Dove e quando
+ARTIST : Benji & Fede 
+
 id 39
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 40
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 41
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 42
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 43
 Power 133
 Predicted -6.707
-Distance -6.707
-TRACK null
+Distance 0.0
+TRACK NAME : Mambo Salentino
+ARTIST : Boomdabash Alessandra Amoroso 
+
 id 44
 Power 446
 Predicted -4.5206
-Distance -4.5206
-TRACK null
+Distance 0.06040001
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
 id 45
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 46
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 47
 Power 411
 Predicted -4.319393
-Distance -4.319393
-TRACK null
+Distance 0.019607067
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 48
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 49
 Power 585
 Predicted -2.652
-Distance -2.652
-TRACK null
+Distance 0.0
+TRACK NAME : Con Calma
+ARTIST : Daddy Yankee Snow 
+
 id 50
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 51
 Power 411
 Predicted -4.319393
-Distance -4.319393
-TRACK null
+Distance 0.019607067
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 52
 Power 530
 Predicted -5.3077
-Distance -5.3077
-TRACK null
+Distance 0.03429985
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 53
 Power 408
 Predicted -4.2421
-Distance -4.2421
-TRACK null
+Distance 0.008900166
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 54
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 55
 Power 407
 Predicted -5.4958
-Distance -5.4958
-TRACK null
+Distance 0.06680012
+TRACK NAME : Muhammad Ali
+ARTIST : Marco Mengoni 
+
 id 56
 Power 36
 Predicted -5.049854
-Distance -5.049854
-TRACK null
+Distance 0.008853912
+TRACK NAME : I Don't Care (with Justin Bieber)
+ARTIST : Ed Sheeran Justin Bieber 
+
 id 57
 Power 446
 Predicted -4.5206
-Distance -4.5206
-TRACK null
+Distance 0.06040001
+TRACK NAME : FRIENDS - Justin Caruso Remix
+ARTIST : Marshmello Anne-Marie Justin Caruso 
+
 id 58
 Power 392
 Predicted -6.976
-Distance -6.976
-TRACK null
+Distance 0.0
+TRACK NAME : Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)
+ARTIST : Martin Garrix Macklemore Fall Out Boy 
+
 id 59
 Power 443
 Predicted -2.881
-Distance -2.881
-TRACK null
+Distance 0.0
+TRACK NAME : Jackie Chan
+ARTIST : Tiësto Dzeko Preme Post Malone 
+
 id 60
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 61
 Power 500
 Predicted -4.153
-Distance -4.153
-TRACK null
+Distance 0.0
+TRACK NAME : Numb
+ARTIST : Linkin Park 
+
 id 62
 Power 411
 Predicted -4.319393
-Distance -4.319393
-TRACK null
+Distance 0.019607067
+TRACK NAME : Waiting For Love
+ARTIST : Avicii 
+
 id 63
 Power 647
 Predicted -3.8609
-Distance -3.8609
-TRACK null
+Distance 0.0011000633
+TRACK NAME : Power - Loris Cimino Remix
+ARTIST : Hardwell KSHMR Loris Cimino 
+
 id 64
 Power 367
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 65
 Power 39
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 66
 Power 38
 Predicted -3.1690361
-Distance -3.1690361
-TRACK null
+Distance 0.23196387
+TRACK NAME : LOVE
+ARTIST : Gianluca Vacchi Sebastian Yatra 
+
 id 67
 Power 367
 Predicted -4.251
-Distance -4.251
-TRACK null
+Distance 0.0
+TRACK NAME : Numb / Encore
+ARTIST : JAY Z Linkin Park 
+
 id 68
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 69
 Power 394
 Predicted -4.402
-Distance -4.402
-TRACK null
+Distance 0.0
+TRACK NAME : Believer
+ARTIST : Imagine Dragons 
+
 id 70
 Power 441
 Predicted -4.8448
-Distance -4.8448
-TRACK null
+Distance 0.0027999878
+TRACK NAME : Polvere di stelle
+ARTIST : Ligabue 
+
 id 71
 Power 706
 Predicted -5.668757
-Distance -5.668757
-TRACK null
+Distance 0.041243076
+TRACK NAME : Arrogante
+ARTIST : Irama 
+
 id 72
 Power 482
 Predicted -5.3421826
-Distance -5.3421826
-TRACK null
+Distance 1.8262863E-4
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 73
 Power 383
 Predicted -4.9909
-Distance -4.9909
-TRACK null
+Distance 0.03310013
+TRACK NAME : Where Have You Gone (Anywhere)
+ARTIST : Lucas & Steve 
+
 id 74
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
 id 75
 Power 493
 Predicted -5.874
-Distance -5.874
-TRACK null
+Distance 0.0
+TRACK NAME : Chi Vuole Essere Milionario? (feat. Fabri Fibra)
+ARTIST : Clementino Fabri Fibra 
+
 id 76
 Power 37
 Predicted -5.3594975
-Distance -5.3594975
-TRACK null
+Distance 0.01749754
+TRACK NAME : Una volta ancora (feat. Ana Mena)
+ARTIST : Fred De Palma Ana Mena 
+
