@@ -139,3 +139,5 @@ Distance 0.0038999915
 TRACK NAME : Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)
 ARTIST : Pitbull Ne-Yo Afrojack Nayer 
 
+
+AVG DISTANCE 0.0029108792

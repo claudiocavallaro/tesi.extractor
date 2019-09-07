@@ -538,3 +538,5 @@ Distance 0.012619734
 TRACK NAME : Like I Do
 ARTIST : David Guetta Martin Garrix Brooks 
 
+
+AVG DISTANCE 0.005426467

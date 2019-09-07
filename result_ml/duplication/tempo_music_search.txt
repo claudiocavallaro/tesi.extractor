@@ -538,3 +538,5 @@ Distance 0.017730713
 TRACK NAME : Waiting For Love
 ARTIST : Avicii 
 
+
+AVG DISTANCE 0.62541676

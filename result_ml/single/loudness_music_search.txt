@@ -139,3 +139,5 @@ Distance 0.053599834
 TRACK NAME : Polvere di stelle
 ARTIST : Ligabue 
 
+
+AVG DISTANCE 0.04997492

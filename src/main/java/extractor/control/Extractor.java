@@ -20,6 +20,8 @@ public class Extractor {
 
     private static ArrayList<Preference> music = MainExec.getLista();
 
+    private ArrayList<Result> resultList;
+
     private String path = "result_ml_cv/duplication/";
     //private String path = "result_ml/duplication/";
     //private String path = "result_ml_cv/single/";
@@ -48,6 +50,7 @@ public class Extractor {
     }
 
     private void minDistance(String car){
+        resultList = new ArrayList<>();
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(path + car + "_music_search.txt"));
             writer.write("Distance based on " + car + "\n");
@@ -69,8 +72,16 @@ public class Extractor {
                         result.setTraccia(p.getTraccia());
                     }
                 }
+                resultList.add(result);
                 writer.write("id " + pv.getId() + "\nPower " + pv.getPower() + "\nPredicted " + pv.getNumber(car) + "\nDistance " + min + "\nTRACK " + result.getTraccia() + "\n");
             }
+
+            float sum = 0 ;
+            for (Result result : resultList){
+                sum += result.getDistance();
+            }
+            float avg = sum / (resultList.size());
+            writer.write("\nAVG DISTANCE " + avg);
             writer.close();
         }catch (Exception e){
             e.printStackTrace();

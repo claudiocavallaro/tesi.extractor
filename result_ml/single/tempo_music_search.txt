@@ -139,3 +139,5 @@ Distance 0.11100006
 TRACK NAME : Benvenuti In Italy
 ARTIST : Rocco Hunt 
 
+
+AVG DISTANCE 1.465435

@@ -538,3 +538,5 @@ Distance 0.01749754
 TRACK NAME : Una volta ancora (feat. Ana Mena)
 ARTIST : Fred De Palma Ana Mena 
 
+
+AVG DISTANCE 0.04683281

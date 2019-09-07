@@ -2687,3 +2687,5 @@ Distance 0.0
 TRACK NAME : American Idiot
 ARTIST : Green Day 
 
+
+AVG DISTANCE 0.3686831

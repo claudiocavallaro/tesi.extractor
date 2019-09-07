@@ -538,3 +538,5 @@ Distance 8.7434053E-4
 TRACK NAME : Girls Like You
 ARTIST : Maroon 5 
 
+
+AVG DISTANCE 0.0052810884

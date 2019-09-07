@@ -538,3 +538,5 @@ Distance 0.004285872
 TRACK NAME : Baila Baila Baila
 ARTIST : Ozuna 
 
+
+AVG DISTANCE 0.0031301146

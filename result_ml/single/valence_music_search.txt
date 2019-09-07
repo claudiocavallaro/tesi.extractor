@@ -139,3 +139,5 @@ Distance 0.0038000345
 TRACK NAME : Happier (feat. Bastille)
 ARTIST : Marshmello Bastille 
 
+
+AVG DISTANCE 0.01034607
