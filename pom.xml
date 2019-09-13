@@ -21,7 +21,7 @@
         <swagger.jaxrs>1.5.13</swagger.jaxrs>
         <jcraft>0.1.53</jcraft>
         <springfox>2.4.0</springfox>
-        <jackson>2.9.4</jackson>
+        <jackson>2.9.9</jackson>
     </properties>
 
     <dependencies>
