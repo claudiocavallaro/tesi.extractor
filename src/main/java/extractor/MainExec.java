@@ -28,8 +28,8 @@ public class MainExec {
     private static ArrayList<Preference> lista = new ArrayList<Preference>();
 
 
-    public static final String clientId = "143e6b65125042178bcf14796211d5d2";
-    public static final String clientSecret = "c39a44105867434396c5dbecbce77a8e";
+    public static final String clientId = Costanti.clientId;
+    public static final String clientSecret = Costanti.clientSecret;
 
 
     private static String[] output = {"danceability.arff", "energy.arff", "loudness.arff", "speechiness.arff", "valence.arff", "tempo.arff"};
