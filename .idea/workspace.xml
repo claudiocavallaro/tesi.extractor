@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ccbb29b-ff6d-47ad-9d53-05c460f29e7e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability_music_search.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/speechiness_music_search.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/phone.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-end-column="229" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/Extractor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/MainExec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1387">
+              <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/Costanti.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/outMod/duplication/danceability.arff">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="19" selection-start-line="1" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="933">
+              <caret line="1678" column="27" selection-start-line="1678" selection-start-column="22" selection-end-line="1678" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.769</find>
+      <find>971</find>
+      <find>0.695</find>
+      <find>0.542</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/extractor/model/MLObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/Extractor.java" />
+        <option value="$PROJECT_DIR$/outMod/single/tempo.arff" />
+        <option value="$PROJECT_DIR$/Spotify features.txt" />
+        <option value="$PROJECT_DIR$/result_ml/duplication/distanceRecap.txt" />
+        <option value="$PROJECT_DIR$/result_ml/duplication/tempo.json" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/model/PredictedValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/model/Result.java" />
+        <option value="$PROJECT_DIR$/result_ml_cv/duplication/loudness_music_search.txt" />
+        <option value="$PROJECT_DIR$/result_ml_cv/duplication/danceability_music_search.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/control/Extractor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/Costanti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/MainExec.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="outMod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="outMod" type="462c0819:PsiDirectoryNode" />
+              <item name="duplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml" type="462c0819:PsiDirectoryNode" />
+              <item name="duplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+              <item name="duplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="extractor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/result_ml_cv/single" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="extractor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="extractor.Extractor" />
+      <module name="tesi.extractor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="extractor.MainExec" />
+      <module name="tesi.extractor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.extractor" />
+      <item itemvalue="Application.main" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ccbb29b-ff6d-47ad-9d53-05c460f29e7e" name="Default Changelist" comment="" />
+      <created>1565103963988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565103963988</updated>
+    </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1565106859202</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565106859202</updated>
+    </task>
+    <task id="LOCAL-00002" summary="...">
+      <created>1565106917071</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565106917071</updated>
+    </task>
+    <task id="LOCAL-00003" summary="...">
+      <created>1565162521606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565162521606</updated>
+    </task>
+    <task id="LOCAL-00004" summary="...">
+      <created>1565187522620</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565187522620</updated>
+    </task>
+    <task id="LOCAL-00005" summary="...">
+      <created>1565595963223</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565595963224</updated>
+    </task>
+    <task id="LOCAL-00006" summary="...">
+      <created>1567600418014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567600418014</updated>
+    </task>
+    <task id="LOCAL-00007" summary="...">
+      <created>1567761813515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567761813516</updated>
+    </task>
+    <task id="LOCAL-00008" summary="before best song search">
+      <created>1567763290736</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567763290736</updated>
+    </task>
+    <task id="LOCAL-00009" summary="song search from single car">
+      <created>1567786497307</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567786497307</updated>
+    </task>
+    <task id="LOCAL-00010" summary="song search from single car">
+      <created>1567841098234</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567841098234</updated>
+    </task>
+    <task id="LOCAL-00011" summary="song search from single car">
+      <created>1567841643703</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1567841643703</updated>
+    </task>
+    <task id="LOCAL-00012" summary="song search from single car">
+      <created>1568359858773</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568359858773</updated>
+    </task>
+    <task id="LOCAL-00013" summary="song search from single car">
+      <created>1568359900455</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568359900455</updated>
+    </task>
+    <task id="LOCAL-00014" summary="song search from single car">
+      <created>1568361018990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568361018990</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.299787" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32871288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..." />
+    <MESSAGE value="before best song search" />
+    <MESSAGE value="song search from single car" />
+    <option name="LAST_COMMIT_MESSAGE" value="song search from single car" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spotify features.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/distanceRecap.txt" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/speechiness.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/loudness.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/valence.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/tempo.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/danceability.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/energy.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/Extractor.java" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/distanceRecap.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/MLObject.java" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/energy.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/loudness.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/speechiness.json" />
+    <entry file="file://$PROJECT_DIR$/result_ml/single/danceability.json" />
+    <entry file="file://$PROJECT_DIR$/outMod/duplication/energy.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5272" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outMod/duplication/tempo.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="3" selection-start-line="62" selection-end-line="62" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outMod/duplication/valence.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/distanceRecap.txt" />
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/prediction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13874" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/prediction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/prediction.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/prediction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/energy_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/summary.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/tempo_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/valence_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/loudness_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Preference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/PredictedValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="103" column="5" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="5" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/loudness_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/energy_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/speechiness_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/speechiness_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="63" column="66" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outMod/duplication/danceability.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="1" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/phone.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-end-column="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/Extractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/Costanti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/MainExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1387">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="933">
+          <caret line="1678" column="27" selection-start-line="1678" selection-start-column="22" selection-end-line="1678" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
