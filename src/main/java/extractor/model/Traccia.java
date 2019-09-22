@@ -11,6 +11,8 @@ public class Traccia {
     private String name;
     private String artist;
 
+    private String url;
+
     private int duration;
 
     private float loudness;
@@ -20,6 +22,14 @@ public class Traccia {
 
     private float valence;
     private float tempo;
+
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
 
     @Id
     public String getIdSong() {

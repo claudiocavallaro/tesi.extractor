@@ -38,7 +38,7 @@ public class Extractor {
         }
 
     }
-    
+
 
     private void readPrediction(){
         Gson gson = new Gson();
