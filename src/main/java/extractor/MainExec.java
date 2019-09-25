@@ -113,7 +113,6 @@ public class MainExec {
         try {
             BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
-            String pathTimeStamp = "$._id.numberLong";
             String pathPower = "$.power.power";
             String pathSong = "$.idSong";
             String pathPreference = "$.preference";
@@ -124,10 +123,10 @@ public class MainExec {
                 String idSong = JsonPath.read(line, pathSong);
 
                 String preference = JsonPath.read(line, pathPreference);
-                long timeStamp = JsonPath.read(line, pathTimeStamp);
+
 
                 Preference p = new Preference();
-                p.setTimestamp(timeStamp);
+
                 Traccia t = new Traccia();
                 t.setIdSong(idSong);
                 p.setTraccia(t);
@@ -180,8 +179,11 @@ public class MainExec {
                 artists += track.getArtists()[j].getName() + " ";
             }
 
+            String url = track.getUri();
+
             int duration = track.getDurationMs();
 
+            preference.getTraccia().setUrl(url);
             preference.getTraccia().setName(name);
             preference.getTraccia().setArtist(artists);
             preference.getTraccia().setDuration(duration);

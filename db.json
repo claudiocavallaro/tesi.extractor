@@ -1,12 +1,12 @@
 [
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -17,13 +17,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "1.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -34,13 +34,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
       "name": "In My Mind",
       "artist": "Dynoro ",
+      "url": "spotify:track:2HvMyC2NoRJceu6Lgbn4lS",
       "duration": 179124,
       "loudness": -6.683,
       "speechiness": 0.249,
@@ -51,13 +51,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "4.0",
     "traccia": {
       "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
       "name": "In My Mind",
       "artist": "Dynoro ",
+      "url": "spotify:track:2HvMyC2NoRJceu6Lgbn4lS",
       "duration": 179124,
       "loudness": -6.683,
       "speechiness": 0.249,
@@ -68,13 +68,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "4.0",
     "traccia": {
       "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
       "name": "In My Mind",
       "artist": "Dynoro ",
+      "url": "spotify:track:2HvMyC2NoRJceu6Lgbn4lS",
       "duration": 179124,
       "loudness": -6.683,
       "speechiness": 0.249,
@@ -85,13 +85,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "2HvMyC2NoRJceu6Lgbn4lS",
       "name": "In My Mind",
       "artist": "Dynoro ",
+      "url": "spotify:track:2HvMyC2NoRJceu6Lgbn4lS",
       "duration": 179124,
       "loudness": -6.683,
       "speechiness": 0.249,
@@ -102,13 +102,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 363,
     "preference": "3.0",
     "traccia": {
       "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
       "name": "Burn Out (feat. Dewain Whitmore)",
       "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+      "url": "spotify:track:7IWTIkiWGWNQyYfOLdMrGD",
       "duration": 200322,
       "loudness": -5.751,
       "speechiness": 0.0398,
@@ -119,13 +119,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 419,
     "preference": "4.0",
     "traccia": {
       "idSong": "7IWTIkiWGWNQyYfOLdMrGD",
       "name": "Burn Out (feat. Dewain Whitmore)",
       "artist": "Martin Garrix Justin Mylo Dewain Whitmore ",
+      "url": "spotify:track:7IWTIkiWGWNQyYfOLdMrGD",
       "duration": 200322,
       "loudness": -5.751,
       "speechiness": 0.0398,
@@ -136,13 +136,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 446,
     "preference": "4.0",
     "traccia": {
       "idSong": "7HqzNuSl19gvm87vhlN8ME",
       "name": "Waiting For Love",
       "artist": "Avicii ",
+      "url": "spotify:track:7HqzNuSl19gvm87vhlN8ME",
       "duration": 229760,
       "loudness": -4.339,
       "speechiness": 0.0481,
@@ -153,13 +153,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 354,
     "preference": "4.0",
     "traccia": {
       "idSong": "7HqzNuSl19gvm87vhlN8ME",
       "name": "Waiting For Love",
       "artist": "Avicii ",
+      "url": "spotify:track:7HqzNuSl19gvm87vhlN8ME",
       "duration": 229760,
       "loudness": -4.339,
       "speechiness": 0.0481,
@@ -170,13 +170,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 441,
     "preference": "3.0",
     "traccia": {
       "idSong": "2SL6oP2YAEQbqsrkOzRGO4",
       "name": "Venom - Music From The Motion Picture",
       "artist": "Eminem ",
+      "url": "spotify:track:2SL6oP2YAEQbqsrkOzRGO4",
       "duration": 269554,
       "loudness": -5.063,
       "speechiness": 0.064,
@@ -187,13 +187,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 386,
     "preference": "1.0",
     "traccia": {
       "idSong": "2SL6oP2YAEQbqsrkOzRGO4",
       "name": "Venom - Music From The Motion Picture",
       "artist": "Eminem ",
+      "url": "spotify:track:2SL6oP2YAEQbqsrkOzRGO4",
       "duration": 269554,
       "loudness": -5.063,
       "speechiness": 0.064,
@@ -204,13 +204,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 411,
     "preference": "3.0",
     "traccia": {
       "idSong": "1C7XvLv4Boxi8bNleQRirt",
       "name": "Jackie Chan",
       "artist": "Tiësto Dzeko Preme Post Malone ",
+      "url": "spotify:track:1C7XvLv4Boxi8bNleQRirt",
       "duration": 215760,
       "loudness": -2.881,
       "speechiness": 0.046,
@@ -221,13 +221,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 443,
     "preference": "4.0",
     "traccia": {
       "idSong": "1C7XvLv4Boxi8bNleQRirt",
       "name": "Jackie Chan",
       "artist": "Tiësto Dzeko Preme Post Malone ",
+      "url": "spotify:track:1C7XvLv4Boxi8bNleQRirt",
       "duration": 215760,
       "loudness": -2.881,
       "speechiness": 0.046,
@@ -238,13 +238,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "1.0",
     "traccia": {
       "idSong": "1C7XvLv4Boxi8bNleQRirt",
       "name": "Jackie Chan",
       "artist": "Tiësto Dzeko Preme Post Malone ",
+      "url": "spotify:track:1C7XvLv4Boxi8bNleQRirt",
       "duration": 215760,
       "loudness": -2.881,
       "speechiness": 0.046,
@@ -255,13 +255,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "4.0",
     "traccia": {
       "idSong": "50FnceJh9eEUwqRihDMUiX",
       "name": "Summer",
       "artist": "Calvin Harris ",
+      "url": "spotify:track:50FnceJh9eEUwqRihDMUiX",
       "duration": 215626,
       "loudness": -4.023,
       "speechiness": 0.0323,
@@ -272,13 +272,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "5.0",
     "traccia": {
       "idSong": "50FnceJh9eEUwqRihDMUiX",
       "name": "Summer",
       "artist": "Calvin Harris ",
+      "url": "spotify:track:50FnceJh9eEUwqRihDMUiX",
       "duration": 215626,
       "loudness": -4.023,
       "speechiness": 0.0323,
@@ -289,13 +289,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "3.0",
     "traccia": {
       "idSong": "50FnceJh9eEUwqRihDMUiX",
       "name": "Summer",
       "artist": "Calvin Harris ",
+      "url": "spotify:track:50FnceJh9eEUwqRihDMUiX",
       "duration": 215626,
       "loudness": -4.023,
       "speechiness": 0.0323,
@@ -306,13 +306,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "2.0",
     "traccia": {
       "idSong": "0W2378XdrVrJ4QhMOv1X6v",
       "name": "Give Me Everything (feat. Ne-Yo, Afrojack \u0026 Nayer)",
       "artist": "Pitbull Ne-Yo Afrojack Nayer ",
+      "url": "spotify:track:0W2378XdrVrJ4QhMOv1X6v",
       "duration": 254893,
       "loudness": -4.122,
       "speechiness": 0.17,
@@ -323,13 +323,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "2J9TGb5CRT4omfAgnKmXn5",
       "name": "Ostia lido",
       "artist": "J-AX ",
+      "url": "spotify:track:2J9TGb5CRT4omfAgnKmXn5",
       "duration": 172945,
       "loudness": -5.723,
       "speechiness": 0.186,
@@ -340,13 +340,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 485,
     "preference": "2.0",
     "traccia": {
       "idSong": "2J9TGb5CRT4omfAgnKmXn5",
       "name": "Ostia lido",
       "artist": "J-AX ",
+      "url": "spotify:track:2J9TGb5CRT4omfAgnKmXn5",
       "duration": 172945,
       "loudness": -5.723,
       "speechiness": 0.186,
@@ -357,13 +357,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 749,
     "preference": "2.0",
     "traccia": {
       "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
       "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
       "artist": "Clementino Fabri Fibra ",
+      "url": "spotify:track:3gyF5ZKSbcCOaMIRmY9X6f",
       "duration": 166120,
       "loudness": -5.874,
       "speechiness": 0.257,
@@ -374,13 +374,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 706,
     "preference": "4.0",
     "traccia": {
       "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
       "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
       "artist": "Clementino Fabri Fibra ",
+      "url": "spotify:track:3gyF5ZKSbcCOaMIRmY9X6f",
       "duration": 166120,
       "loudness": -5.874,
       "speechiness": 0.257,
@@ -391,13 +391,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 493,
     "preference": "3.0",
     "traccia": {
       "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
       "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
       "artist": "Clementino Fabri Fibra ",
+      "url": "spotify:track:3gyF5ZKSbcCOaMIRmY9X6f",
       "duration": 166120,
       "loudness": -5.874,
       "speechiness": 0.257,
@@ -408,13 +408,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 491,
     "preference": "1.0",
     "traccia": {
       "idSong": "3gyF5ZKSbcCOaMIRmY9X6f",
       "name": "Chi Vuole Essere Milionario? (feat. Fabri Fibra)",
       "artist": "Clementino Fabri Fibra ",
+      "url": "spotify:track:3gyF5ZKSbcCOaMIRmY9X6f",
       "duration": 166120,
       "loudness": -5.874,
       "speechiness": 0.257,
@@ -425,13 +425,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 831,
     "preference": "5.0",
     "traccia": {
       "idSong": "2nLtzopw4rPReszdYBJU6h",
       "name": "Numb",
       "artist": "Linkin Park ",
+      "url": "spotify:track:2nLtzopw4rPReszdYBJU6h",
       "duration": 185586,
       "loudness": -4.153,
       "speechiness": 0.0381,
@@ -442,13 +442,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 934,
     "preference": "4.0",
     "traccia": {
       "idSong": "2nLtzopw4rPReszdYBJU6h",
       "name": "Numb",
       "artist": "Linkin Park ",
+      "url": "spotify:track:2nLtzopw4rPReszdYBJU6h",
       "duration": 185586,
       "loudness": -4.153,
       "speechiness": 0.0381,
@@ -459,13 +459,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 500,
     "preference": "3.0",
     "traccia": {
       "idSong": "2nLtzopw4rPReszdYBJU6h",
       "name": "Numb",
       "artist": "Linkin Park ",
+      "url": "spotify:track:2nLtzopw4rPReszdYBJU6h",
       "duration": 185586,
       "loudness": -4.153,
       "speechiness": 0.0381,
@@ -476,13 +476,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 953,
     "preference": "5.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -493,13 +493,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 1154,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -510,13 +510,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 530,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -527,13 +527,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 525,
     "preference": "1.0",
     "traccia": {
       "idSong": "0Es6eMldAFrmVs0QCOlIay",
       "name": "Muhammad Ali",
       "artist": "Marco Mengoni ",
+      "url": "spotify:track:0Es6eMldAFrmVs0QCOlIay",
       "duration": 187386,
       "loudness": -5.429,
       "speechiness": 0.0643,
@@ -544,13 +544,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 479,
     "preference": "1.0",
     "traccia": {
       "idSong": "0Es6eMldAFrmVs0QCOlIay",
       "name": "Muhammad Ali",
       "artist": "Marco Mengoni ",
+      "url": "spotify:track:0Es6eMldAFrmVs0QCOlIay",
       "duration": 187386,
       "loudness": -5.429,
       "speechiness": 0.0643,
@@ -561,13 +561,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 442,
     "preference": "2.0",
     "traccia": {
       "idSong": "7uH27oIt4a6cIFCA8ZPcyG",
       "name": "Baila Baila Baila",
       "artist": "Ozuna ",
+      "url": "spotify:track:7uH27oIt4a6cIFCA8ZPcyG",
       "duration": 158400,
       "loudness": -2.75,
       "speechiness": 0.111,
@@ -578,13 +578,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 1032,
     "preference": "2.0",
     "traccia": {
       "idSong": "7uH27oIt4a6cIFCA8ZPcyG",
       "name": "Baila Baila Baila",
       "artist": "Ozuna ",
+      "url": "spotify:track:7uH27oIt4a6cIFCA8ZPcyG",
       "duration": 158400,
       "loudness": -2.75,
       "speechiness": 0.111,
@@ -595,13 +595,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 962,
     "preference": "3.0",
     "traccia": {
       "idSong": "23i7fgvPzB649jyXtiS8Ld",
       "name": "Benvenuti In Italy",
       "artist": "Rocco Hunt ",
+      "url": "spotify:track:23i7fgvPzB649jyXtiS8Ld",
       "duration": 198309,
       "loudness": -6.661,
       "speechiness": 0.22,
@@ -612,13 +612,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 1200,
     "preference": "2.0",
     "traccia": {
       "idSong": "23i7fgvPzB649jyXtiS8Ld",
       "name": "Benvenuti In Italy",
       "artist": "Rocco Hunt ",
+      "url": "spotify:track:23i7fgvPzB649jyXtiS8Ld",
       "duration": 198309,
       "loudness": -6.661,
       "speechiness": 0.22,
@@ -629,13 +629,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 971,
     "preference": "4.0",
     "traccia": {
       "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
       "name": "American Idiot",
       "artist": "Green Day ",
+      "url": "spotify:track:6nTiIhLmQ3FWhvrGafw2zj",
       "duration": 176346,
       "loudness": -2.042,
       "speechiness": 0.0639,
@@ -646,13 +646,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 654,
     "preference": "3.0",
     "traccia": {
       "idSong": "6nTiIhLmQ3FWhvrGafw2zj",
       "name": "American Idiot",
       "artist": "Green Day ",
+      "url": "spotify:track:6nTiIhLmQ3FWhvrGafw2zj",
       "duration": 176346,
       "loudness": -2.042,
       "speechiness": 0.0639,
@@ -663,13 +663,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 734,
     "preference": "1.0",
     "traccia": {
       "idSong": "7ryPJsVHaePK4gqefQuK85",
       "name": "Polvere di stelle",
       "artist": "Ligabue ",
+      "url": "spotify:track:7ryPJsVHaePK4gqefQuK85",
       "duration": 258226,
       "loudness": -4.842,
       "speechiness": 0.0946,
@@ -680,13 +680,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 484,
     "preference": "2.0",
     "traccia": {
       "idSong": "7ryPJsVHaePK4gqefQuK85",
       "name": "Polvere di stelle",
       "artist": "Ligabue ",
+      "url": "spotify:track:7ryPJsVHaePK4gqefQuK85",
       "duration": 258226,
       "loudness": -4.842,
       "speechiness": 0.0946,
@@ -697,13 +697,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "7hH6PsrlKQdNlvESUYKz79",
       "name": "Linda",
       "artist": "Emis Killa ",
+      "url": "spotify:track:7hH6PsrlKQdNlvESUYKz79",
       "duration": 199378,
       "loudness": -7.485,
       "speechiness": 0.118,
@@ -714,13 +714,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "2.0",
     "traccia": {
       "idSong": "7hH6PsrlKQdNlvESUYKz79",
       "name": "Linda",
       "artist": "Emis Killa ",
+      "url": "spotify:track:7hH6PsrlKQdNlvESUYKz79",
       "duration": 199378,
       "loudness": -7.485,
       "speechiness": 0.118,
@@ -731,13 +731,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "2.0",
     "traccia": {
       "idSong": "5t3t82BtfDCiDezxpJChUn",
       "name": "Tijuana",
       "artist": "Emis Killa ",
+      "url": "spotify:track:5t3t82BtfDCiDezxpJChUn",
       "duration": 182000,
       "loudness": -6.922,
       "speechiness": 0.129,
@@ -748,13 +748,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "5t3t82BtfDCiDezxpJChUn",
       "name": "Tijuana",
       "artist": "Emis Killa ",
+      "url": "spotify:track:5t3t82BtfDCiDezxpJChUn",
       "duration": 182000,
       "loudness": -6.922,
       "speechiness": 0.129,
@@ -765,13 +765,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "1.0",
     "traccia": {
       "idSong": "0Es6eMldAFrmVs0QCOlIay",
       "name": "Muhammad Ali",
       "artist": "Marco Mengoni ",
+      "url": "spotify:track:0Es6eMldAFrmVs0QCOlIay",
       "duration": 187386,
       "loudness": -5.429,
       "speechiness": 0.0643,
@@ -782,13 +782,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "2J9TGb5CRT4omfAgnKmXn5",
       "name": "Ostia lido",
       "artist": "J-AX ",
+      "url": "spotify:track:2J9TGb5CRT4omfAgnKmXn5",
       "duration": 172945,
       "loudness": -5.723,
       "speechiness": 0.186,
@@ -799,13 +799,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "4.0",
     "traccia": {
       "idSong": "2J9TGb5CRT4omfAgnKmXn5",
       "name": "Ostia lido",
       "artist": "J-AX ",
+      "url": "spotify:track:2J9TGb5CRT4omfAgnKmXn5",
       "duration": 172945,
       "loudness": -5.723,
       "speechiness": 0.186,
@@ -816,13 +816,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 86,
     "preference": "2.0",
     "traccia": {
       "idSong": "1ahVFh0ViDZr8LvkEVlq3B",
       "name": "No Sleep (feat. Bonn)",
       "artist": "Martin Garrix Bonn ",
+      "url": "spotify:track:1ahVFh0ViDZr8LvkEVlq3B",
       "duration": 207094,
       "loudness": -6.385,
       "speechiness": 0.0326,
@@ -833,13 +833,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 524,
     "preference": "1.0",
     "traccia": {
       "idSong": "1ahVFh0ViDZr8LvkEVlq3B",
       "name": "No Sleep (feat. Bonn)",
       "artist": "Martin Garrix Bonn ",
+      "url": "spotify:track:1ahVFh0ViDZr8LvkEVlq3B",
       "duration": 207094,
       "loudness": -6.385,
       "speechiness": 0.0326,
@@ -850,13 +850,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 384,
     "preference": "4.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -867,13 +867,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 408,
     "preference": "3.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -884,13 +884,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 394,
     "preference": "2.0",
     "traccia": {
       "idSong": "6VRghJeP6I0w1KxkdWFfIh",
       "name": "Believer",
       "artist": "Imagine Dragons ",
+      "url": "spotify:track:6VRghJeP6I0w1KxkdWFfIh",
       "duration": 203782,
       "loudness": -4.402,
       "speechiness": 0.113,
@@ -901,13 +901,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 394,
     "preference": "3.0",
     "traccia": {
       "idSong": "6VRghJeP6I0w1KxkdWFfIh",
       "name": "Believer",
       "artist": "Imagine Dragons ",
+      "url": "spotify:track:6VRghJeP6I0w1KxkdWFfIh",
       "duration": 203782,
       "loudness": -4.402,
       "speechiness": 0.113,
@@ -918,13 +918,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 390,
     "preference": "4.0",
     "traccia": {
       "idSong": "6RnkFd8Fqqgk1Uni8RgqCQ",
       "name": "Like I Do",
       "artist": "David Guetta Martin Garrix Brooks ",
+      "url": "spotify:track:6RnkFd8Fqqgk1Uni8RgqCQ",
       "duration": 202500,
       "loudness": -3.719,
       "speechiness": 0.0377,
@@ -935,13 +935,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 404,
     "preference": "2.0",
     "traccia": {
       "idSong": "2NRhy2p5nQkv62kaec3BW6",
       "name": "LOVE",
       "artist": "Gianluca Vacchi Sebastian Yatra ",
+      "url": "spotify:track:2NRhy2p5nQkv62kaec3BW6",
       "duration": 190320,
       "loudness": -3.401,
       "speechiness": 0.0388,
@@ -952,13 +952,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 393,
     "preference": "3.0",
     "traccia": {
       "idSong": "3zECQWhwAEydeK9jUTPamo",
       "name": "Where Have You Gone (Anywhere)",
       "artist": "Lucas \u0026 Steve ",
+      "url": "spotify:track:3zECQWhwAEydeK9jUTPamo",
       "duration": 158602,
       "loudness": -5.024,
       "speechiness": 0.0489,
@@ -969,13 +969,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 367,
     "preference": "5.0",
     "traccia": {
       "idSong": "7dyluIqv7QYVTXXZiMWPHW",
       "name": "Numb / Encore",
       "artist": "JAY Z Linkin Park ",
+      "url": "spotify:track:7dyluIqv7QYVTXXZiMWPHW",
       "duration": 205280,
       "loudness": -4.251,
       "speechiness": 0.156,
@@ -986,13 +986,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 370,
     "preference": "3.0",
     "traccia": {
       "idSong": "7dyluIqv7QYVTXXZiMWPHW",
       "name": "Numb / Encore",
       "artist": "JAY Z Linkin Park ",
+      "url": "spotify:track:7dyluIqv7QYVTXXZiMWPHW",
       "duration": 205280,
       "loudness": -4.251,
       "speechiness": 0.156,
@@ -1003,13 +1003,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 398,
     "preference": "2.0",
     "traccia": {
       "idSong": "7dyluIqv7QYVTXXZiMWPHW",
       "name": "Numb / Encore",
       "artist": "JAY Z Linkin Park ",
+      "url": "spotify:track:7dyluIqv7QYVTXXZiMWPHW",
       "duration": 205280,
       "loudness": -4.251,
       "speechiness": 0.156,
@@ -1020,13 +1020,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 39,
     "preference": "3.0",
     "traccia": {
       "idSong": "7dyluIqv7QYVTXXZiMWPHW",
       "name": "Numb / Encore",
       "artist": "JAY Z Linkin Park ",
+      "url": "spotify:track:7dyluIqv7QYVTXXZiMWPHW",
       "duration": 205280,
       "loudness": -4.251,
       "speechiness": 0.156,
@@ -1037,13 +1037,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "4.0",
     "traccia": {
       "idSong": "6gaeewGjNiQhWOUkWRSLTa",
       "name": "Una volta ancora (feat. Ana Mena)",
       "artist": "Fred De Palma Ana Mena ",
+      "url": "spotify:track:6gaeewGjNiQhWOUkWRSLTa",
       "duration": 174291,
       "loudness": -5.342,
       "speechiness": 0.0622,
@@ -1054,13 +1054,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "6gaeewGjNiQhWOUkWRSLTa",
       "name": "Una volta ancora (feat. Ana Mena)",
       "artist": "Fred De Palma Ana Mena ",
+      "url": "spotify:track:6gaeewGjNiQhWOUkWRSLTa",
       "duration": 174291,
       "loudness": -5.342,
       "speechiness": 0.0622,
@@ -1071,13 +1071,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "6gaeewGjNiQhWOUkWRSLTa",
       "name": "Una volta ancora (feat. Ana Mena)",
       "artist": "Fred De Palma Ana Mena ",
+      "url": "spotify:track:6gaeewGjNiQhWOUkWRSLTa",
       "duration": 174291,
       "loudness": -5.342,
       "speechiness": 0.0622,
@@ -1088,13 +1088,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 294,
     "preference": "1.0",
     "traccia": {
       "idSong": "5BAJMdCQqax0oBQigQTl5h",
       "name": "Dove e quando",
       "artist": "Benji \u0026 Fede ",
+      "url": "spotify:track:5BAJMdCQqax0oBQigQTl5h",
       "duration": 190409,
       "loudness": -6.158,
       "speechiness": 0.0381,
@@ -1105,13 +1105,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 572,
     "preference": "2.0",
     "traccia": {
       "idSong": "5BAJMdCQqax0oBQigQTl5h",
       "name": "Dove e quando",
       "artist": "Benji \u0026 Fede ",
+      "url": "spotify:track:5BAJMdCQqax0oBQigQTl5h",
       "duration": 190409,
       "loudness": -6.158,
       "speechiness": 0.0381,
@@ -1122,13 +1122,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 571,
     "preference": "1.0",
     "traccia": {
       "idSong": "5BAJMdCQqax0oBQigQTl5h",
       "name": "Dove e quando",
       "artist": "Benji \u0026 Fede ",
+      "url": "spotify:track:5BAJMdCQqax0oBQigQTl5h",
       "duration": 190409,
       "loudness": -6.158,
       "speechiness": 0.0381,
@@ -1139,13 +1139,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 494,
     "preference": "4.0",
     "traccia": {
       "idSong": "0nFCpnM7nistUWXRZpzOWM",
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "artist": "MACHETE Salmo Lazza ",
+      "url": "spotify:track:0nFCpnM7nistUWXRZpzOWM",
       "duration": 177036,
       "loudness": -5.126,
       "speechiness": 0.283,
@@ -1156,13 +1156,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 856,
     "preference": "5.0",
     "traccia": {
       "idSong": "0nFCpnM7nistUWXRZpzOWM",
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "artist": "MACHETE Salmo Lazza ",
+      "url": "spotify:track:0nFCpnM7nistUWXRZpzOWM",
       "duration": 177036,
       "loudness": -5.126,
       "speechiness": 0.283,
@@ -1173,13 +1173,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 763,
     "preference": "4.0",
     "traccia": {
       "idSong": "0nFCpnM7nistUWXRZpzOWM",
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "artist": "MACHETE Salmo Lazza ",
+      "url": "spotify:track:0nFCpnM7nistUWXRZpzOWM",
       "duration": 177036,
       "loudness": -5.126,
       "speechiness": 0.283,
@@ -1190,13 +1190,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 772,
     "preference": "5.0",
     "traccia": {
       "idSong": "0nFCpnM7nistUWXRZpzOWM",
       "name": "HO PAURA DI USCIRE 2 - prod. Mace",
       "artist": "MACHETE Salmo Lazza ",
+      "url": "spotify:track:0nFCpnM7nistUWXRZpzOWM",
       "duration": 177036,
       "loudness": -5.126,
       "speechiness": 0.283,
@@ -1207,13 +1207,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 548,
     "preference": "3.0",
     "traccia": {
       "idSong": "7piIo15vVy3ULGXSpFs5xc",
       "name": "Mambo Salentino",
       "artist": "Boomdabash Alessandra Amoroso ",
+      "url": "spotify:track:7piIo15vVy3ULGXSpFs5xc",
       "duration": 155413,
       "loudness": -6.707,
       "speechiness": 0.319,
@@ -1224,13 +1224,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 133,
     "preference": "3.0",
     "traccia": {
       "idSong": "7piIo15vVy3ULGXSpFs5xc",
       "name": "Mambo Salentino",
       "artist": "Boomdabash Alessandra Amoroso ",
+      "url": "spotify:track:7piIo15vVy3ULGXSpFs5xc",
       "duration": 155413,
       "loudness": -6.707,
       "speechiness": 0.319,
@@ -1241,13 +1241,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 39,
     "preference": "2.0",
     "traccia": {
       "idSong": "7piIo15vVy3ULGXSpFs5xc",
       "name": "Mambo Salentino",
       "artist": "Boomdabash Alessandra Amoroso ",
+      "url": "spotify:track:7piIo15vVy3ULGXSpFs5xc",
       "duration": 155413,
       "loudness": -6.707,
       "speechiness": 0.319,
@@ -1258,13 +1258,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "14lgKkkbNsJl9fItqnEfpV",
       "name": "Arrogante",
       "artist": "Irama ",
+      "url": "spotify:track:14lgKkkbNsJl9fItqnEfpV",
       "duration": 196470,
       "loudness": -5.71,
       "speechiness": 0.0458,
@@ -1275,13 +1275,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "14lgKkkbNsJl9fItqnEfpV",
       "name": "Arrogante",
       "artist": "Irama ",
+      "url": "spotify:track:14lgKkkbNsJl9fItqnEfpV",
       "duration": 196470,
       "loudness": -5.71,
       "speechiness": 0.0458,
@@ -1292,13 +1292,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "2.0",
     "traccia": {
       "idSong": "1jhHPnmgZepKU8qX4VhRZ0",
       "name": "Rondini Al Guinzaglio",
       "artist": "Ultimo ",
+      "url": "spotify:track:1jhHPnmgZepKU8qX4VhRZ0",
       "duration": 240738,
       "loudness": -7.231,
       "speechiness": 0.0324,
@@ -1309,13 +1309,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "1.0",
     "traccia": {
       "idSong": "1jhHPnmgZepKU8qX4VhRZ0",
       "name": "Rondini Al Guinzaglio",
       "artist": "Ultimo ",
+      "url": "spotify:track:1jhHPnmgZepKU8qX4VhRZ0",
       "duration": 240738,
       "loudness": -7.231,
       "speechiness": 0.0324,
@@ -1326,13 +1326,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1jhHPnmgZepKU8qX4VhRZ0",
       "name": "Rondini Al Guinzaglio",
       "artist": "Ultimo ",
+      "url": "spotify:track:1jhHPnmgZepKU8qX4VhRZ0",
       "duration": 240738,
       "loudness": -7.231,
       "speechiness": 0.0324,
@@ -1343,13 +1343,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "1YzlPeHWPU0JeM0u4ya5zj",
       "name": "90MIN",
       "artist": "Salmo ",
+      "url": "spotify:track:1YzlPeHWPU0JeM0u4ya5zj",
       "duration": 231907,
       "loudness": -7.657,
       "speechiness": 0.301,
@@ -1360,13 +1360,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1YzlPeHWPU0JeM0u4ya5zj",
       "name": "90MIN",
       "artist": "Salmo ",
+      "url": "spotify:track:1YzlPeHWPU0JeM0u4ya5zj",
       "duration": 231907,
       "loudness": -7.657,
       "speechiness": 0.301,
@@ -1377,13 +1377,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1YzlPeHWPU0JeM0u4ya5zj",
       "name": "90MIN",
       "artist": "Salmo ",
+      "url": "spotify:track:1YzlPeHWPU0JeM0u4ya5zj",
       "duration": 231907,
       "loudness": -7.657,
       "speechiness": 0.301,
@@ -1394,13 +1394,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "1YzlPeHWPU0JeM0u4ya5zj",
       "name": "90MIN",
       "artist": "Salmo ",
+      "url": "spotify:track:1YzlPeHWPU0JeM0u4ya5zj",
       "duration": 231907,
       "loudness": -7.657,
       "speechiness": 0.301,
@@ -1411,13 +1411,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1YzlPeHWPU0JeM0u4ya5zj",
       "name": "90MIN",
       "artist": "Salmo ",
+      "url": "spotify:track:1YzlPeHWPU0JeM0u4ya5zj",
       "duration": 231907,
       "loudness": -7.657,
       "speechiness": 0.301,
@@ -1428,13 +1428,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -1445,13 +1445,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -1462,13 +1462,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -1479,13 +1479,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 456,
     "preference": "4.0",
     "traccia": {
       "idSong": "3e3sV65reexWHFHuMlRiAa",
       "name": "Power - Loris Cimino Remix",
       "artist": "Hardwell KSHMR Loris Cimino ",
+      "url": "spotify:track:3e3sV65reexWHFHuMlRiAa",
       "duration": 275101,
       "loudness": -3.862,
       "speechiness": 0.0507,
@@ -1496,13 +1496,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 647,
     "preference": "4.0",
     "traccia": {
       "idSong": "1xEOoCGmv8rotFDo7n8GAg",
       "name": "Power",
       "artist": "Hardwell KSHMR ",
+      "url": "spotify:track:1xEOoCGmv8rotFDo7n8GAg",
       "duration": 148837,
       "loudness": -4.063,
       "speechiness": 0.108,
@@ -1513,13 +1513,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 460,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -1530,13 +1530,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 706,
     "preference": "5.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -1547,13 +1547,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 898,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -1564,13 +1564,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 449,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -1581,13 +1581,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 523,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -1598,13 +1598,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 1075,
     "preference": "2.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -1615,13 +1615,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 687,
     "preference": "1.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -1632,13 +1632,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 801,
     "preference": "3.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -1649,13 +1649,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 585,
     "preference": "3.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -1666,13 +1666,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 1023,
     "preference": "4.0",
     "traccia": {
       "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
       "name": "In the End",
       "artist": "Linkin Park ",
+      "url": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
       "duration": 216880,
       "loudness": -6.407,
       "speechiness": 0.0498,
@@ -1683,13 +1683,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 492,
     "preference": "5.0",
     "traccia": {
       "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
       "name": "In the End",
       "artist": "Linkin Park ",
+      "url": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
       "duration": 216880,
       "loudness": -6.407,
       "speechiness": 0.0498,
@@ -1700,13 +1700,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 355,
     "preference": "3.0",
     "traccia": {
       "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
       "name": "In the End",
       "artist": "Linkin Park ",
+      "url": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
       "duration": 216880,
       "loudness": -6.407,
       "speechiness": 0.0498,
@@ -1717,13 +1717,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 135,
     "preference": "2.0",
     "traccia": {
       "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
       "name": "In the End",
       "artist": "Linkin Park ",
+      "url": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
       "duration": 216880,
       "loudness": -6.407,
       "speechiness": 0.0498,
@@ -1734,13 +1734,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 43,
     "preference": "3.0",
     "traccia": {
       "idSong": "60a0Rd6pjrkxjPbaKzXjfq",
       "name": "In the End",
       "artist": "Linkin Park ",
+      "url": "spotify:track:60a0Rd6pjrkxjPbaKzXjfq",
       "duration": 216880,
       "loudness": -6.407,
       "speechiness": 0.0498,
@@ -1751,13 +1751,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "3uEu7hcvgrSOrgnMxzqugh",
       "name": "Pure Grinding",
       "artist": "Avicii ",
+      "url": "spotify:track:3uEu7hcvgrSOrgnMxzqugh",
       "duration": 171960,
       "loudness": -3.462,
       "speechiness": 0.0627,
@@ -1768,13 +1768,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "4.0",
     "traccia": {
       "idSong": "3uEu7hcvgrSOrgnMxzqugh",
       "name": "Pure Grinding",
       "artist": "Avicii ",
+      "url": "spotify:track:3uEu7hcvgrSOrgnMxzqugh",
       "duration": 171960,
       "loudness": -3.462,
       "speechiness": 0.0627,
@@ -1785,13 +1785,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "3uEu7hcvgrSOrgnMxzqugh",
       "name": "Pure Grinding",
       "artist": "Avicii ",
+      "url": "spotify:track:3uEu7hcvgrSOrgnMxzqugh",
       "duration": 171960,
       "loudness": -3.462,
       "speechiness": 0.0627,
@@ -1802,13 +1802,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "1.0",
     "traccia": {
       "idSong": "1geovaCdfs5fSa4NNgFPVe",
       "name": "Bella Ciao",
       "artist": "Hardwell Maddix ",
+      "url": "spotify:track:1geovaCdfs5fSa4NNgFPVe",
       "duration": 203769,
       "loudness": -4.688,
       "speechiness": 0.0462,
@@ -1819,13 +1819,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "4.0",
     "traccia": {
       "idSong": "1geovaCdfs5fSa4NNgFPVe",
       "name": "Bella Ciao",
       "artist": "Hardwell Maddix ",
+      "url": "spotify:track:1geovaCdfs5fSa4NNgFPVe",
       "duration": 203769,
       "loudness": -4.688,
       "speechiness": 0.0462,
@@ -1836,13 +1836,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "1geovaCdfs5fSa4NNgFPVe",
       "name": "Bella Ciao",
       "artist": "Hardwell Maddix ",
+      "url": "spotify:track:1geovaCdfs5fSa4NNgFPVe",
       "duration": 203769,
       "loudness": -4.688,
       "speechiness": 0.0462,
@@ -1853,13 +1853,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "4.0",
     "traccia": {
       "idSong": "1geovaCdfs5fSa4NNgFPVe",
       "name": "Bella Ciao",
       "artist": "Hardwell Maddix ",
+      "url": "spotify:track:1geovaCdfs5fSa4NNgFPVe",
       "duration": 203769,
       "loudness": -4.688,
       "speechiness": 0.0462,
@@ -1870,13 +1870,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 504,
     "preference": "2.0",
     "traccia": {
       "idSong": "7bBIBrSmHvdMlTC7b9p8Vq",
       "name": "Playa",
       "artist": "Baby K ",
+      "url": "spotify:track:7bBIBrSmHvdMlTC7b9p8Vq",
       "duration": 192000,
       "loudness": -5.854,
       "speechiness": 0.168,
@@ -1887,13 +1887,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 524,
     "preference": "3.0",
     "traccia": {
       "idSong": "7bBIBrSmHvdMlTC7b9p8Vq",
       "name": "Playa",
       "artist": "Baby K ",
+      "url": "spotify:track:7bBIBrSmHvdMlTC7b9p8Vq",
       "duration": 192000,
       "loudness": -5.854,
       "speechiness": 0.168,
@@ -1904,13 +1904,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 404,
     "preference": "2.0",
     "traccia": {
       "idSong": "7bBIBrSmHvdMlTC7b9p8Vq",
       "name": "Playa",
       "artist": "Baby K ",
+      "url": "spotify:track:7bBIBrSmHvdMlTC7b9p8Vq",
       "duration": 192000,
       "loudness": -5.854,
       "speechiness": 0.168,
@@ -1921,13 +1921,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 435,
     "preference": "3.0",
     "traccia": {
       "idSong": "7bBIBrSmHvdMlTC7b9p8Vq",
       "name": "Playa",
       "artist": "Baby K ",
+      "url": "spotify:track:7bBIBrSmHvdMlTC7b9p8Vq",
       "duration": 192000,
       "loudness": -5.854,
       "speechiness": 0.168,
@@ -1938,13 +1938,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 407,
     "preference": "3.0",
     "traccia": {
       "idSong": "7bBIBrSmHvdMlTC7b9p8Vq",
       "name": "Playa",
       "artist": "Baby K ",
+      "url": "spotify:track:7bBIBrSmHvdMlTC7b9p8Vq",
       "duration": 192000,
       "loudness": -5.854,
       "speechiness": 0.168,
@@ -1955,13 +1955,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 482,
     "preference": "2.0",
     "traccia": {
       "idSong": "2tVNMtgZ2CQpTx7vgcuTkL",
       "name": "Domenica",
       "artist": "Coez ",
+      "url": "spotify:track:2tVNMtgZ2CQpTx7vgcuTkL",
       "duration": 201546,
       "loudness": -6.348,
       "speechiness": 0.0428,
@@ -1972,13 +1972,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 427,
     "preference": "1.0",
     "traccia": {
       "idSong": "2tVNMtgZ2CQpTx7vgcuTkL",
       "name": "Domenica",
       "artist": "Coez ",
+      "url": "spotify:track:2tVNMtgZ2CQpTx7vgcuTkL",
       "duration": 201546,
       "loudness": -6.348,
       "speechiness": 0.0428,
@@ -1989,13 +1989,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 482,
     "preference": "3.0",
     "traccia": {
       "idSong": "0hVXuCcriWRGvwMV1r5Yn9",
       "name": "I Don\u0027t Care (with Justin Bieber)",
       "artist": "Ed Sheeran Justin Bieber ",
+      "url": "spotify:track:0hVXuCcriWRGvwMV1r5Yn9",
       "duration": 219946,
       "loudness": -5.041,
       "speechiness": 0.0442,
@@ -2006,13 +2006,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 400,
     "preference": "2.0",
     "traccia": {
       "idSong": "0hVXuCcriWRGvwMV1r5Yn9",
       "name": "I Don\u0027t Care (with Justin Bieber)",
       "artist": "Ed Sheeran Justin Bieber ",
+      "url": "spotify:track:0hVXuCcriWRGvwMV1r5Yn9",
       "duration": 219946,
       "loudness": -5.041,
       "speechiness": 0.0442,
@@ -2023,13 +2023,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 387,
     "preference": "3.0",
     "traccia": {
       "idSong": "0hVXuCcriWRGvwMV1r5Yn9",
       "name": "I Don\u0027t Care (with Justin Bieber)",
       "artist": "Ed Sheeran Justin Bieber ",
+      "url": "spotify:track:0hVXuCcriWRGvwMV1r5Yn9",
       "duration": 219946,
       "loudness": -5.041,
       "speechiness": 0.0442,
@@ -2040,13 +2040,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 404,
     "preference": "3.0",
     "traccia": {
       "idSong": "7Feaw9WAEREY0DUOSXJLOM",
       "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
       "artist": "Martin Garrix Macklemore Fall Out Boy ",
+      "url": "spotify:track:7Feaw9WAEREY0DUOSXJLOM",
       "duration": 163804,
       "loudness": -6.976,
       "speechiness": 0.0566,
@@ -2057,13 +2057,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 392,
     "preference": "4.0",
     "traccia": {
       "idSong": "7Feaw9WAEREY0DUOSXJLOM",
       "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
       "artist": "Martin Garrix Macklemore Fall Out Boy ",
+      "url": "spotify:track:7Feaw9WAEREY0DUOSXJLOM",
       "duration": 163804,
       "loudness": -6.976,
       "speechiness": 0.0566,
@@ -2074,13 +2074,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 556,
     "preference": "1.0",
     "traccia": {
       "idSong": "7iTTQvztpfrDneVSX9IGBD",
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "artist": "Luche Sfera Ebbasta ",
+      "url": "spotify:track:7iTTQvztpfrDneVSX9IGBD",
       "duration": 171375,
       "loudness": -5.094,
       "speechiness": 0.123,
@@ -2091,13 +2091,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 383,
     "preference": "4.0",
     "traccia": {
       "idSong": "7iTTQvztpfrDneVSX9IGBD",
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "artist": "Luche Sfera Ebbasta ",
+      "url": "spotify:track:7iTTQvztpfrDneVSX9IGBD",
       "duration": 171375,
       "loudness": -5.094,
       "speechiness": 0.123,
@@ -2108,13 +2108,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 463,
     "preference": "3.0",
     "traccia": {
       "idSong": "7iTTQvztpfrDneVSX9IGBD",
       "name": "Stamm Fort (feat. Sfera Ebbasta)",
       "artist": "Luche Sfera Ebbasta ",
+      "url": "spotify:track:7iTTQvztpfrDneVSX9IGBD",
       "duration": 171375,
       "loudness": -5.094,
       "speechiness": 0.123,
@@ -2125,13 +2125,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "4.0",
     "traccia": {
       "idSong": "2dpaYNEQHiRxtZbfNsse99",
       "name": "Happier",
       "artist": "Marshmello Bastille ",
+      "url": "spotify:track:2dpaYNEQHiRxtZbfNsse99",
       "duration": 214289,
       "loudness": -2.749,
       "speechiness": 0.0452,
@@ -2142,13 +2142,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 40,
     "preference": "3.0",
     "traccia": {
       "idSong": "5f7CQvnsXnB7XeSo7drTSL",
       "name": "Happier (feat. Bastille)",
       "artist": "Marshmello Bastille ",
+      "url": "spotify:track:5f7CQvnsXnB7XeSo7drTSL",
       "duration": 211786,
       "loudness": -2.674,
       "speechiness": 0.0423,
@@ -2159,13 +2159,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "1.0",
     "traccia": {
       "idSong": "2dpaYNEQHiRxtZbfNsse99",
       "name": "Happier",
       "artist": "Marshmello Bastille ",
+      "url": "spotify:track:2dpaYNEQHiRxtZbfNsse99",
       "duration": 214289,
       "loudness": -2.749,
       "speechiness": 0.0452,
@@ -2176,13 +2176,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "2.0",
     "traccia": {
       "idSong": "1snWlbcbgQpJfknoI30DWG",
       "name": "Darkside",
       "artist": "Alan Walker Au/Ra Tomine Harket ",
+      "url": "spotify:track:1snWlbcbgQpJfknoI30DWG",
       "duration": 211866,
       "loudness": -5.06,
       "speechiness": 0.0502,
@@ -2193,13 +2193,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "1.0",
     "traccia": {
       "idSong": "1snWlbcbgQpJfknoI30DWG",
       "name": "Darkside",
       "artist": "Alan Walker Au/Ra Tomine Harket ",
+      "url": "spotify:track:1snWlbcbgQpJfknoI30DWG",
       "duration": 211866,
       "loudness": -5.06,
       "speechiness": 0.0502,
@@ -2210,13 +2210,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "2.0",
     "traccia": {
       "idSong": "1snWlbcbgQpJfknoI30DWG",
       "name": "Darkside",
       "artist": "Alan Walker Au/Ra Tomine Harket ",
+      "url": "spotify:track:1snWlbcbgQpJfknoI30DWG",
       "duration": 211866,
       "loudness": -5.06,
       "speechiness": 0.0502,
@@ -2227,13 +2227,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 36,
     "preference": "3.0",
     "traccia": {
       "idSong": "7iwhbx1YQcQ675DTj6AmAb",
       "name": "Mamacita (feat. Farruko)",
       "artist": "Jason Derulo Farruko ",
+      "url": "spotify:track:7iwhbx1YQcQ675DTj6AmAb",
       "duration": 204064,
       "loudness": -3.67,
       "speechiness": 0.34,
@@ -2244,13 +2244,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "7iwhbx1YQcQ675DTj6AmAb",
       "name": "Mamacita (feat. Farruko)",
       "artist": "Jason Derulo Farruko ",
+      "url": "spotify:track:7iwhbx1YQcQ675DTj6AmAb",
       "duration": 204064,
       "loudness": -3.67,
       "speechiness": 0.34,
@@ -2261,13 +2261,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "7iwhbx1YQcQ675DTj6AmAb",
       "name": "Mamacita (feat. Farruko)",
       "artist": "Jason Derulo Farruko ",
+      "url": "spotify:track:7iwhbx1YQcQ675DTj6AmAb",
       "duration": 204064,
       "loudness": -3.67,
       "speechiness": 0.34,
@@ -2278,13 +2278,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "0kHyKhJMukHEPfeh8s7rdM",
       "name": "Born To Be Yours",
       "artist": "Kygo Imagine Dragons ",
+      "url": "spotify:track:0kHyKhJMukHEPfeh8s7rdM",
       "duration": 193320,
       "loudness": -5.84,
       "speechiness": 0.0357,
@@ -2295,13 +2295,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 37,
     "preference": "3.0",
     "traccia": {
       "idSong": "0kHyKhJMukHEPfeh8s7rdM",
       "name": "Born To Be Yours",
       "artist": "Kygo Imagine Dragons ",
+      "url": "spotify:track:0kHyKhJMukHEPfeh8s7rdM",
       "duration": 193320,
       "loudness": -5.84,
       "speechiness": 0.0357,
@@ -2312,13 +2312,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 74,
     "preference": "2.0",
     "traccia": {
       "idSong": "0kHyKhJMukHEPfeh8s7rdM",
       "name": "Born To Be Yours",
       "artist": "Kygo Imagine Dragons ",
+      "url": "spotify:track:0kHyKhJMukHEPfeh8s7rdM",
       "duration": 193320,
       "loudness": -5.84,
       "speechiness": 0.0357,
@@ -2329,13 +2329,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 267,
     "preference": "2.0",
     "traccia": {
       "idSong": "0kHyKhJMukHEPfeh8s7rdM",
       "name": "Born To Be Yours",
       "artist": "Kygo Imagine Dragons ",
+      "url": "spotify:track:0kHyKhJMukHEPfeh8s7rdM",
       "duration": 193320,
       "loudness": -5.84,
       "speechiness": 0.0357,
@@ -2346,13 +2346,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 356,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -2363,13 +2363,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 366,
     "preference": "3.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -2380,13 +2380,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 385,
     "preference": "4.0",
     "traccia": {
       "idSong": "0Zky844NuMwLNJoCRJUTa2",
       "name": "\u0027Till I Collapse",
       "artist": "Eminem Nate Dogg ",
+      "url": "spotify:track:0Zky844NuMwLNJoCRJUTa2",
       "duration": 299880,
       "loudness": -5.247,
       "speechiness": 0.251,
@@ -2397,13 +2397,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 386,
     "preference": "2.0",
     "traccia": {
       "idSong": "08bNPGLD8AhKpnnERrAc6G",
       "name": "FRIENDS",
       "artist": "Marshmello Anne-Marie ",
+      "url": "spotify:track:08bNPGLD8AhKpnnERrAc6G",
       "duration": 202620,
       "loudness": -2.384,
       "speechiness": 0.0504,
@@ -2414,13 +2414,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 354,
     "preference": "3.0",
     "traccia": {
       "idSong": "08bNPGLD8AhKpnnERrAc6G",
       "name": "FRIENDS",
       "artist": "Marshmello Anne-Marie ",
+      "url": "spotify:track:08bNPGLD8AhKpnnERrAc6G",
       "duration": 202620,
       "loudness": -2.384,
       "speechiness": 0.0504,
@@ -2431,13 +2431,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 348,
     "preference": "1.0",
     "traccia": {
       "idSong": "72J8O7kyKTicwoUxuu0eYy",
       "name": "FRIENDS - Justin Caruso Remix",
       "artist": "Marshmello Anne-Marie Justin Caruso ",
+      "url": "spotify:track:72J8O7kyKTicwoUxuu0eYy",
       "duration": 194526,
       "loudness": -4.581,
       "speechiness": 0.0743,
@@ -2448,13 +2448,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 364,
     "preference": "3.0",
     "traccia": {
       "idSong": "08bNPGLD8AhKpnnERrAc6G",
       "name": "FRIENDS",
       "artist": "Marshmello Anne-Marie ",
+      "url": "spotify:track:08bNPGLD8AhKpnnERrAc6G",
       "duration": 202620,
       "loudness": -2.384,
       "speechiness": 0.0504,
@@ -2465,13 +2465,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 361,
     "preference": "4.0",
     "traccia": {
       "idSong": "7Feaw9WAEREY0DUOSXJLOM",
       "name": "Summer Days (feat. Macklemore \u0026 Patrick Stump of Fall Out Boy)",
       "artist": "Martin Garrix Macklemore Fall Out Boy ",
+      "url": "spotify:track:7Feaw9WAEREY0DUOSXJLOM",
       "duration": 163804,
       "loudness": -6.976,
       "speechiness": 0.0566,
@@ -2482,13 +2482,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 381,
     "preference": "1.0",
     "traccia": {
       "idSong": "6OEHjJJvdkk1Ln0p0AZdyz",
       "name": "Girls Like You",
       "artist": "Maroon 5 ",
+      "url": "spotify:track:6OEHjJJvdkk1Ln0p0AZdyz",
       "duration": 215229,
       "loudness": -7.054,
       "speechiness": 0.0646,
@@ -2499,13 +2499,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 443,
     "preference": "2.0",
     "traccia": {
       "idSong": "0QUVqdhv9NQdCXkNFFz50v",
       "name": "Girls Like You",
       "artist": "Maroon 5 ",
+      "url": "spotify:track:0QUVqdhv9NQdCXkNFFz50v",
       "duration": 215229,
       "loudness": -7.093,
       "speechiness": 0.0692,
@@ -2516,13 +2516,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 365,
     "preference": "2.0",
     "traccia": {
       "idSong": "0QUVqdhv9NQdCXkNFFz50v",
       "name": "Girls Like You",
       "artist": "Maroon 5 ",
+      "url": "spotify:track:0QUVqdhv9NQdCXkNFFz50v",
       "duration": 215229,
       "loudness": -7.093,
       "speechiness": 0.0692,
@@ -2533,13 +2533,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 411,
     "preference": "3.0",
     "traccia": {
       "idSong": "5oS5tjj9sYNocMl3bW0w2Y",
       "name": "Kiki Do You Love Me",
       "artist": "Shrey Singhal ",
+      "url": "spotify:track:5oS5tjj9sYNocMl3bW0w2Y",
       "duration": 236617,
       "loudness": -11.295,
       "speechiness": 0.107,
@@ -2550,13 +2550,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 398,
     "preference": "3.0",
     "traccia": {
       "idSong": "5oS5tjj9sYNocMl3bW0w2Y",
       "name": "Kiki Do You Love Me",
       "artist": "Shrey Singhal ",
+      "url": "spotify:track:5oS5tjj9sYNocMl3bW0w2Y",
       "duration": 236617,
       "loudness": -11.295,
       "speechiness": 0.107,
@@ -2567,13 +2567,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 341,
     "preference": "4.0",
     "traccia": {
       "idSong": "0bAkKNCQfWkexHFn7fIKns",
       "name": "In My Feelings",
       "artist": "Drake ",
+      "url": "spotify:track:0bAkKNCQfWkexHFn7fIKns",
       "duration": 217933,
       "loudness": -9.445,
       "speechiness": 0.139,
@@ -2584,13 +2584,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "2.0",
     "traccia": {
       "idSong": "0bAkKNCQfWkexHFn7fIKns",
       "name": "In My Feelings",
       "artist": "Drake ",
+      "url": "spotify:track:0bAkKNCQfWkexHFn7fIKns",
       "duration": 217933,
       "loudness": -9.445,
       "speechiness": 0.139,
@@ -2601,13 +2601,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "3.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
@@ -2618,13 +2618,13 @@
     }
   },
   {
-    "timestamp": 0,
     "power": 38,
     "preference": "3.0",
     "traccia": {
       "idSong": "5w9c2J52mkdntKOmRLeM2m",
       "name": "Con Calma",
       "artist": "Daddy Yankee Snow ",
+      "url": "spotify:track:5w9c2J52mkdntKOmRLeM2m",
       "duration": 193226,
       "loudness": -2.652,
       "speechiness": 0.0593,
