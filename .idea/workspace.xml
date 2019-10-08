@@ -2,22 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ccbb29b-ff6d-47ad-9d53-05c460f29e7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dance.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/energy.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/extractor/control/CarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valence.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/danceability.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/danceability.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/energy.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/energy.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/loudness.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/loudness.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/speechiness.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/speechiness.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/tempo.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/tempo.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/duplication/valence.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/duplication/valence.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/danceability.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/single/danceability.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/energy.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/single/energy.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/loudness.arff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/speechiness.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/single/speechiness.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/tempo.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/single/tempo.arff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/outMod/single/valence.arff" beforeDir="false" afterPath="$PROJECT_DIR$/outMod/single/valence.arff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml/duplication/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml/duplication/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml/single/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml/single/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml_cv/duplication/prediction.json" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml_cv/duplication/prediction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml_cv/duplication/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml_cv/duplication/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml_cv/single/prediction.json" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml_cv/single/prediction.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_ml_cv/single/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result_ml_cv/single/summary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/extractor/MainExec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/extractor/MainExec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/extractor/model/Preference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/extractor/model/Preference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,74 +30,38 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/MainExec.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="181" column="40" selection-start-line="181" selection-start-column="40" selection-end-line="181" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/Extractor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="66" column="41" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result_ml/duplication/danceability_music_search.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="126" selection-start-line="126" selection-end-line="127" selection-end-column="40" />
+            <state relative-caret-position="1590">
+              <caret line="125" selection-start-line="119" selection-end-line="127" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/phone.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="187" selection-start-line="25" selection-start-column="187" selection-end-line="25" selection-end-column="187" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/energy.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-865">
-              <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="108" />
+            <state relative-caret-position="1080">
+              <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Result.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="e#238#239#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,35 +70,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="540">
               <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/PredictedValues.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/CarEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="80" selection-start-line="80" selection-end-line="103" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java">
+        <entry file="file://$PROJECT_DIR$/dance.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/valence.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Preference.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-              <folding>
-                <element signature="e#533#534#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -172,7 +146,6 @@
         <option value="$PROJECT_DIR$/Spotify features.txt" />
         <option value="$PROJECT_DIR$/result_ml/duplication/distanceRecap.txt" />
         <option value="$PROJECT_DIR$/result_ml/duplication/tempo.json" />
-        <option value="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/model/PredictedValues.java" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/model/Result.java" />
@@ -184,7 +157,13 @@
         <option value="$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/model/Preference.java" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/Costanti.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java" />
+        <option value="$PROJECT_DIR$/result_ml/single/summary.txt" />
+        <option value="$PROJECT_DIR$/result_ml/duplication/summary.txt" />
+        <option value="$PROJECT_DIR$/result_ml_cv/single/summary.txt" />
+        <option value="$PROJECT_DIR$/result_ml_cv/duplication/summary.txt" />
         <option value="$PROJECT_DIR$/src/main/java/extractor/MainExec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/extractor/control/CarEx.java" />
       </list>
     </option>
   </component>
@@ -196,9 +175,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-1920" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="1RvZuUsNdQ22h63s0TIj4NMZB2J" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -238,6 +219,29 @@
               <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
               <item name="result_ml" type="462c0819:PsiDirectoryNode" />
               <item name="duplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+              <item name="duplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tesi.extractor" type="462c0819:PsiDirectoryNode" />
+              <item name="result_ml_cv" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tesi.extractor" type="b2602c69:ProjectViewProjectNode" />
@@ -300,8 +304,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/result_ml_cv/single" />
     </key>
@@ -468,14 +476,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569187665802</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="song search from single car">
+      <created>1569449835383</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569449835383</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3221512" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3684771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,7 +500,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32871288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28613862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -511,12 +526,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="song search from single car" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result_ml/duplication/danceability.json" />
-    <entry file="file://$PROJECT_DIR$/result_ml/duplication/energy.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/Extractor.java" />
-    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/distanceRecap.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/MLObject.java" />
-    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability.json" />
     <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/energy.json" />
     <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/loudness.json" />
     <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/speechiness.json" />
@@ -551,33 +560,10 @@
         <state relative-caret-position="-57074" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/summary.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml/single/summary.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-217">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml/duplication/summary.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/result_ml/single/prediction.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml/duplication/prediction.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/result_ml/single/energy_music_search.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/summary.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/tempo_music_search.txt">
@@ -604,13 +590,6 @@
     <entry file="file://$PROJECT_DIR$/result_ml_cv/single/speechiness_music_search.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability_music_search.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/speechiness_music_search.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -631,20 +610,6 @@
     <entry file="file://$PROJECT_DIR$/outMod/duplication/loudness.arff">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/phone.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Preference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/outMod/single/loudness.arff">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -664,33 +629,6 @@
     <entry file="file://$PROJECT_DIR$/outMod/single/speechiness.arff">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-865">
-          <caret line="63" column="66" lean-forward="true" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Result.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -701,9 +639,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/prediction.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/PredictedValues.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
+        <state relative-caret-position="720">
           <caret line="80" selection-start-line="80" selection-end-line="103" selection-end-column="5" />
           <folding>
             <element signature="e#125#126#0" expanded="true" />
@@ -714,40 +659,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/result_ml/duplication/danceability_music_search.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/MainExec.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Traccia.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="181" column="40" selection-start-line="181" selection-start-column="40" selection-end-line="181" selection-end-column="40" />
+        <state relative-caret-position="345">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="52" lean-forward="true" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="126" selection-start-line="126" selection-end-line="127" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/Extractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="338">
           <caret line="66" column="41" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/danceability_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/danceability_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/danceability_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/danceability_music_search.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/single/summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml/duplication/summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/single/summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_ml_cv/duplication/summary.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/MainExec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2315">
+          <caret line="75" column="30" selection-start-line="75" selection-start-column="30" selection-end-line="75" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="125" selection-start-line="119" selection-end-line="127" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/phone.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="187" selection-start-line="25" selection-start-column="187" selection-end-line="25" selection-end-column="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/energy.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/MachineLearningCV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dance.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valence.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/model/Preference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/extractor/control/CarEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -11,6 +11,7 @@ import com.wrapper.spotify.model_objects.specification.Track;
 import com.wrapper.spotify.requests.authorization.client_credentials.ClientCredentialsRequest;
 import com.wrapper.spotify.requests.data.tracks.GetAudioFeaturesForTrackRequest;
 import com.wrapper.spotify.requests.data.tracks.GetTrackRequest;
+import extractor.control.CarEx;
 import extractor.control.Extractor;
 import extractor.control.MachineLearning;
 import extractor.control.MachineLearningCV;
@@ -72,6 +73,7 @@ public class MainExec {
         }
 
 
+        CarEx c = new CarEx();
         //MachineLearningCV ml = new MachineLearningCV();
 
         //MachineLearning ml = new MachineLearning();

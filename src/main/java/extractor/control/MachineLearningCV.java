@@ -137,6 +137,7 @@ public class MachineLearningCV {
             fr.write(summary + "\n");
             fr.close();
 
+            System.out.println(eval.predictions().size());
 
             for (int i = 0 ; i < eval.predictions().size(); i++){
                 Prediction p = eval.predictions().get(i);
