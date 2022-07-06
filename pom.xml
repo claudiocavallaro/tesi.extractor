@@ -19,7 +19,7 @@
         <springcontext>5.0.9.RELEASE</springcontext>
         <swagger>2.6.1</swagger>
         <swagger.jaxrs>1.5.13</swagger.jaxrs>
-        <jcraft>0.1.53</jcraft>
+        <jcraft>0.1.54</jcraft>
         <springfox>2.4.0</springfox>
         <jackson>2.11.0</jackson>
     </properties>
